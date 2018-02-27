@@ -1,6 +1,4 @@
-========================================
-THE _ UPDATE
-========================================
+# THE _ UPDATE
 
 Content additions:
   >
@@ -8,9 +6,7 @@ Content additions:
 Content changes:
   >
 
-===========================
-BATCH FILE
-===========================
+# BATCH FILE
 
 Deletes:
   >
