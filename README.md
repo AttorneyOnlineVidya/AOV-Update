@@ -1,2 +1,19 @@
-# AOV-Update
-Attorney Online Vidya - Update
+========================================
+THE _ UPDATE
+========================================
+
+Content additions:
+  >
+
+Content changes:
+  >
+
+===========================
+BATCH FILE
+===========================
+
+Deletes:
+  >
+
+Changes:
+  >
