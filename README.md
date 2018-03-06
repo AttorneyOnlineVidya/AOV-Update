@@ -5,7 +5,8 @@ Botch fixes:
   Kokichi's new default ini had soundposts and the wrong number of emotes.
   Athena School emote pack was missed entirely.
   [MGR] Pursuit.mp3 was misnamed as [MGSR].
-
+  Repeated and mislabeled instance of [PLvsAA] Fiery People.mp3 named as [DGS] Fiery People.mp3.
+  
 Content additions:
   
 
@@ -15,7 +16,7 @@ Content changes:
 # BATCH FILE
 
 Deletes:
-  
+  [DGS] Fiery People.mp3.
 
 Changes:
  Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
