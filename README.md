@@ -9,7 +9,7 @@ Botch fixes:
   Repeated and mislabeled instance of [PLvsAA] Fiery People.mp3 named as [DGS] Fiery People.mp3.
   
 Content additions:
-  
+  Hajime's updated zoom with buttons.
 
 Content changes:
   
