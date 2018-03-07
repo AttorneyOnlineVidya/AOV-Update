@@ -5,7 +5,8 @@ Botch fixes:
   Kokichi's new default ini had soundposts and the wrong number of emotes.
   Athena School emote pack was missed entirely.
   [MGR] Pursuit.mp3 was misnamed as [MGSR].
-
+  Two instances of [AAI2] Objection!.mp3 in the music yaml.
+  
 Content additions:
   
 
