@@ -12,7 +12,8 @@ Botch fixes:
 Content additions:
   * Hajime's updated zoom with buttons.
   * Dante's new gun emotes.
-
+  * Kay's mmh emote.
+  * Nahyuta Butterfly emotes.
 Content changes:
   
 
