@@ -15,7 +15,7 @@ Content additions:
   * Kay's mmh emote.
   * Nahyuta Butterfly emotes.
 Content changes:
-  
+  * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
 
 # BATCH FILE
 
