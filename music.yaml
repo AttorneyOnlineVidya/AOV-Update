@@ -772,8 +772,6 @@
       length: 112
     - name: '[BB] Confess The Truth.mp3'
       length: 277
-    - name: '[DP] Confess the Truth.mp3'
-      length: 165
 - category: ===LAST CHANCE===
   songs:
     - name: '[PLvsAA] Prelude to The Turnabout.mp3'
@@ -1114,6 +1112,8 @@
       length: 67
     - name: '[DP] Pillow Stains.mp3'
       length: 125
+    - name: '[DP] York and Zach.mp3'
+      length: 165
     - name: '[CB] Blue.mp3'
       length: 300
 - category: ===VICTORY CELEBRATION===
