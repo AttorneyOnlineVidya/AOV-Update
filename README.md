@@ -17,10 +17,11 @@ Content additions:
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
+  * Moved Butz' Steel Samurai emotes to the Butz AAI character folder.
 # BATCH FILE
-
 Deletes:
-  [DGS] Fiery People.mp3.
-
+  * [DGS] Fiery People.mp3.
+  * Some buttons, emotes and such from the Butz character folder, all related to the steel samurai.
 Changes:
  Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
+ 
