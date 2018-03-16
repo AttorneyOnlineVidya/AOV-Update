@@ -17,6 +17,7 @@ Content additions:
   * New Fulbright folder.
   * Ryu Arm was added.
   * BlackquillDDWit was added.
+  * Olivia Aldente was added.
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
