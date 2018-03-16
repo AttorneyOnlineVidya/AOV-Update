@@ -3,7 +3,7 @@
 Botch fixes:
   * Kokichi was missing the last 3 buttons.
   * Kokichi's new default ini had soundposts and the wrong number of emotes.
-  * Athena School emote pack was missed entirely.
+  * Athena School emote pack was missed entirely, also added some "Widget Blank" emotes.
   * [MGR] Pursuit.mp3 was misnamed as [MGSR].
   * Two instances of [AAI2] Objection!.mp3 in the music yaml.
   * Repeated and mislabeled instance of [PLvsAA] Fiery People.mp3 named as [DGS] Fiery People.mp3.
@@ -18,6 +18,7 @@ Content additions:
   * Ryu Arm was added.
   * BlackquillDDWit was added.
   * Olivia Aldente was added.
+  * Klavier DD Pro was added.
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
