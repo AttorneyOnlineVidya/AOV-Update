@@ -16,6 +16,7 @@ Content additions:
   * Nahyuta Butterfly emotes.
   * New Fulbright folder.
   * Ryu Arm was added.
+  * BlackquillDDWit was added.
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
