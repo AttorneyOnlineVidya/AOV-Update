@@ -2,6 +2,9 @@ ren base\sounds\music\"[MGSR] Pursuit.mp3" "[MGR] Pursuit.mp3"
 ren base\sounds\music\"[DP] Confess the Truth.mp3" "[DP] York and Zach.mp3"
 rd /S /Q "base\characters\Fulbright"
 
+del base\characters\Wellington\(a)break.gif
+del base\characters\Wellington\(b)break.gif
+
 
 del base\characters\Butz\(a)samuraicry.gif
 del base\characters\Butz\(b)samuraicry.gif
