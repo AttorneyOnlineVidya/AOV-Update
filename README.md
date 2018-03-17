@@ -6,7 +6,8 @@ Botch fixes:
   * [MGR] Pursuit.mp3 was misnamed as [MGSR].
   * Two instances of [AAI2] Objection!.mp3 in the music yaml.
   * Repeated and mislabeled instance of [PLvsAA] Fiery People.mp3 named as [DGS] Fiery People.mp3.
-  * Wrong timer in song [DGS] Suspicious People.mp3.  
+  * Wrong timer in song [DGS] Suspicious People.mp3.
+  
 Content additions:
   * Hajime's updated zoom with buttons.
   * Dante's new gun emotes.
@@ -19,6 +20,7 @@ Content additions:
   * Klavier DD Pro was added.
   * New Hazama's emotes.  
   * New Juniper School folder.
+  
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
