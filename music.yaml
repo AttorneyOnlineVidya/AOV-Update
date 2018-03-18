@@ -413,7 +413,7 @@
     - name: '[999] Investigation (Middle).mp3'
       length: 290
     - name: '[999] Investigation (Core).mp3'
-      lenght: 252
+      length: 252
     - name: '[TT] Investigation.mp3'
       length: 192
     - name: '[GT] Investigation (Core).mp3'
@@ -732,6 +732,8 @@
       length: 169
     - name: '[P5] Objection!.mp3'
       length: 230
+    - name: '[MGR] Objection!.mp3'
+      length: 245
 - category: ===CONFESS THE TRUTH===
   songs:
     - name: '[AA] Confess The Truth.mp3'

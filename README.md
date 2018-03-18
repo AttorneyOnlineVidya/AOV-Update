@@ -1,4 +1,5 @@
-# THE _ UPDATE
+# THE UPDATE MIGHT SMILE
+
 Botch fixes:
   * Kokichi was missing the last 3 buttons.
   * Kokichi's new default ini had soundposts and the wrong number of emotes.
@@ -18,20 +19,18 @@ Content additions:
   * BlackquillDDWit was added.
   * Olivia Aldente was added.
   * Klavier DD Pro was added.
-  * New Hazama's emotes.  
-  * New Juniper School folder.
-  
+  * New Hazama's emotes.
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
   * Moved Butz' Steel Samurai emotes to the Butz AAI character folder.
-  
-# BATCH FILE
+ 
+BATCH FILE
 Deletes:
   * [DGS] Fiery People.mp3.
   * Some buttons, emotes and such from the Butz character folder, all related to the steel samurai.
-  * Fulbright's and Juniper School's character folder.
+  * Fulbright's character folder.
   * Deletes both (a) and (b) break.gif from Wellington's character folder.
 Changes:
-  * Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
+ Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
  
