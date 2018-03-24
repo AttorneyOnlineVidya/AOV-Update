@@ -424,6 +424,8 @@
       length: 245
     - name: '[DR2] Investigation.mp3'
       length: 275
+    - name: '[P3] Investigation (Opening).mp3'
+      length: 149
     - name: '[DP] Investigation (Opening).mp3'
       length: 175
     - name: '[DP] Investigation (Core).mp3'
