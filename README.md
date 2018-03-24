@@ -32,6 +32,8 @@ Deletes:
   * Some buttons, emotes and such from the Butz character folder, all related to the steel samurai.
   * Fulbright's character folder.
   * Deletes both (a) and (b) break.gif from Wellington's character folder.
+  * Rydia's character folder.
+  * Cindy Law's character folder.
 Changes:
  Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
  
