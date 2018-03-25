@@ -21,6 +21,7 @@ Content additions:
   * Klavier DD Pro was added.
   * New Hazama's emotes.
   * Added [P3] Investigation (Opening).mp3
+  * Added [MM] Pursuit (Layton).mp3
   
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
@@ -37,5 +38,5 @@ Deletes:
   * Cindy Law's character folder.
   
 Changes:
- Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
+  * Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
  
