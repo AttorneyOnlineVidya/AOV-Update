@@ -21,6 +21,7 @@ Content additions:
   * Klavier DD Pro was added.
   * New Hazama's emotes.
   * Added [P3] Investigation (Opening).mp3
+  
 Content changes:
   * Renamed [DP] Confess the Truth.mp3 to [DP] York and Zach.mp3
   * Hajime's cantbackdown sfx doesn't destroy ears anymore.
@@ -34,6 +35,7 @@ Deletes:
   * Deletes both (a) and (b) break.gif from Wellington's character folder.
   * Rydia's character folder.
   * Cindy Law's character folder.
+  
 Changes:
  Renames "[MGSR] Pursuit.mp3" to "[MGR] Pursuit.mp3". 
  
