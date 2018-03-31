@@ -9,6 +9,7 @@ Content additions:
   
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
+  * Raised [MM] Pursuit (Layton).mp3's volume.
  
 BATCH FILE
 Deletes:
