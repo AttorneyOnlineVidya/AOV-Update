@@ -9,6 +9,7 @@ Content additions:
   * Added some Max Payne emotes. (Point and smug.)
   * Added Hazama's new emotes.
   * Added some Godot catching cups emotes.
+  * Added some Hajime's sfxs.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
