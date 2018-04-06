@@ -10,9 +10,11 @@ Content additions:
   * Added Hazama's new emotes.
   * Added some Godot catching cups emotes.
   * Added some Hajime's sfxs.
+ 
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
+  * Updated Greg's emotes, and fixed the sfx timing for the chilli emote.
  
 BATCH FILE
 Deletes:
