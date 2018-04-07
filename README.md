@@ -10,6 +10,7 @@ Content additions:
   * Added Hazama's new emotes.
   * Added some Godot catching cups emotes.
   * Added some Hajime's sfxs.
+  * Added [DD] Pursuit (Promotion Mix).mp3
  
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
