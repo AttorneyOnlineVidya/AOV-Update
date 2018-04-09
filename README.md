@@ -15,7 +15,11 @@ Content additions:
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
-  * Updated Greg's emotes, and fixed the sfx timing for the chilli emote.
+  * Updated Greg's emotes.
+  
+  
+Additional Download:
+  * Raised all of the [GT] Track's quality.
  
 BATCH FILE
 Deletes:
