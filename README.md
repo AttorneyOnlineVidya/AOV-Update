@@ -11,7 +11,7 @@ Content additions:
   * Added some Godot catching cups emotes.
   * Added some Hajime's sfxs.
   * Added [DD] Pursuit (Promotion Mix).mp3
- 
+  * Added some new ProsecutorJustice emotes.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
