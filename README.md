@@ -15,7 +15,7 @@ Content additions:
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
-  * Updated Greg's emotes.
+  * Updated Greg's and Inner Greg's emotes.
   
   
 Additional Download:
