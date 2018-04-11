@@ -275,7 +275,7 @@
     - name: '[DN] Ultimate Crisis.mp3'
       length: 68
     - name: '[C2] Nuclear Crisis.mp3'
-      length: 308
+      length: 189
 - category: ===DEBATE & ICE BREAKER===
   songs:
     - name: '[AAI2] Orchestral Confrontation.mp3'
@@ -617,7 +617,7 @@
     - name: '[AJ] Perceive - Surging Eyes.mp3'
       length: 60
     - name: '[DD] Mood Matrix (Moderato).mp3'
-      length: 156
+      length: 124
     - name: '[DD] Mood Matrix (Allegro).mp3'
       length: 56
     - name: '[DD] Thought Route.mp3'
