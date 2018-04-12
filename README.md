@@ -12,6 +12,7 @@ Content additions:
   * Added some Hajime's sfxs.
   * Added [DD] Pursuit (Promotion Mix).mp3
   * Added some new ProsecutorJustice emotes.
+  * Added Rumba from DGS2.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
