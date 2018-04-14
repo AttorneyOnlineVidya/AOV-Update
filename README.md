@@ -13,6 +13,7 @@ Content additions:
   * Added [DD] Pursuit (Promotion Mix).mp3
   * Added some new ProsecutorJustice emotes.
   * Added Rumba from DGS2.
+  * Added [TC] Gentle Breeze.mp3
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
