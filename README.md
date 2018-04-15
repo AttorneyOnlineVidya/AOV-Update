@@ -7,7 +7,7 @@ Content additions:
   * Added some of the PLvsAA evidence.
   * Added Gregory AAI's Inner Greg emotes.
   * Added some Max Payne emotes. (Point and smug.)
-  * Added Hazama's new emotes.
+  * Added Hazama's new emotes, with a special fix to (a) rapeface.
   * Added some Godot catching cups emotes.
   * Added some Hajime's sfxs.
   * Added [DD] Pursuit (Promotion Mix).mp3
