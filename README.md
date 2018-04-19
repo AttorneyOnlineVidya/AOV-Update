@@ -19,6 +19,7 @@ Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
   * Updated Greg's and Inner Greg's emotes.
+  * Kristoph's slam now has a sfx.
   
   
 Additional Download:
