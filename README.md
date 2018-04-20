@@ -1,4 +1,4 @@
-# THE ____ UPDATE
+# THE Half-Eaten UPDATE
 
 Botch fixes:
   * 
@@ -16,6 +16,7 @@ Content additions:
   * Added [TC] Gentle Breeze.mp3
   * Added Barok Wit.
   * Added Heita Mamemomi.
+  * Added some SOJ backgrounds.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
