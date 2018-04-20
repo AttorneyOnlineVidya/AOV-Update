@@ -15,6 +15,7 @@ Content additions:
   * Added Rumba from DGS2.
   * Added [TC] Gentle Breeze.mp3
   * Added Barok Wit.
+  * Added Heita Mamemomi.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
