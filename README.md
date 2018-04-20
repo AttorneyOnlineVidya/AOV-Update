@@ -17,6 +17,7 @@ Content additions:
   * Added Barok Wit.
   * Added Heita Mamemomi.
   * Added some SOJ backgrounds.
+  * Added Retinz's new folder.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
   * Raised [MM] Pursuit (Layton).mp3's volume.
@@ -29,7 +30,7 @@ Additional Download:
  
 BATCH FILE
 Deletes:
-  * 
+  * Roger Retinz character folder.
   
 Changes:
   * 
