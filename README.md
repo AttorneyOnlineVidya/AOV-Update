@@ -23,7 +23,7 @@ Content changes:
   * Raised [MM] Pursuit (Layton).mp3's volume.
   * Updated Greg's and Inner Greg's emotes.
   * Kristoph's slam now has a sfx.
-  
+  * Fixed Greg's Chilli Emote timing.
   
 Additional Download:
   * Raised all of the [GT] Track's quality.
