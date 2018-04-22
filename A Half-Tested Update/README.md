@@ -1,4 +1,4 @@
-# THE Half-Eaten UPDATE
+# A Half-Tested Update
 
 Botch fixes:
   * 
