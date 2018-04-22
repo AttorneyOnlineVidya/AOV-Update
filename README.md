@@ -18,6 +18,7 @@ Content additions:
   * Added Heita Mamemomi.
   * Added some SOJ backgrounds.
   * Added Tartarus as a background.
+  * Added an Adam Ladyfirst's Re-Rip.
   * Added Retinz's new folder.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
@@ -32,6 +33,7 @@ Additional Download:
 BATCH FILE
 Deletes:
   * Roger Retinz character folder.
+  * Adam Ladyfirst's preanimations.
   
 Changes:
   * 
