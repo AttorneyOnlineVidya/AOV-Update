@@ -17,6 +17,7 @@ Content additions:
   * Added Barok Wit.
   * Added Heita Mamemomi.
   * Added some SOJ backgrounds.
+  * Added Tartarus as a background.
   * Added Retinz's new folder.
 Content changes:
   * Raised [DP] York and Zach.mp3's quality.
