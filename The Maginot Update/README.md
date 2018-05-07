@@ -8,6 +8,7 @@ Content additions:
   * Added Patrick.
 Content changes:
   * Renamed [FE] Chrom - I Will Not Falter Again.mp3 to [FE] Unwavering People.mp3
+  * Made Judge's "Order" shouts clearer gifs.
 
 Additional Download:
   * 
@@ -15,7 +16,7 @@ Additional Download:
 BATCH FILE
 Deletes:
   * [FE] Chrom - I Will Not Falter Again.mp3
-  
+  * Judge's and Judge's Bro folder.
 Changes:
   * 
  
