@@ -9,6 +9,7 @@ Content additions:
 Content changes:
   * Renamed [FE] Chrom - I Will Not Falter Again.mp3 to [FE] Unwavering People.mp3
   * Made Judge's "Order" shouts clearer gifs.
+  * Re-ripped Hobbes.
 
 Additional Download:
   * 
@@ -17,6 +18,7 @@ BATCH FILE
 Deletes:
   * [FE] Chrom - I Will Not Falter Again.mp3
   * Judge's and Judge's Bro folder.
+  * Some Hobbes files that have become obsolete.
 Changes:
   * 
  
