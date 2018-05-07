@@ -8,14 +8,14 @@ Content additions:
   
  
 Content changes:
-  * 
+  * Renamed [FE] Chrom - I Will Not Falter Again.mp3 to [FE] Unwavering People.mp3
 
 Additional Download:
   * 
  
 BATCH FILE
 Deletes:
-  * 
+  * [FE] Chrom - I Will Not Falter Again.mp3
   
 Changes:
   * 

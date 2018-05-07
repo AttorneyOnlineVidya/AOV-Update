@@ -1266,6 +1266,8 @@
       length: 104
     - name: '[KD] Katamari People.mp3'
       length: 329
+    - name: '[FE] Unwavering People.mp3'
+      lenght: 229
     - name: '[N] Cowardly People.mp3'
       length: 207
     - name: '[LM] Stupid People.mp3'
@@ -1466,8 +1468,6 @@
       length: 125
     - name: "[DD] Cap'n Orla's Swashbucklers - Adventures Across the Seven Seas.mp3"
       length: 167
-    - name: '[FE] Chrom - I Will Not Falter Again.mp3'
-      length: 229
     - name: '[Ani] Cody Hackins - Path to Glory.mp3'
       length: 86
     - name: '[DGS2] Connette Rozaic - Mysteries Pressed in Wax.mp3'
