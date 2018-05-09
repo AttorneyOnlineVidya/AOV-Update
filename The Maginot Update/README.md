@@ -8,6 +8,7 @@ Content additions:
   * Added Patrick.
   * Added Everyday Mittlemont.
   * Diego can catch cups in a flashy style now.
+  * Added some sprites for Diane.
 Content changes:
   * Renamed [FE] Chrom - I Will Not Falter Again.mp3 to [FE] Unwavering People.mp3
   * Made Judge's "Order" shouts clearer gifs.
