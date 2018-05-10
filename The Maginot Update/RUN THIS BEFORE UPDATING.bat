@@ -1,5 +1,7 @@
 del "base\sounds\music\[FE] Chrom - I Will Not Falter Again.mp3"
 
+ren "base\sounds\music\[SJ] Objection.mp3" "[SJ] Pursuit.mp3"
+ren "base\sounds\music\[SJ] Objection (Nonsense).mp3" "[SJ] Objection.mp3"
 
 rd /S /Q "base\characters\Judge"
 rd /S /Q "base\characters\Judge's Bro"

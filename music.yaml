@@ -725,8 +725,6 @@
     - name: '[FE] Objection! (Roar).mp3'
       length: 308
     - name: '[SJ] Objection!.mp3'
-      length: 58
-    - name: '[SJ] Objection! (Nonsense).mp3'
       length: 47
     - name: '[EO] Objection!.mp3'
       length: 197
@@ -944,6 +942,8 @@
       length: 237
     - name: '[FNS] Pursuit.mp3'
       length: 214
+    - name: '[SJ] Pursuit.mp3'
+      length: 58
     - name: '[PXZ2] Pursuit.mp3'
       length: 154
     - name: '[LT] Pursuit.mp3'
