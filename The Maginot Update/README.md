@@ -14,6 +14,7 @@ Content changes:
   * Made Judge's "Order" shouts clearer gifs.
   * Re-ripped Hobbes.
   * Changed Chiaki’s objection emote into her custom.
+  * Overhauled Prosecutor Justice's character folder.
 
 
 Additional Download:
@@ -24,6 +25,7 @@ Deletes:
   * [FE] Chrom - I Will Not Falter Again.mp3
   * Judge's and Judge's Bro folder.
   * Some Hobbes files that have become obsolete.
+  * Prosecutor Justice's old character folder.
 Changes:
   * Renames "[SJ] Objection.mp3" to "[SJ] Pursuit.mp3".
   * Renames "[SJ] Objection (Nonsense).mp3" to "[SJ] Objection.mp3".

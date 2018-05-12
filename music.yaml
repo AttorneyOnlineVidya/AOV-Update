@@ -954,6 +954,8 @@
       length: 294
     - name: '[P5] Pursuit.mp3'
       length: 262
+    - name: '[RT] Pursuit.mp3'
+      length: 208
     - name: '[SM] Pursuit.mp3'
       length: 131
     - name: '[AOV] Pursuit (Kay Faraday).mp3'
@@ -1254,8 +1256,6 @@
       length: 54
     - name: '[DR] Desperate People.mp3'
       length: 161
-    - name: '[RT] Phantom People.mp3'
-      length: 208
     - name: '[RT] Rowdy People.mp3'
       length: 196
     - name: '[DN] Ideological People.mp3'
