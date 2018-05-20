@@ -28,6 +28,7 @@ Deletes:
   * Prosecutor Justice's old character folder.
   * Birdman's and Birdman Leg's folder.
   * Zinc's zoom emote.
+  * Removes Trucy Wright (DD)'s character folder.
 Changes:
   * Renames "[SJ] Objection.mp3" to "[SJ] Pursuit.mp3".
   * Renames "[SJ] Objection (Nonsense).mp3" to "[SJ] Objection.mp3".
