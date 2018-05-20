@@ -27,6 +27,7 @@ Deletes:
   * Some Hobbes files that have become obsolete.
   * Prosecutor Justice's old character folder.
   * Birdman's and Birdman Leg's folder.
+  * Zinc's zoom emote.
 Changes:
   * Renames "[SJ] Objection.mp3" to "[SJ] Pursuit.mp3".
   * Renames "[SJ] Objection (Nonsense).mp3" to "[SJ] Objection.mp3".
