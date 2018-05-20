@@ -10,6 +10,8 @@ rd /S /Q "base\characters\Judge's Bro"
 rd /S /Q "base\characters\ProsecutorJustice"
 rd /S /Q "base\characters\Birdman"
 rd /S /Q "base\characters\Birdman Leg"
+rd /S /Q "base\characters\Trucy Wright (DD)"
+
 
 del "base\characters\Hobbes\pre_lefttonormal.gif"
 del "base\characters\Hobbes\pre_nodyes.gif"
