@@ -34,3 +34,4 @@ Deletes:
 Changes:
   * Renames "[SJ] Objection.mp3" to "[SJ] Pursuit.mp3".
   * Renames "[SJ] Objection (Nonsense).mp3" to "[SJ] Objection.mp3".
+  * Renames "IbukiHD" to "Ibuki".
