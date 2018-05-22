@@ -32,6 +32,7 @@ Deletes:
   * Zinc's zoom emote.
   * Removes Trucy Wright (DD)'s character folder.
   * Moe lost his pickles.
+  * Removed Lotus' zoom.
 Changes:
   * Renames "[SJ] Objection.mp3" to "[SJ] Pursuit.mp3".
   * Renames "[SJ] Objection (Nonsense).mp3" to "[SJ] Objection.mp3".
