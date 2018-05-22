@@ -34,3 +34,8 @@ del "base\characters\Moe\(a)zoom.gif"
 del "base\characters\Moe\(b)zoom.gif"
 del "base\characters\Moe\emotions\button9_on.png"
 del "base\characters\Moe\emotions\button9_off.png"
+
+del "base\characters\Lotus\(a)zoom.gif"
+del "base\characters\Lotus\(b)zoom.gif"
+del "base\characters\Lotus\emotions\button9_off.png"
+del "base\characters\Lotus\emotions\button9_on.png"
