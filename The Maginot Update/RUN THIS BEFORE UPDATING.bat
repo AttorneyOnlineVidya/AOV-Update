@@ -4,7 +4,6 @@ ren "base\sounds\music\[SJ] Objection.mp3" "[SJ] Pursuit.mp3"
 ren "base\sounds\music\[SJ] Objection (Nonsense).mp3" "[SJ] Objection.mp3"
 ren "base\sounds\music\[RT] Phantom People.mp3" "[RT] Pursuit.mp3"
 
-MOVE "base\characters\IbukiHD" "base\characters\Ibuki"
 
 rd /S /Q "base\characters\Judge"
 rd /S /Q "base\characters\Judge's Bro"
@@ -12,6 +11,7 @@ rd /S /Q "base\characters\ProsecutorJustice"
 rd /S /Q "base\characters\Birdman"
 rd /S /Q "base\characters\Birdman Leg"
 rd /S /Q "base\characters\Trucy Wright (DD)"
+rd /S /Q "base\characters\IbukiHD"
 
 
 del "base\characters\Hobbes\pre_lefttonormal.gif"
