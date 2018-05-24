@@ -1,4 +1,4 @@
-# The Maginot Update
+# The Renaming Update
 
 Botch fixes:
   * 
