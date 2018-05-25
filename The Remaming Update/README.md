@@ -7,6 +7,7 @@ Content additions:
   * Added Gina DGS2.
   * Added Patrick.
   * Added Everyday Mittlemont.
+  * Added Espella H.
   * Diego can catch cups in a flashy style now.
   * Added some sprites for Diane.
   * Gave Sissel some new emotes.
