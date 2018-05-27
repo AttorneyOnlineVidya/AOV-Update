@@ -39,3 +39,7 @@ del "base\characters\Lotus\(a)zoom.gif"
 del "base\characters\Lotus\(b)zoom.gif"
 del "base\characters\Lotus\emotions\button9_off.png"
 del "base\characters\Lotus\emotions\button9_on.png"
+
+del "base\characters\Chiaki\chiakiobjection.gif"
+del "base\characters\Chiaki\emotions\button25_on.png"
+del "base\characters\Chiaki\emotions\button25_off.png"
