@@ -16,6 +16,7 @@ Additional Download:
 BATCH FILE
 Deletes:
   * Filch's custom objection gif and sfx.
+  * AthenaW; AthenaSOJ and AthenaDA.
   
 Changes:
   * 
