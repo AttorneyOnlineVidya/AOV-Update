@@ -19,5 +19,6 @@ Deletes:
   * AthenaW; AthenaSOJ and AthenaDA.
   
 Changes:
-  * 
+  * Judge ET is renamed to Judge.
+  * Judge's Bro ET is renamed to Judge's Bro.
  
