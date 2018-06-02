@@ -8,6 +8,7 @@ Content additions:
  
 Content changes:
   * Changed  Cody, Franziska AAI, Maggey, Manfred AAI, Mr.Hat, Penny, Q, and Spark's buttons.
+  * Removed the laughs from other charactes in Yew's ini.
 
 Additional Download:
   * 
