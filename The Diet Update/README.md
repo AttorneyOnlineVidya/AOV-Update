@@ -1,12 +1,13 @@
-# [NAME]
+# The Diet Update
 
 Botch fixes:
   * 
   
 Content additions:
-  *
+  * Added Luke's very angry emote.
+ 
 Content changes:
-  * Raised [DP] York and Zach.mp3's quality.
+  * 
 
 Additional Download:
   * 
