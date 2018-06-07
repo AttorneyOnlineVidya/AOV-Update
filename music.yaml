@@ -764,8 +764,6 @@
       length: 183
     - name: '[DGS] Confess The Truth (DLC) (Variation).mp3'
       length: 160
-    - name: '[DGS2] Confess the Truth.mp3'
-      length: 160
     - name: '[DR] Confess The Truth.mp3'
       length: 269
     - name: '[DR] Confess The Truth (Variation).mp3'
@@ -1084,6 +1082,8 @@
       length: 76
     - name: '[DGS2] Surrounded by Nothingness.mp3'
       length: 104
+    - name: '[DGS2] The Gate to the Truth.mp3'
+      length: 160
     - name: "[DGS2] The Grim Reaper's Memories.mp3"
       length: 201
     - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.mp3'

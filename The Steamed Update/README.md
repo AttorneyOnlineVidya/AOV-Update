@@ -24,4 +24,5 @@ Deletes:
 Changes:
   * Judge ET is renamed to Judge.
   * Judge's Bro ET is renamed to Judge's Bro.
+  * Renames [DGS2] Confess the Truth to [DGS2] The Gate to the Truth.
  
