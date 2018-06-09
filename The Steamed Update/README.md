@@ -6,6 +6,7 @@ Botch fixes:
 Content additions:
   * Added Luke's very angry emote.
   * Added Gina DGS2 to the CSS.
+  * Added Gossip, from DGS2.
  
 Content changes:
   * Changed  Cody, Franziska AAI, Maggey, Manfred AAI, Mr.Hat, Penny, Q, and Spark's buttons.
