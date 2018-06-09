@@ -12,6 +12,7 @@ Content changes:
   * Changed  Cody, Franziska AAI, Maggey, Manfred AAI, Mr.Hat, Penny, Q, and Spark's buttons.
   * Removed the laughs from other charactes in Yew's ini.
   * Flipped DDCourt's helperbenches.
+  * Fixed the flickering in Sebastian's pres.
 
 Additional Download:
   * 
