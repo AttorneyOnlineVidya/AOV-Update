@@ -22,6 +22,8 @@ Deletes:
   * Filch's custom objection gif and sfx.
   * AthenaW; AthenaSOJ and AthenaDA.
   * PhoenixDD'S folder.
+  * Pearl DD and Teen folders.
+  * Luis' folder.
   
 Changes:
   * Judge ET is renamed to Judge.

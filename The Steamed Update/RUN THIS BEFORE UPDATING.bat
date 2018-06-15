@@ -11,3 +11,8 @@ move "base\characters\Judge ET" "base\characters\Judge"
 rd /S /Q "base\characters\PhoenixDD"
 
 ren "base\sounds\music\[DGS2] Confess the Truth.mp3" "[DGS2] The Gate to the Truth.mp3"
+
+rd /S /Q "base\characters\Pearl DD"
+rd /S /Q "base\characters\Pearl Teen"
+
+rd /S /Q "base\characters\Luis"
