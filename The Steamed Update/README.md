@@ -24,6 +24,7 @@ Deletes:
   * PhoenixDD'S folder.
   * Pearl DD and Teen folders.
   * Luis' folder.
+  * Andistandhin's breakdownnormal file, as it is obsolete.
   
 Changes:
   * Judge ET is renamed to Judge.
