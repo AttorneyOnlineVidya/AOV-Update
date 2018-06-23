@@ -4,7 +4,7 @@ Botch fixes:
   * 
   
 Content additions:
-  *
+  * Added Kira as a witness character
 Content changes:
   * 
 
