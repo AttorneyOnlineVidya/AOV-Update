@@ -15,6 +15,7 @@ Content changes:
   * Flipped DDCourt's helperbenches.
   * Fixed the flickering in Sebastian's pres.
   * Merged Miles' and Godot's Wit folders to their original folders.
+  * Moves DeKiller's cut-in to the right DeKiller.
 
 Additional Download:
   * 
@@ -28,7 +29,8 @@ Deletes:
   * Luis' folder.
   * Andistandhin's breakdownnormal file, as it is obsolete.
   * Removed Payne AA, AJ, DD, and TT.
-  * Removes Miles Wit and Godot HLD.
+  * Removed Miles Wit and Godot HLD.
+  * Removes all of de Killer stuff from the de Killer AAI folder.
   
 Changes:
   * Judge ET is renamed to Judge.
