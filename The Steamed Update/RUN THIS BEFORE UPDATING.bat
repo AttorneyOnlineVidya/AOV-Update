@@ -23,3 +23,6 @@ rd /S /Q "base\characters\Payne AA"
 rd /S /Q "base\characters\Payne AJ"
 rd /S /Q "base\characters\Payne DD"
 rd /S /Q "base\characters\Payne TT"
+
+rd /S /Q "base\characters\Miles Wit"
+rd /S /Q "base\characters\Godot HLD"
