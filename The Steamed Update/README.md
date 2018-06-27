@@ -26,6 +26,7 @@ Deletes:
   * Pearl DD and Teen folders.
   * Luis' folder.
   * Andistandhin's breakdownnormal file, as it is obsolete.
+  * Removed Payne AA, AJ, DD, and TT.
   
 Changes:
   * Judge ET is renamed to Judge.
