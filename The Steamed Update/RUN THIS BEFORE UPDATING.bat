@@ -18,3 +18,8 @@ rd /S /Q "base\characters\Pearl Teen"
 rd /S /Q "base\characters\Luis"
 
 del "base\characters\Andistandhin\breakdownnormal.gif"
+
+rd /S /Q "base\characters\Payne AA"
+rd /S /Q "base\characters\Payne AJ"
+rd /S /Q "base\characters\Payne DD"
+rd /S /Q "base\characters\Payne TT"
