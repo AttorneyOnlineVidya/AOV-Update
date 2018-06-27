@@ -14,6 +14,7 @@ Content changes:
   * Removed the laughs from other charactes in Yew's ini.
   * Flipped DDCourt's helperbenches.
   * Fixed the flickering in Sebastian's pres.
+  * Merged Miles' and Godot's Wit folders to their original folders.
 
 Additional Download:
   * 
@@ -27,6 +28,7 @@ Deletes:
   * Luis' folder.
   * Andistandhin's breakdownnormal file, as it is obsolete.
   * Removed Payne AA, AJ, DD, and TT.
+  * Removes Miles Wit and Godot HLD.
   
 Changes:
   * Judge ET is renamed to Judge.
