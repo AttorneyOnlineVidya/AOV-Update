@@ -16,6 +16,7 @@ Content changes:
   * Fixed the flickering in Sebastian's pres.
   * Merged Miles' and Godot's Wit folders to their original folders.
   * Moves DeKiller's cut-in to the right DeKiller.
+  * Updated [PWC] Pursuit.
 
 Additional Download:
   * Contains Espella's fixed emotes, which in turn changes her into a floating torso.
