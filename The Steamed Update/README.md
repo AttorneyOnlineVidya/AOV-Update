@@ -18,7 +18,7 @@ Content changes:
   * Moves DeKiller's cut-in to the right DeKiller.
 
 Additional Download:
-  * 
+  * Contains Espella's fixed emotes, which in turn changes her into a floating torso.
  
 BATCH FILE
 Deletes:
