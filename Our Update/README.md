@@ -21,6 +21,7 @@ Deletes:
   * AthenaH's Old emote folder
   * Useless pre-animations in de Killer's folder
   * Decargo DGS2, which is essentially empty
+  * Desireehappy, an unused pre-animation 
   
 Changes:
   * 
