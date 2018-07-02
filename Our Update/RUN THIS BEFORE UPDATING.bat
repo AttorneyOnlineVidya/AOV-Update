@@ -26,3 +26,5 @@ del "base\characters\de Killer\killer-normal.gif"
 del "base\characters\de Killer\killer-red.gif"
 del "base\characters\de Killer\killer-steaming.gif"
 del "base\characters\de Killer\killer-sweating.gif"
+
+rd /S /Q "base\characters\Decargo DGS2"

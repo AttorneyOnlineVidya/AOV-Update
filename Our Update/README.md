@@ -20,6 +20,7 @@ Deletes:
   * AthenaCykesSOJ emotions (matrix) and emotions(ultimate) folders
   * AthenaH's Old emote folder
   * Useless pre-animations in de Killer's folder
+  * Decargo DGS2, which is essentially empty
   
 Changes:
   * 
