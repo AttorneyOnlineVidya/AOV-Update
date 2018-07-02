@@ -7,6 +7,7 @@ Content additions:
   * Grossberg got a new emote.
 Content changes:
   * Grossberg also got new button-type stuff.
+  * ApolloSOJwit got new buttons.
 
 Additional Download:
   * 
