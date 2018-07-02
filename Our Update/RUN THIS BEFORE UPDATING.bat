@@ -9,3 +9,8 @@ del "base\characters\Cammy\emotions\buttondumbshit_off.png"
 del "base\characters\Cammy\emotions\buttondumbshit_on.png"
 del "base\characters\Cammy\emotions\buttonsweat_on.png"
 del "base\characters\Cammy\emotions\buttonsweat_off.png"
+
+rd /S /Q "base\characters\Dahlia\emotions\buttens"
+rd /S /Q "base\characters\Dahlia\emotions\Butterfly emotes"
+rd /S /Q "base\characters\Dahlia\emotions\Neuer Ordner"
+rd /S /Q "base\characters\Dahlia\emotions\OlderButtens"

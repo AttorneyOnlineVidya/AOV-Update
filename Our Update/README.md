@@ -16,6 +16,7 @@ Deletes:
   * Klavier Wit folder.
   * Blaise's 15th and 16th buttons
   * Cammy's dumbshit buttons and sweat buttons
+  * Dahlia's useless button folders
   
 Changes:
   * 
