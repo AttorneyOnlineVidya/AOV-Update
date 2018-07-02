@@ -8,6 +8,7 @@ Content additions:
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
+  * Armstrong got new buttons.
 
 Additional Download:
   * 
