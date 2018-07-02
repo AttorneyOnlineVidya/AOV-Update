@@ -19,6 +19,7 @@ Deletes:
   * Dahlia's useless button folders
   * AthenaCykesSOJ emotions (matrix) and emotions(ultimate) folders
   * AthenaH's Old emote folder
+  * Useless pre-animations in de Killer's folder
   
 Changes:
   * 
