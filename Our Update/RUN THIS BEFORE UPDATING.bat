@@ -17,3 +17,5 @@ rd /S /Q "base\characters\Dahlia\emotions\OlderButtens"
 
 rd /S /Q "base\characters\AthenaCykesSOJ\emotions (matrix)"
 rd /S /Q "base\characters\AthenaCykesSOJ\emotions(ultimate)"
+
+rd /S /Q "base\characters\AthenaH\emotions\Old"

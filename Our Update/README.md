@@ -18,6 +18,7 @@ Deletes:
   * Cammy's dumbshit buttons and sweat buttons
   * Dahlia's useless button folders
   * AthenaCykesSOJ emotions (matrix) and emotions(ultimate) folders
+  * AthenaH's Old emote folder
   
 Changes:
   * 
