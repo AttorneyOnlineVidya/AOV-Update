@@ -5,6 +5,7 @@ Botch fixes:
   
 Content additions:
   * Grossberg got a new emote.
+  * Added some AAI2 and Misc. evidence.
   * Added [AAI2] The Great Moozilla under ===General Themes===
 Content changes:
   * Grossberg also got new button-type stuff.
