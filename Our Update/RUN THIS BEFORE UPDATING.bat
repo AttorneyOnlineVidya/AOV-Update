@@ -30,3 +30,56 @@ del "base\characters\de Killer\killer-sweating.gif"
 rd /S /Q "base\characters\Decargo DGS2"
 
 del "base\characters\Desiree\Desireehappy.gif"
+
+del "base\characters\Dante\(a)fistdante.gif"
+del "base\characters\Dante\(b)fistdante.gif"
+
+del "base\characters\Dante\(a)guitardante.gif"
+del "base\characters\Dante\(b)guitardante.gif"
+del "base\characters\Dante\guitarsdante.gif"
+
+del "base\characters\Dante\(a)hehdante.gif"
+del "base\characters\Dante\(b)hehdante.gif"
+del "base\characters\Dante\hehdante.gif"
+
+del "base\characters\Dante\(a)laughdante.gif"
+del "base\characters\Dante\(b)laughdante.gif"
+del "base\characters\Dante\laughsdante.gif"
+
+del "base\characters\Dante\(a)leandante.gif"
+del "base\characters\Dante\(b)leandante.gif"
+
+del "base\characters\Dante\(a)maddante.gif"
+del "base\characters\Dante\(b)maddante.gif"
+del "base\characters\Dante\maddante.gif"
+
+del "base\characters\Dante\(a)normaldante.gif"
+del "base\characters\Dante\(b)normaldante.gif"
+del "base\characters\Dante\normaldante.gif"
+
+del "base\characters\Dante\(a)objectsdante.gif"
+del "base\characters\Dante\(b)objectsdante.gif"
+del "base\characters\Dante\objectiondante.gif"
+
+del "base\characters\Dante\(a)pounddante.gif"
+del "base\characters\Dante\(b)pounddante.gif"
+del "base\characters\Dante\pounddante.gif"
+
+del "base\characters\Dante\(a)snapdante.gif"
+del "base\characters\Dante\(b)snapdante.gif"
+
+del "base\characters\Dante\(a)sweatdante.gif"
+del "base\characters\Dante\(b)sweatdante.gif"
+
+del "base\characters\Dante\(a)updante.gif"
+del "base\characters\Dante\(b)updante.gif"
+
+del "base\characters\Dante\(a)whatdante.gif"
+del "base\characters\Dante\(b)whatdante.gif"
+del "base\characters\Dante\whatdante.gif"
+
+del "base\characters\Dante\(a)witnormaldante.gif"
+del "base\characters\Dante\(b)witnormaldante.gif"
+del "base\characters\Dante\witnormaldante.gif"
+
+del "base\characters\Dante\damagedante.gif"
