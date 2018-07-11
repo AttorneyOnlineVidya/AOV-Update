@@ -11,6 +11,7 @@ Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
   * Armstrong got new buttons.
+  * Kristoph G's folder was renamed to Kristoph.
 
 Additional Download:
   * 
@@ -27,6 +28,7 @@ Deletes:
   * Decargo DGS2, which is essentially empty.
   * Desireehappy, an unused pre-animation.
   * Old Dante's emotes.
+  * Kristoph's folder.
   
 Changes:
   * 

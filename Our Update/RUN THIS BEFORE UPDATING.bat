@@ -83,3 +83,6 @@ del "base\characters\Dante\(b)witnormaldante.gif"
 del "base\characters\Dante\witnormaldante.gif"
 
 del "base\characters\Dante\damagedante.gif"
+
+rd /S /Q "base\characters\Kristoph"
+rd /S /Q "base\characters\Kristoph G"
