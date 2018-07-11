@@ -12,6 +12,7 @@ Content changes:
   * ApolloSOJwit got new buttons.
   * Armstrong got new buttons.
   * Kristoph G's folder was renamed to Kristoph.
+  * Fixed Susato DLC's book pre.
 
 Additional Download:
   * 
