@@ -14,6 +14,7 @@ Content changes:
   * Kristoph G's folder was renamed to Kristoph.
   * Fixed Susato DLC's book pre.
   * Athena Wit and Athena Wit School now have better buttons.
+  * Kirigiri's ini got a smoll fix.
 
 Additional Download:
   * 
