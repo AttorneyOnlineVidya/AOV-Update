@@ -13,6 +13,7 @@ Content changes:
   * Armstrong got new buttons.
   * Kristoph G's folder was renamed to Kristoph.
   * Fixed Susato DLC's book pre.
+  * Athena Wit and Athena Wit School now have better buttons.
 
 Additional Download:
   * 
