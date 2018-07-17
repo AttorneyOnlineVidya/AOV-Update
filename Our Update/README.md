@@ -16,6 +16,7 @@ Content changes:
   * Athena Wit and Athena Wit School now have better buttons.
   * Kirigiri's ini got a smoll fix.
   * Hugh Def has now a pre-animation for his objection.
+  * Fixed Barok Z's leg-slam timing.
 
 Additional Download:
   * 
