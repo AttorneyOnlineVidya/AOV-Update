@@ -1,7 +1,7 @@
 # Our Update
 
 Botch fixes:
-  * 
+  * Added Datz's smile(a) and (b).
   
 Content additions:
   * Grossberg got a new emote.
