@@ -9,6 +9,7 @@ Content additions:
   * Added [AAI2] The Great Moozilla under ===General Themes===
   * Added Robin Newman as a character.
   * Added Tenma.
+  * Added Starbuck.
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
