@@ -7,6 +7,7 @@ Content additions:
   * Grossberg got a new emote.
   * Added some AAI2 and Misc. evidence.
   * Added [AAI2] The Great Moozilla under ===General Themes===
+  * Added Robin Newman as a character.
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
