@@ -22,7 +22,8 @@ Content changes:
   * Fixed Barok Z's leg-slam timing.
 
 Additional Download:
-  * 
+  * Custom Textboxes.
+  * Inis for Custom Textboxes.
  
 BATCH FILE
 Deletes:
