@@ -1,0 +1,5 @@
+This is a folder full of textboxes to use within AOV. 
+You can edit your ini with the ‘’chat’’ line to make a specific character display one of these boxes while talking.
+( chat = Chatxxxx )
+
+Just like the old days!
