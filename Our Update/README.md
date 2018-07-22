@@ -11,6 +11,7 @@ Content additions:
   * Added Tenma.
   * Added Starbuck.
   * Added Luke Adult.
+  * Added Angie.
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
