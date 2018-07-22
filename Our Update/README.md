@@ -12,6 +12,7 @@ Content additions:
   * Added Starbuck.
   * Added Luke Adult.
   * Added Angie.
+  * Added Adachi Gunless.
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
