@@ -1913,6 +1913,8 @@
       length: 210
     - name: "[Misc] You're the inspiration.mp3"
       length: 215
+    - name: "[OOC] Please Pay Attention.mp3"
+      length: 15
     - name: '[Wi] Lag Remover.mp3'
       length: 79
     - name: '[GB] Lag Remover.mp3'
