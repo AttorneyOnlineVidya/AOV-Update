@@ -10,6 +10,7 @@ Content additions:
   * Added Robin Newman as a character.
   * Added Tenma.
   * Added Starbuck.
+  * Added Luke Adult.
 Content changes:
   * Grossberg also got new button-type stuff.
   * ApolloSOJwit got new buttons.
