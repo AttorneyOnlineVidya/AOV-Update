@@ -23,6 +23,7 @@ Content changes:
   * Kirigiri's ini got a smoll fix.
   * Hugh Def has now a pre-animation for his objection.
   * Fixed Barok Z's leg-slam timing.
+  * Gundam now has a stand!!
 
 Additional Download:
   * Custom Textboxes.
