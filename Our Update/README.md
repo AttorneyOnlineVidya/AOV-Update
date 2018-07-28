@@ -10,6 +10,7 @@ Content additions:
   * Added Robin Newman as a character.
   * Added Tenma.
   * Added Ted.
+  * Added Smiles.
   * Added Starbuck.
   * Added Luke Adult.
   * Added Angie.
