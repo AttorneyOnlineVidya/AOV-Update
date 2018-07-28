@@ -1,5 +1,7 @@
 rd /S /Q "base\characters\Klavier Wit"
 
+rd /S /Q "base\characters\Olivia"
+
 del "base\characters\Blaise Debeste\emotions\button15_on.png"
 del "base\characters\Blaise Debeste\emotions\button15_off.png"
 del "base\characters\Blaise Debeste\emotions\button16_on.png"
