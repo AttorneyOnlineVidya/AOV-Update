@@ -9,6 +9,7 @@ Content additions:
   * Added [AAI2] The Great Moozilla under ===General Themes===
   * Added Robin Newman as a character.
   * Added Tenma.
+  * Added Ted.
   * Added Starbuck.
   * Added Luke Adult.
   * Added Angie.
