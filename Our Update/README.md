@@ -26,6 +26,7 @@ Content changes:
   * Hugh Def has now a pre-animation for his objection.
   * Fixed Barok Z's leg-slam timing.
   * Gundam now has a stand!!
+  * Olivia has been re-ripped.
 
 Additional Download:
   * Custom Textboxes.
@@ -34,6 +35,7 @@ Additional Download:
 BATCH FILE
 Deletes:
   * Klavier Wit folder.
+  * Olivia's folder.
   * Blaise's 15th and 16th buttons.
   * Cammy's dumbshit buttons and sweat buttons.
   * Dahlia's useless button folders.
