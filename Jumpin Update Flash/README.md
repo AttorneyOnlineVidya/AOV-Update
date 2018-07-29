@@ -5,6 +5,7 @@ Botch fixes:
   
 Content additions:
   * Grossberg got a new emote.
+  * Prosecutor Justice has some new stuff.
   * Added some AAI2 and Misc. evidence.
   * Added [AAI2] The Great Moozilla under ===General Themes===
   * Added Robin Newman as a character.
