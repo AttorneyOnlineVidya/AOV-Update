@@ -30,6 +30,7 @@ Content changes:
   * Olivia has been re-ripped.
 
 Additional Download:
+(Ignore this if it doesn't make it :c )
   * Custom Textboxes.
   * Inis for Custom Textboxes.
  
