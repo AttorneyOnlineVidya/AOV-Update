@@ -4,7 +4,7 @@ Botch fixes:
   * 
   
 Content additions:
-  * 
+  * Some new ApolloSOJ co emotes.
 Content changes:
   * Updated Raymond's paper hold.
 
