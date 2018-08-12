@@ -6,7 +6,7 @@ Botch fixes:
 Content additions:
   * 
 Content changes:
-  * 
+  * Updated Raymond's paper hold.
 
 Additional Download:
   * 
