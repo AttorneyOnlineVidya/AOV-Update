@@ -1,0 +1,1 @@
+rd /S /Q "base\characters\Darklaw"
