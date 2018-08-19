@@ -9,6 +9,7 @@ Content additions:
   * Payne Max (DD) re-rip.
 Content changes:
   * Updated Raymond's paper hold.
+  * Separated Bikini and Elise.
 
 Additional Download:
   * 
@@ -16,6 +17,7 @@ Additional Download:
 BATCH FILE
 Deletes:
   * Darklaw's character folder.
+  * Bikini and Elise's character folder.
   
 Changes:
   * 
