@@ -19,6 +19,7 @@ BATCH FILE
 Deletes:
   * Darklaw's character folder.
   * Bikini and Elise's character folder.
+  * Angie's faulty dead emote.
   
 Changes:
   * 
