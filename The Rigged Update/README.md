@@ -7,6 +7,7 @@ Content additions:
   * Some new ApolloSOJ co emotes.
   * New Darklaw re-rip.
   * Payne Max (DD) re-rip.
+  * Miles SoJ Wit.
 Content changes:
   * Updated Raymond's paper hold.
   * Separated Bikini and Elise.
