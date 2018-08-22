@@ -1,7 +1,7 @@
 # The Rigged Update
 
 Botch fixes:
-  * 
+  * Renamed Kira's "flowerpickling" emotes.
   
 Content additions:
   * Some new ApolloSOJ co emotes.

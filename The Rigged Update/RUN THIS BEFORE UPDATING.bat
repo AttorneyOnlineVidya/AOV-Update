@@ -1,3 +1,7 @@
 rd /S /Q "base\characters\Darklaw"
 rd /S /Q "base\characters\Bikini and Elise"
 del "base\characters\Angie\dead.gif"
+del "base\characters\Kira\(a)flowerpickling.gif"
+del "base\characters\Kira\(b)flowerpickling.gif"
+del "base\characters\Kira\pre-flowerpickling.gif"
+del "base\characters\Kira\pre-flowerpickling-tn.gif"

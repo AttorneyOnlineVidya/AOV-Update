@@ -18,8 +18,6 @@
       length: 175
     - name: '[Ani] Opening Season 1.mp3'
       length: 251
-    - name: '[Ani] Opening Season 2.mp3'
-      length: 89
     - name: '[LS] Theme of the Devils Flute.mp3'
       length: 230
     - name: '[CB] Tank!.mp3'
@@ -48,16 +46,12 @@
       length: 117
     - name: '[DGS] Prelude to the Adventure.mp3'
       length: 114
-    - name: '[15th] Prelude to the Adventure.mp3'
-      length: 64
     - name: '[DGS2] Prelude.mp3'
       length: 132
     - name: '[DGS2] Prelude to Resolve.mp3'
       length: 131
     - name: '[DGS2] Prelude to the Blossoming Attorney.mp3'
       length: 125
-    - name: '[SotC] Prelude.mp3'
-      length: 201
     - name: '[GT] Prelude.mp3'
       length: 149
 - category: ===TRIAL===
@@ -70,10 +64,6 @@
       length: 52
     - name: '[JFA] Trial.mp3'
       length: 107
-    - name: '[JFA] Trial (Orchestra).mp3'
-      length: 121
-    - name: '[JFA] Trial (15th).mp3'
-      length: 56
     - name: '[T&T] Trial.mp3'
       length: 127
     - name: '[T&T] Trial (Orchestra).mp3'
@@ -86,16 +76,10 @@
       length: 286
     - name: '[AJ] Trial.mp3'
       length: 113
-    - name: '[AJ] Trial (15th).mp3'
-      length: 97
     - name: '[DD] Trial.mp3'
       length: 149
-    - name: '[DD] Trial (15th).mp3'
-      length: 93
     - name: '[SoJ] Trial (Japanifornia).mp3'
       length: 126
-    - name: '[SoJ] Trial (Japanifornia-15th).mp3'
-      length: 86
     - name: "[SoJ] Trial (Khura'in).mp3"
       length: 138
     - name: '[AAI] Trial.mp3'
@@ -117,15 +101,9 @@
     - name: '[DGS2] Trial (DLC).mp3'
       length: 118
     - name: '[DGS2] Trial (DLC-2).mp3'
-      length: 117
-    - name: '[Ani] Trial.mp3'
-      length: 72    
-    - name: '[Mov] Trial.mp3'
-      length: 41
+      length: 117   
     - name: '[O] Trial.mp3'
       length: 116
-    - name: '[RG] Trial.mp3'
-      length: 114
     - name: '[GT] Trial.mp3'
       length: 138
 - category: ===LOGIC===
@@ -170,16 +148,12 @@
       length: 195
     - name: '[PLvsAA] Solve the Puzzle.mp3'
       length: 124
-    - name: '[RG] Logic and Strategy.mp3'
-      length: 53
     - name: '[RG] Logic and Debate.mp3'
       length: 89
     - name: '[TT] Corpse Logic.mp3'
       length: 157
     - name: '[DN] Death Logic.mp3'
       length: 169
-    - name: '[DN] Note Logic.mp3'
-      length: 176
     - name: '[999] Digital Root.mp3'
       length: 270
     - name: '[VLR] Logic Clarification.mp3'
@@ -220,10 +194,6 @@
       length: 125
     - name: '[DGS] Suspense (Variation).mp3'
       length: 90
-    - name: '[Ani] Suspense.mp3'
-      length: 64
-    - name: '[Mov] Suspense (Gambling).mp3'
-      length: 66
     - name: '[O] Suspense.mp3'
       length: 81
     - name: '[999] Chill and Rigor.mp3'
@@ -240,8 +210,6 @@
       length: 141
     - name: '[P4] Suspense.mp3'
       length: 139
-    - name: '[U] Suspense.mp3'
-      length: 195
     - name: '[DP] Suspense.mp3'
       length: 224
 - category: ===CRISIS===
@@ -254,34 +222,24 @@
       length: 132
     - name: '[AAI2] Trifle of Fate.mp3'
       length: 126
-    - name: '[15th] Trifle of Fate.mp3'
-      length: 35
     - name: '[PLvsAA] A Pinch of Trouble.mp3'
       length: 84
     - name: '[DGS] Trial in Disarray.mp3'
       length: 178
     - name: '[GT] Countdown.mp3'
       length: 50
-    - name: '[FE] Miscreant.mp3'
-      length: 80
-    - name: '[FE] Prelude to Dispute.mp3'
-      length: 167
     - name: '[O] Stand A Crisis.mp3'
       length: 123
     - name: '[999] Foreboding.mp3'
       length: 194
     - name: '[SMT] Demonic Crisis.mp3'
       length: 104
-    - name: '[SMT] Regal Crisis.mp3'
-      length: 57
     - name: '[DN] Ultimate Crisis.mp3'
       length: 68
     - name: '[C2] Nuclear Crisis.mp3'
       length: 189
 - category: ===DEBATE & ICE BREAKER===
   songs:
-    - name: '[AAI2] Orchestral Confrontation.mp3'
-      length: 313
     - name: '[PLvsAA] Bright Debate.mp3'
       length: 114
     - name: "[PLvsAA] Gentlemen's Debate.mp3"
@@ -318,8 +276,6 @@
       length: 68
     - name: '[Ani] Oral Argument.mp3'
       length: 220
-    - name: '[Ani] Reasoning in a Pinch.mp3'
-      length: 120
     - name: '[DRv3] Scrum Debate.mp3'
       length: 428
     - name: '[999] Extreme Extrication.mp3'
@@ -394,22 +350,14 @@
       length: 179
     - name: '[AAI2] Investigation (Middle).mp3'
       length: 179
-    - name: '[AAI2] Investigation (Middle-15th).mp3'
-      length: 63
     - name: '[AAI2] Investigation (Core).mp3'
       length: 185
-    - name: '[AAI2] Investigation (Core-15th).mp3'
-      length: 103
     - name: '[DGS] Investigation (Opening).mp3'
       length: 195
     - name: '[DGS] Investigation (Core).mp3'
       length: 141
     - name: '[DGS] Investigation (DLC).mp3'
       length: 158
-    - name: '[GMO] Investigation.mp3'
-      length: 348
-    - name: '[Mov] Investigation (Core).mp3'
-      length: 114
     - name: '[999] Investigation (Opening).mp3'
       length: 202
     - name: '[999] Investigation (Middle).mp3'
@@ -428,10 +376,6 @@
       length: 275
     - name: '[P3] Investigation (Opening).mp3'
       length: 149
-    - name: '[DP] Investigation (Opening).mp3'
-      length: 175
-    - name: '[DP] Investigation (Core).mp3'
-      length: 130
     - name: '[ZTD] Investigation (Opening).mp3'
       length: 277
     - name: '[ZTD] Investigation (Middle).mp3'
@@ -446,46 +390,26 @@
       length: 126
     - name: '[AA] Questioning (Orchestra).mp3'
       length: 92
-    - name: '[AA] Questioning (15th).mp3'
-      length: 44
     - name: '[JFA] Questioning (Moderato).mp3'
       length: 79
     - name: '[JFA] Questioning (Allegro).mp3'
       length: 90
-    - name: '[JFA] Questioning (15th).mp3'
-      length: 43
-    - name: '[JFA] Questioning (Orchestra).mp3'
-      length: 113
     - name: '[T&T] Questioning (Moderato).mp3'
       length: 95
     - name: '[T&T] Questioning (Allegro).mp3'
       length: 157
-    - name: '[T&T] Questioning (15th).mp3'
-      length: 56
-    - name: '[T&T] Questioning (Orchestra).mp3'
-      length: 84
     - name: '[AJ] Questioning (Moderato).mp3'
       length: 77
     - name: '[AJ] Questioning (Allegro).mp3'
       length: 100
-    - name: '[AJ] Questioning (15th).mp3'
-      length: 79
     - name: '[DD] Questioning (Moderato).mp3'
       length: 125
-    - name: '[DD] Questioning (Moderato-15th).mp3'
-      length: 25
     - name: '[DD] Questioning (Allegro).mp3'
       length: 121
-    - name: '[DD] Questioning (Allegro-15th).mp3'
-      length: 61
     - name: '[SoJ] Questioning (Moderato).mp3'
       length: 122
-    - name: '[SoJ] Questioning (Moderato-15th).mp3'
-      length: 71
     - name: '[SoJ] Questioning (Allegro).mp3'
       length: 131
-    - name: '[SoJ] Questioning (Allegro-15th).mp3'
-      length: 79
     - name: '[AAI] Confrontation (Moderato).mp3'
       length: 192
     - name: '[AAI] Confrontation (Allegro).mp3'
@@ -498,8 +422,6 @@
       length: 152
     - name: '[AAI2] Confrontation (Presto).mp3'
       length: 115
-    - name: '[AAI2] Confrontation (Presto-15th).mp3'
-      length: 61
     - name: '[GT] Confrontation.mp3'
       length: 173
     - name: '[PLvsAA] Questioning (Moderato - English).mp3'
@@ -514,14 +436,6 @@
       length: 105
     - name: '[DGS] Questioning (Allegro).mp3'
       length: 142
-    - name: '[DGS] Questioning (15th).mp3'
-      length: 77
-    - name: '[Ani] Questioning (Moderato).mp3'
-      length: 64
-    - name: '[Ani] Questioning (Allegro).mp3'
-      length: 149
-    - name: '[Mov] Questioning (Allegro).mp3'
-      length: 200
     - name: '[PWC] Questioning (Presto).mp3'
       length: 270
     - name: '[DR] Questioning (Moderato).mp3'
@@ -534,14 +448,8 @@
       length: 59
     - name: '[GT] Questioning (Allegro).mp3'
       length: 55
-    - name: '[RT] Questioning (Moderato).mp3'
-      length: 146
     - name: '[RT] Questioning (Allegro).mp3'
       length: 120
-    - name: '[RG] Questioning (Moderato).mp3'
-      length: 85
-    - name: '[RG] Questioning (Allegro).mp3'
-      length: 85
     - name: '[TT] Questioning (Moderato).mp3'
       length: 260
     - name: '[TT] Questioning (Allegro).mp3'
@@ -572,18 +480,10 @@
       length: 77
     - name: '[EO] Questioning (Moderato).mp3'
       length: 118
-    - name: '[EO] Questioning (Allegro).mp3'
-      length: 88
-    - name: '[UF] Questioning (Moderato).mp3'
-      length: 108
-    - name: '[UF] Questioning (Allegro).mp3'
-      length: 99
     - name: '[U] Questioning (Moderato).mp3'
       length: 342
     - name: '[U] Questioning (Allegro).mp3'
       length: 99
-    - name: '[GSM] Questioning (Allegro).mp3'
-      length: 195
     - name: '[P5] Questioning (Moderato).mp3'
       length: 97
     - name: '[P5] Questioning (Allegro).mp3'
@@ -592,22 +492,12 @@
       length: 315
     - name: '[BB] Questioning (Presto).mp3'
       length: 239
-    - name: '[SMTSJ] Questioning (Moderato).mp3'
-      length: 179
-    - name: '[SMTSJ] Questioning (Allegro).mp3'
-      length: 152
-    - name: '[SMTSJ] Questioning (Presto).mp3'
-      length: 147
     - name: '[SSBM] Questioning (Presto).mp3'
       length: 168
-    - name: '[M&L3] Confrontation (Presto).mp3'
-      length: 172
     - name: '[SM] Questioning (Presto).mp3'
       length: 107
     - name: '[BD] Questioning (Presto).mp3'
       length: 242
-    - name: '[KA] Questioning (Presto).mp3'
-      length: 275
 - category: ===GIMMICKS===
   songs:
     - name: '[JFA] Psyche Locks.mp3'
@@ -634,14 +524,10 @@
       length: 59
     - name: '[AAI] Logic - The Way to the Truth.mp3'
       length: 184
-    - name: '[15th] Logic - The Way to the Truth.mp3'
-      length: 56
     - name: '[AAI] Little Thief.mp3'
       length: 128
     - name: '[AAI2] Little Thief.mp3'
       length: 168
-    - name: '[AAI2] Little Thief (15th).mp3'
-      length: 89
     - name: '[AAI2] Logic Chess (Opening).mp3'
       length: 192
     - name: '[AAI2] Logic Chess (Ending).mp3'
@@ -660,8 +546,6 @@
       length: 59
     - name: '[JFA] Objection!.mp3'
       length: 80
-    - name: '[JFA] Objection! (15th).mp3'
-      length: 83
     - name: '[T&T] Objection!.mp3'
       length: 108
     - name: '[T&T] Objection! (Jazz).mp3'
@@ -672,14 +556,10 @@
       length: 140
     - name: '[DD] Objection! (Apollo).mp3'
       length: 206
-    - name: '[GMO] Objection! (Apollo).mp3'
-      length: 190
     - name: '[DD] Objection! (Athena).mp3'
       length: 161
     - name: '[SoJ] Objection! (Phoenix).mp3'
       length: 160
-    - name: '[SoJ] Objection! (Phoenix-15th).mp3'
-      length: 88
     - name: '[SoJ] Objection! (Apollo).mp3'
       length: 180
     - name: '[SoJ] Objection! (Athena).mp3'
@@ -688,42 +568,24 @@
       length: 163
     - name: '[AAI2] Objection!.mp3'
       length: 176
-    - name: '[AAI2] Objection! (15th).mp3'
-      length: 110
     - name: '[PLvsAA] Objection! (English).mp3'
       length: 60
     - name: '[PLvsAA] Objection!.mp3'
       length: 117
     - name: '[DGS] Objection!.mp3'
       length: 107
-    - name: '[DGS] Objection! (15th).mp3'
-      length: 59
     - name: '[DGS] Objection! (DLC).mp3'
       length: 114
     - name: '[DGS2] Objection! (Ryutaro).mp3'
       length: 113
-    - name: '[GMO] Objection!.mp3'
-      length: 208
-    - name: '[Ani] Objection!.mp3'
-      length: 224
-    - name: '[Ani] Objection! (Variation).mp3'
-      length: 93
-    - name: '[Mov] Objection!.mp3'
-      length: 213
     - name: '[PLMM] Objection!.mp3'
       length: 169
     - name: '[PWC] Objection!.mp3'
       length: 268
-    - name: '[UMvC3] Objection!.mp3'
-      length: 192
     - name: '[DR] Objection!.mp3'
       length: 279
     - name: '[GT] Objection!.mp3'
       length: 151
-    - name: '[RT] Objection!.mp3'
-      length: 98
-    - name: '[FE] Objection! (Fire).mp3'
-      length: 134
     - name: '[FE] Objection! (Roar).mp3'
       length: 308
     - name: '[SJ] Objection!.mp3'
@@ -770,10 +632,6 @@
       length: 269
     - name: '[DR] Confess The Truth (Variation).mp3'
       length: 184
-    - name: '[LS] Confess The Truth.mp3'
-      length: 210
-    - name: '[SotC] Confess The Truth.mp3'
-      length: 112
     - name: '[BB] Confess The Truth.mp3'
       length: 277
 - category: ===LAST CHANCE===
@@ -786,8 +644,6 @@
       length: 183
     - name: '[DGS2] Murder in the Dark.mp3'
       length: 138
-    - name: '[Ani] Dawn of a Turnabout.mp3'
-      length: 60
     - name: '[IQ] A Grand Theory (Opening).mp3'
       length: 178
     - name: '[IQ] A Grand Theory (Finale).mp3'
@@ -828,22 +684,12 @@
       length: 80
     - name: '[JFA] Pursuit (Variation).mp3'
       length: 64
-    - name: '[JFA] Pursuit (Orchestra).mp3'
-      length: 127
     - name: '[JFA] Pursuit (15th).mp3'
       length: 61
-    - name: '[JFA] Pursuit (Unlimited).mp3'
-      length: 75
     - name: '[T&T] Pursuit.mp3'
       length: 117
     - name: '[T&T] Pursuit (Variation).mp3'
       length: 102
-    - name: '[T&T] Pursuit (Orchestra).mp3'
-      length: 91
-    - name: '[T&T] Pursuit (15th).mp3'
-      length: 69
-    - name: '[T&T] Pursuit (Unlimited).mp3'
-      length: 180
     - name: '[T&T] Pursuit (Rock Remix).mp3'
       length: 144
     - name: '[T&T] Pursuit 2004.mp3'
@@ -854,8 +700,6 @@
       length: 108
     - name: '[AJ] Pursuit (Variation).mp3'
       length: 104
-    - name: '[AJ] Pursuit (15th).mp3'
-      length: 128
     - name: '[AJ] Pursuit (Unlimited).mp3'
       length: 110
     - name: '[DD] Pursuit.mp3'
@@ -864,58 +708,30 @@
       length: 141
     - name: '[DD] Pursuit (Promotion Mix).mp3'
       length: 282
-    - name: '[DD] Pursuit (15th).mp3'
-      length: 133
-    - name: '[DD] Pursuit (Unlimited).mp3'
-      length: 69
-    - name: '[DD] Pursuit (Demo Remix).mp3'
-      length: 64
     - name: '[SoJ] Pursuit.mp3'
       length: 156
     - name: '[SoJ] Pursuit (Variation).mp3'
       length: 156
-    - name: '[SoJ] Pursuit (15th).mp3'
-      length: 69
-    - name: '[SoJ] Pursuit (Unlimited).mp3'
-      length: 77
     - name: '[AAI] Pursuit.mp3'
       length: 93
     - name: '[AAI] Pursuit (Variation).mp3'
       length: 189
-    - name: '[AAI] Pursuit (Unlimited).mp3'
-      length: 100
     - name: '[AAI2] Pursuit.mp3'
       length: 164
     - name: '[AAI2] Pursuit (Variation).mp3'
       length: 148
-    - name: '[AAI2] Pursuit (Orchestra).mp3'
-      length: 222
-    - name: '[AAI2] Pursuit (15th).mp3'
-      length: 110
-    - name: '[AAI2] Pursuit (Unlimited).mp3'
-      length: 130
     - name: '[PLvsAA] Pursuit (English).mp3'
       length: 86
     - name: '[PLvsAA] Pursuit.mp3'
       length: 160
-    - name: '[PLvsAA] Pursuit (Unlimited).mp3'
-      length: 175
     - name: '[DGS] Pursuit.mp3'
       length: 175
     - name: '[DGS] Pursuit (Variation).mp3'
       length: 123
-    - name: '[DGS] Pursuit (15th).mp3'
-      length: 121
-    - name: '[DGS] Pursuit (Unlimited).mp3'
-      length: 180
     - name: '[DGS2] Pursuit.mp3'
       length: 123
     - name: '[DGS2] Pursuit (Overture).mp3'
       length: 134
-    - name: '[Ani] Pursuit.mp3'
-      length: 203
-    - name: '[Mov] Pursuit.mp3'
-      length: 329
     - name: '[PWC] Pursuit.mp3'
       length: 292
     - name: '[MM] Pursuit (Layton).mp3'
@@ -928,26 +744,14 @@
       length: 165
     - name: '[FE] Pursuit.mp3'
       length: 106
-    - name: '[FE] Pursuit (Dark).mp3'
-      length: 125
-    - name: '[O] Pursuit.mp3'
-      length: 140
-    - name: '[EO] Pursuit.mp3'
-      length: 170
     - name: '[Z012] Pursuit.mp3'
       length: 165
     - name: '[Z012] Pursuit (Variation).mp3'
       length: 153
-    - name: '[UMvC3] Pursuit.mp3'
-      length: 237
     - name: '[FNS] Pursuit.mp3'
       length: 214
     - name: '[SJ] Pursuit.mp3'
       length: 58
-    - name: '[PXZ2] Pursuit.mp3'
-      length: 154
-    - name: '[LT] Pursuit.mp3'
-      length: 135
     - name: '[LB] Pursuit.mp3'
       length: 229
     - name: '[MGR] Pursuit.mp3'
@@ -1022,8 +826,6 @@
       length: 198
     - name: '[AAI2] The IS-7 Incident.mp3'
       length: 219
-    - name: '[AAI2] The IS-7 Incident (Orchestra).mp3'
-      length: 218
     - name: "[AAI2] The Girl's Lost Memories.mp3"
       length: 125
     - name: '[AAI2] The Fall of the House of Lang.mp3'
@@ -1080,8 +882,6 @@
       length: 186
     - name: '[DGS2] Solo of Rage.mp3'
       length: 130
-    - name: '[DGS2] Solo of Rage (DLC).mp3'
-      length: 76
     - name: '[DGS2] Surrounded by Nothingness.mp3'
       length: 104
     - name: '[DGS2] The Gate to the Truth.mp3'
@@ -1090,14 +890,6 @@
       length: 201
     - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.mp3'
       length: 89
-    - name: "[Ani] Edgeworth's Distress.mp3"
-      length: 71
-    - name: '[Mov] Necessary Measure.mp3'
-      length: 76
-    - name: '[Mov] Unjust Enrichment.mp3'
-      length: 99
-    - name: '[Mov] Symphonic Regrets.mp3'
-      length: 158
     - name: '[PLvsAA] Music Box - Turnabout Sisters.mp3'
       length: 186
     - name: '[DGS] Music Box - The Beginning Tone.mp3'
@@ -1120,16 +912,8 @@
       length: 163
     - name: '[P5] Guilt.mp3'
       length: 251
-    - name: '[O] Sleep my Dear.mp3'
-      length: 133
-    - name: '[RG] Sweet Memories.mp3'
-      length: 67
-    - name: '[DP] Pillow Stains.mp3'
-      length: 125
     - name: '[DP] York and Zach.mp3'
       length: 171
-    - name: '[CB] Blue.mp3'
-      length: 300
 - category: ===VICTORY CELEBRATION===
   songs:
     - name: '[AA] Victory!.mp3'
@@ -1158,14 +942,8 @@
       length: 152
     - name: '[DGS2] Victory! (DLC).mp3'
       length: 99
-    - name: '[Ani] Victory!.mp3'
-      length: 85
-    - name: '[Mov] Victory!.mp3'
-      length: 68
     - name: '[GT] Victory!.mp3'
       length: 124
-    - name: '[RT] Victory!.mp3'
-      length: 150
     - name: '[FF] Victory!.mp3'
       length: 46      
 - category: ===ENDINGS===
@@ -1198,16 +976,12 @@
       length: 134
     - name: '[DGS] Closing Suite.mp3'
       length: 426
-    - name: '[DGS] Closing Suite (15th).mp3'
-      length: 168
     - name: '[DGS] Ending.mp3'
       length: 320
     - name: '[DGS2] Closing Suite.mp3'
       length: 524
     - name: '[DGS2] Ending.mp3'
       length: 280
-    - name: '[GMO] Epilogue.mp3'
-      length: 308
     - name: '[CB] The Real Folk Blues.mp3'
       length: 374
 - category: ===PEOPLE THEMES===
@@ -1258,14 +1032,6 @@
       length: 54
     - name: '[DR] Desperate People.mp3'
       length: 161
-    - name: '[RT] Rowdy People.mp3'
-      length: 196
-    - name: '[DN] Ideological People.mp3'
-      length: 169
-    - name: '[SJ] Intelligent People.mp3'
-      length: 114
-    - name: '[SJ] Philosophical People.mp3'
-      length: 104
     - name: '[KD] Katamari People.mp3'
       length: 329
     - name: '[FE] Unwavering People.mp3'
@@ -1276,20 +1042,12 @@
       length: 209
     - name: '[GT] Bizarre People.mp3'
       length: 160
-    - name: '[DP] Comic People.mp3'
-      length: 93
-    - name: '[PS2] Smooth People.mp3'
-      length: 111
     - name: '[BB] Dangerous People.mp3'
       length: 262
     - name: '[BB] Malicious People.mp3'
       length: 227
-    - name: '[MGS5] Punished People.mp3'
-      length: 289
     - name: '[S&G] Depressing People.mp3'
       length: 183
-    - name: '[SA2] Pumpkin People.mp3'
-      length: 108
 - category: ===GENERAL THEMES===
   songs:
     - name: '[JFA] Berry Big Circus.mp3'
@@ -1308,8 +1066,6 @@
       length: 115
     - name: "[AJ] The Guitar's Serenade.mp3"
       length: 94
-    - name: "[AJ] The Guitar's Serenade (Piano).mp3"
-      length: 37
     - name: '[AJ] Solitary Confinement - Darkness.mp3'
       length: 89
     - name: '[AJ] Troupe Gramarye.mp3'
@@ -1408,8 +1164,6 @@
       length: 126
     - name: '[DGS2] The Prison Guards.mp3'
       length: 114
-    - name: '[GMO] Kurain Genealogy.mp3'
-      length: 286
     - name: '[DR] Danganronpa.mp3'
       length: 175
     - name: '[GT] A Ray of Light.mp3'
@@ -1440,8 +1194,6 @@
       length: 162
     - name: '[MGS5] Apollo Justice - Nuclear.mp3'
       length: 299
-    - name: '[Ani] April May - Beautiful Secretary.mp3'
-      length: 62
     - name: '[DGS] Asougi Kazuma - Samurai With a Mission.mp3'
       length: 131
     - name: '[15th] Asougi Kazuma - Samurai with a Mission.mp3'
@@ -1458,12 +1210,8 @@
       length: 123
     - name: '[DGS] Barok van Zieks - Grim Reaper of the Great Court.mp3'
       length: 222
-    - name: '[Ani] Ben and Trilo - The Ventriloquism of the Doll, Trilo.mp3'
-      length: 57
     - name: '[DD] Bobby Fulbright - In Justice We Trust!.mp3'
       length: 175
-    - name: '[SH] Caeser Villan - Who Let The Dogs Out.mp3'
-      length: 125
     - name: '[AAI] Calisto Yew - Let Me Laugh at the Cool.mp3'
       length: 171
     - name: '[AAI] Cammy Meele - Good Niiight.mp3'
@@ -1472,8 +1220,6 @@
       length: 125
     - name: "[DD] Cap'n Orla's Swashbucklers - Adventures Across the Seven Seas.mp3"
       length: 167
-    - name: '[Ani] Cody Hackins - Path to Glory.mp3'
-      length: 86
     - name: '[DGS2] Connette Rozaic - Mysteries Pressed in Wax.mp3'
       length: 53
     - name: '[T&T] Dahlia Hawthorne - Distant Traces of Beauty.mp3'
@@ -1490,8 +1236,6 @@
       length: 109
     - name: '[AAI] Dick Gumshoe - I Can Do It When It Counts!.mp3'
       length: 98
-    - name: '[Ani] Dick Gumshoe - Noodles And Paycuts.mp3'
-      length: 93
     - name: '[PWC] Dick Gumshoe - Unloved and Unpaid.mp3'
       length: 88
     - name: '[CV] Don Paolo - The Master of Disguise.mp3'
@@ -1506,8 +1250,6 @@
       length: 83
     - name: '[SoJ] Ema Skye - Scientific Detective.mp3'
       length: 192
-    - name: '[15th] Ema Skye - Scientific Detective.mp3'
-      length: 112
     - name: '[DGS2] Enoch Drebber - The Link Between Science and Magic.mp3'
       length: 101
     - name: '[PLvsAA] Espella Cantabella - Memories.mp3'
@@ -1540,8 +1282,6 @@
       length: 150
     - name: "[15th] Gregory Edgeworth - A Defense Attorney's Knowledge.mp3"
       length: 91
-    - name: '[HB] Harvey Birdman - Attorney At Law.mp3'
-      length: 34
     - name: '[HB] Harvey Birdman - Attorney At Law (Instrumental).mp3'
       length: 113
     - name: '[DGS] Hart Vortex - Judge of Time.mp3'
@@ -1554,8 +1294,6 @@
       length: 128
     - name: '[DGS] Iris Watson - A Little Biographer.mp3'
       length: 229
-    - name: '[15th] Iris Watson - A Little Biographer.mp3'
-      length: 56
     - name: '[DGS] Iris Watson - Bubbly Biographer.mp3'
       length: 83
     - name: '[AA] Jake Marshall - Detective From the Wild West.mp3'
@@ -1568,8 +1306,6 @@
       length: 136
     - name: '[AAI2] John Marsh - Pointed Age.mp3'
       length: 145
-    - name: '[EO] Juniper Woods - Cerulean Woods.mp3'
-      length: 180
     - name: '[AAI2] Justine Courtney - Goddess of Law.mp3'
       length: 152
     - name: '[15th] Justine Courtney - Goddess of Law.mp3'
@@ -1578,8 +1314,6 @@
       length: 117
     - name: '[AAI] Kay Faraday - The Great Truth Burglar.mp3'
       length: 135
-    - name: '[15th] Kay Faraday - The Great Truth Burglar.mp3'
-      length: 87
     - name: '[AJ] Klavier Gavin - Guilty Love.mp3'
       length: 87
     - name: "[SoJ] Lady Kee'ra - The Guardian of Khura'in.mp3"
@@ -1590,22 +1324,14 @@
       length: 114
     - name: "[SoJ] Larry Butz - When Something Smells, It's Usually Me.mp3"
       length: 106
-    - name: "[Ani] Larry Butz - It's Usually the Butz.mp3"
-      length: 83
-    - name: '[Ani] Lotta Hart - The Photographer from the South.mp3'
-      length: 72
     - name: '[FE] Lucina - Challenger of Fate.mp3'
       length: 473
-    - name: '[TAJ] Luis Hawk - Judge, Jury and Executioner.mp3'
-      length: 105
     - name: '[T&T] Luke Atmey - I Just Want Love.mp3'
       length: 92
     - name: '[GT] Lynne - A Targeted Redhead.mp3'
       length: 143
     - name: '[Ani] Manfred von Karma - The Invincible Prosecutor.mp3'
       length: 112
-    - name: "[P4U] Margaret - Poem for Everyone's Souls.mp3"
-      length: 108
     - name: '[AA] Marvin Grossberg - Age, Regret, Retribution.mp3'
       length: 85
     - name: '[PWC] Marvin Grossberg - Old Age, Regret, Retribution.mp3'
@@ -1614,20 +1340,12 @@
       length: 95
     - name: '[JFA] Maximillion Galactica - Fabulous!.mp3'
       length: 28
-    - name: '[Ani] Max Galactica - Gorgeous!.mp3'
-      length: 58
     - name: '[AA] Maya Fey - Turnabout Sisters.mp3'
       length: 148
     - name: '[JFA] Maya Fey - Turnabout Sisters.mp3'
       length: 111
     - name: '[SoJ] Maya Fey - Turnabout Sisters.mp3'
       length: 150
-    - name: '[GMO] Maya Fey - Turnabout Sisters.mp3'
-      length: 224
-    - name: '[15th] Maya Fey - Turnabout Sisters.mp3'
-      length: 208
-    - name: '[Mov] Maya Fey - Turnabout Sisters (Choir).mp3'
-      length: 152
     - name: '[AA] Mia Fey - Turnabout Sisters (Ballad).mp3'
       length: 112
     - name: '[DGS] Mikotoba Susato - Blooming Flower in the New World.mp3'
@@ -1652,10 +1370,6 @@
       length: 133
     - name: '[DGS] Natsume Souseki - I Am Innocent.mp3'
       length: 130
-    - name: '[HeH] Neil Marshall - Fastest Prosecution in the West.mp3'
-      length: 173
-    - name: '[K7] Olga Orly - Russian Roulette.mp3'
-      length: 168
     - name: '[AAI2] Patricia Roland - Hugs and Kisses.mp3'
       length: 198
     - name: '[SoJ] Paul Atishon - A Vote for Atishon!.mp3'
@@ -1666,22 +1380,16 @@
       length: 68
     - name: '[DD] Pearl Fey - Together With Pearly.mp3'
       length: 89
-    - name: '[Ani] Pearl Fey - Playful Pearl.mp3'
-      length: 70
     - name: "[SoJ] Pees'lubn Andistan'dhin - Ethnic Music.mp3"
       length: 496
     - name: "[SoJ] Pees'lubn Andistan'dhin - Head-Banging.mp3"
       length: 465
     - name: '[DD] Phantom - UNKNOWN.mp3'
       length: 263
-    - name: '[Ani] Phoenix Wright - Novice Attorney Phoenix!.mp3'
-      length: 92
     - name: "[PLvsAA] Professor Layton - Layton's Theme.mp3"
       length: 63
     - name: "[PLvsAA] Professor Layton - Layton's Theme (Variation).mp3"
       length: 126
-    - name: '[AJ] Prosecutor Justice - A New Path.mp3'
-      length: 124
     - name: '[SF] Q - The Theme of Q.mp3'
       length: 215
     - name: '[AAI] Quercus Alba - The Enemy Who Surpasses the Law.mp3'
@@ -1692,26 +1400,18 @@
       length: 173
     - name: '[AAI2] Raymond Shields - Joking Motive.mp3'
       length: 284
-    - name: '[15th] Raymond Shields - Joking Motive.mp3'
-      length: 149
     - name: '[Ani] Redd White - Imperious President.mp3'
       length: 94
     - name: '[P4U] Rise Kujikawa - Twinkle Star.mp3'
       length: 164
     - name: '[TSBO] Robert Snow - Catastrophically Successful Investigator.mp3'
       length: 120
-    - name: '[SoS] Rydia - A Dance of Autumn.mp3'
-      length: 235
     - name: '[AAI2] Sebastian Debeste - Debeste Reasoning.mp3'
       length: 169
-    - name: '[15th] Sebastian Debeste - Debeste Reasoning.mp3'
-      length: 88
     - name: '[AAI2] Sebastian Debeste - Debeste Farewell.mp3'
       length: 149
     - name: '[JFA] Shelly de Killer - The Whim of a Murderous Gentleman.mp3'
       length: 79
-    - name: '[Ani] Shelly de Killer - Fear of de Killer.mp3'
-      length: 81
     - name: '[DGS] Sherlock Holmes - The Great Detective of the Foggy Town.mp3'
       length: 152
     - name: '[15th] Sherlock Holmes - The Great Detective of the Foggy Town.mp3'
@@ -1744,16 +1444,6 @@
       length: 184
     - name: '[AA] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
       length: 108
-    - name: '[Ani] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
-      length: 230
-    - name: '[Mov] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
-      length: 80
-    - name: '[GMO] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
-      length: 223
-    - name: '[15th] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
-      length: 206
-    - name: '[PWC] The Steel Samurai - Warrior of Neo Olde Tokyo.mp3'
-      length: 203
     - name: '[PLvsAA] The Storyteller - Penning the Past, Present and Future.mp3'
       length: 74
     - name: '[DGS] Tobias Gregson - The Enemy of Great Detective.mp3'
@@ -1770,14 +1460,8 @@
       length: 167
     - name: '[SoJ] Uendo Toneido - The Laughing Typhoon.mp3'
       length: 128
-    - name: '[Ba] Venus - Your Desire.mp3'
-      length: 212
     - name: '[T&T] Victor Kudo - How Sad, the Melody of This War Song.mp3'
       length: 86
-    - name: '[WL] Warden Mundy - Rock the Outback.mp3'
-      length: 229
-    - name: '[Ani] Wendy Oldbag - Darn Whippersnappers!.mp3'
-      length: 90
     - name: '[DD] Yuri Cosmos - Head of the Center of the Universe.mp3'
       length: 195
     - name: '[P4U] Yu Narukami - Reach Out To The Truth.mp3'
@@ -1822,14 +1506,10 @@
       length: 111
     - name: "[T&T] Godot's Jazz Blend.mp3"
       length: 353
-    - name: '[SF] Guile.mp3'
-      length: 238
     - name: '[B] In the Speak Easy.mp3'
       length: 142
     - name: '[PLvsAA] In-Flight.mp3'
       length: 133
-    - name: '[RT] Infiltrating the Parisian City Police.mp3'
-      length: 129
     - name: '[AC] 7pm.mp3'
       length: 122
     - name: '[C] Jouji Washington.mp3'
@@ -1848,25 +1528,13 @@
       length: 45
     - name: '[HD] Straight Chaser.mp3'
       length: 47
-    - name: '[O] The Chain.mp3'
-      length: 153
     - name: '[RK] The Lazy Detective Agency.mp3'
       length: 167
     - name: '[PLvsAA] The Lost Forest.mp3'
       length: 137
-    - name: '[K64] VS. Zero Two.mp3'
-      length: 286
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime.mp3'
-    - name: '[Misc] 3DKH.mp3'
-      length: 285
-    - name: '[Misc] Ass.mp3'
-      length: 183
-    - name: '[Misc] Birds.mp3'
-      length: 158
-    - name: '[Misc] Bubblegum Bitch.mp3'
-      length: 153
     - name: "[Misc] Bustin'.mp3"
       length: 237
     - name: '[Misc] Dejavu.mp3'
@@ -1887,18 +1555,12 @@
       length: 194
     - name: '[Misc] Like a Damn Fiddle.mp3'
       length: 293
-    - name: '[Misc] Mod Exam - Examination.mp3'
-      length: 95
-    - name: '[Misc] Mod Exam - Virtue, Efficiency, Responsibility.mp3'
-      length: 125
     - name: '[Misc] Mystery Skulls - Money.mp3'
       length: 212
     - name: '[Misc] Ocean Man.mp3'
       length: 127
     - name: '[Misc] Pizza Time.mp3'
       length: 112
-    - name: '[Misc] Routine.mp3'
-      length: 179
     - name: '[Misc] Running in the 90s.mp3'
       length: 266
     - name: '[Misc] Stand Activated.mp3'
@@ -1919,8 +1581,6 @@
       length: 78
     - name: '[SU] Lag Remover.mp3'
       length: 154
-    - name: '[Brexit] EU Remover.mp3'
-      length: 308
     - name: '[Serb] Kebab Remover.mp3'
       length: 220
 - category: ===CUSTOM===
