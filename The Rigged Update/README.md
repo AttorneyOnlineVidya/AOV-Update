@@ -9,6 +9,7 @@ Content additions:
   * Payne Max (DD) re-rip.
   * Miles SoJ Wit.
   * Athena H Re-Rip + AthenaH School.
+  * Added some Mod songs to the actual music list.
 Content changes:
   * Updated Raymond's paper hold.
   * Separated Bikini and Elise.
@@ -22,6 +23,7 @@ Deletes:
   * Bikini and Elise's character folder.
   * Angie's faulty dead emote.
   * Deletes old AthenaH folder.
+  * Some old Mod tracks, now made Misc.
   
 Changes:
   * 

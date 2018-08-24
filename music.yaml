@@ -1535,8 +1535,12 @@
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime.mp3'
+    - name: '[Misc] Brother.mp3'
+      length: 347
     - name: "[Misc] Bustin'.mp3"
       length: 237
+    - name: '[Misc] Clover.mp3'
+      length: 202
     - name: '[Misc] Dejavu.mp3'
       length: 264
     - name: '[Misc] Gas Gas Gas.mp3'
@@ -1553,6 +1557,8 @@
       length: 462
     - name: '[Misc] Law & Order - Main Theme.mp3'
       length: 194
+    - name: '[Misc] Lestrade.mp3'
+      length: 366
     - name: '[Misc] Like a Damn Fiddle.mp3'
       length: 293
     - name: '[Misc] Mystery Skulls - Money.mp3'
@@ -1583,6 +1589,8 @@
       length: 154
     - name: '[Serb] Kebab Remover.mp3'
       length: 220
+    - name: '[Misc] Wake me up.mp3'
+      length: 21
 - category: ===CUSTOM===
   songs:
     - name: Custom Song 1.mp3
