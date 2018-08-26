@@ -11,6 +11,7 @@ Content additions:
   * Athena H Re-Rip + AthenaH School.
   * Verdict emotes for Vera.
   * Payne DGS/DGS2 rerip/rip.
+  * Ryutaro re-rip.
   * Added some Mod songs to the actual music list.
 Content changes:
   * Updated Raymond's paper hold.
@@ -27,6 +28,7 @@ Deletes:
   * Deletes old AthenaH folder.
   * Some old Mod tracks, now made Misc.
   * Vera's folder.
+  * Ryutaro's folder.
   * PayneDGS's folder.
   * Some useless stuff in the character folder.
   
