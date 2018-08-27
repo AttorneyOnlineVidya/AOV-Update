@@ -12,6 +12,7 @@ Content additions:
   * Verdict emotes for Vera.
   * Payne DGS/DGS2 rerip/rip.
   * Ryutaro re-rip.
+  * Some new Adachi emotes.
   * Added some Mod songs to the actual music list.
 Content changes:
   * Updated Raymond's paper hold.
@@ -31,6 +32,7 @@ Deletes:
   * Ryutaro's folder.
   * PayneDGS's folder.
   * Some useless stuff in the character folder.
+  * Adachi's folder.
   
 Changes:
   * 
