@@ -12,6 +12,7 @@ Content additions:
   * Verdict emotes for Vera.
   * Payne DGS/DGS2 rerip/rip.
   * Ryutaro re-rip.
+  * Barnham's re-rip.
   * Some new Adachi emotes.
   * Added some Mod songs to the actual music list.
 Content changes:
