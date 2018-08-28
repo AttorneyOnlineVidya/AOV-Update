@@ -5,6 +5,7 @@ Botch fixes:
   
 Content additions:
   * Some new ApolloSOJ co emotes.
+  * Ishimaru Kiyotaka.
   * New Darklaw re-rip.
   * Payne Max (DD) re-rip.
   * Miles SoJ Wit.
@@ -13,6 +14,7 @@ Content additions:
   * Payne DGS/DGS2 rerip/rip.
   * Ryutaro re-rip.
   * Added [TT] The Basics of The Case.mp3
+  * Added [DGS] Mamemomi Heita - Justice from Reporter Mamemomi.mp3
   * Barnham's re-rip.
   * Some new Adachi emotes.
   * Added some Mod songs to the actual music list.
