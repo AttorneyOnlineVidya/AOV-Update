@@ -12,6 +12,7 @@ Content additions:
   * Verdict emotes for Vera.
   * Payne DGS/DGS2 rerip/rip.
   * Ryutaro re-rip.
+  * Added [TT] The Basics of The Case.mp3
   * Barnham's re-rip.
   * Some new Adachi emotes.
   * Added some Mod songs to the actual music list.
