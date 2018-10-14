@@ -1583,7 +1583,7 @@
       length: 57
     - name: '[Misc] YRWN.mp3'
       length: 210
-    - name: "[Misc] You're the inspiration.mp3"
+    - name: "[Misc] You're The Inspiration.opus"
       length: 215
     - name: '[Wi] Lag Remover.mp3'
       length: 79
@@ -1593,8 +1593,8 @@
       length: 154
     - name: '[Serb] Kebab Remover.mp3'
       length: 220
-    - name: '[Misc] Wake me up.mp3'
-      length: 21
+    - name: '[Misc] Wake Me Up.opus'
+      length: 22.05
 - category: ===CUSTOM===
   songs:
     - name: Custom Song 1.mp3
