@@ -116,6 +116,8 @@
       length: 97
     - name: '[DD] Logic Trinity.mp3'
       length: 115
+    - name: '[DN] Note Logic.opus'
+      length: 181
     - name: '[SoJ] Logic Construct.mp3'
       length: 160
     - name: '[AAI] Tricks and Gimmicks.mp3'
@@ -764,6 +766,8 @@
       length: 208
     - name: '[SM] Pursuit.mp3'
       length: 131
+    - name: '[O] Pursuit.opus'
+      length: 145
     - name: '[AOV] Pursuit (Kay Faraday).mp3'
       length: 158
 - category: ===REMINISCENCE===
@@ -1036,6 +1040,8 @@
       length: 161
     - name: '[KD] Katamari People.mp3'
       length: 329
+    - name: '[KD] Rolling People.opus'
+      length: 344
     - name: '[FE] Unwavering People.mp3'
       lenght: 229
     - name: '[N] Cowardly People.mp3'
