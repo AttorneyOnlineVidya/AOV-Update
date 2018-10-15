@@ -65,8 +65,5 @@ del "base\characters\Phoenix Furio\think.gif"
 del "base\characters\Phoenix Furio\urk.gif"
 del "base\characters\Phoenix Furio\yes.gif"
 
-del "base\sounds\music\[Misc] Wake Me Up.mp3"
-del "base\sounds\music\[Misc] You're The Inspiration.mp3"
-
 echo "Nightmare Update Completed"
 pause
