@@ -116,7 +116,7 @@
       length: 97
     - name: '[DD] Logic Trinity.mp3'
       length: 115
-    - name: '[DN] Note Logic.opus'
+    - name: '[DN] Note Logic.mp3'
       length: 181
     - name: '[SoJ] Logic Construct.mp3'
       length: 160
@@ -766,7 +766,7 @@
       length: 208
     - name: '[SM] Pursuit.mp3'
       length: 131
-    - name: '[O] Pursuit.opus'
+    - name: '[O] Pursuit.mp3'
       length: 145
     - name: '[AOV] Pursuit (Kay Faraday).mp3'
       length: 158
@@ -1040,7 +1040,7 @@
       length: 161
     - name: '[KD] Katamari People.mp3'
       length: 329
-    - name: '[KD] Rolling People.opus'
+    - name: '[KD] Rolling People.mp3'
       length: 344
     - name: '[FE] Unwavering People.mp3'
       lenght: 229
@@ -1589,7 +1589,7 @@
       length: 57
     - name: '[Misc] YRWN.mp3'
       length: 210
-    - name: "[Misc] You're The Inspiration.opus"
+    - name: "[Misc] You're The Inspiration.mp3"
       length: 215
     - name: '[Wi] Lag Remover.mp3'
       length: 79
@@ -1599,7 +1599,7 @@
       length: 154
     - name: '[Serb] Kebab Remover.mp3'
       length: 220
-    - name: '[Misc] Wake Me Up.opus'
+    - name: '[Misc] Wake Me Up.mp3'
       length: 22.05
 - category: ===CUSTOM===
   songs:
