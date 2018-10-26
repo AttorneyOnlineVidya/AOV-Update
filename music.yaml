@@ -198,6 +198,8 @@
       length: 125
     - name: '[DGS] Suspense (Variation).mp3'
       length: 90
+    - name: '[TT] Suspense.mp3'
+      length: 174
     - name: '[O] Suspense.mp3'
       length: 81
     - name: '[999] Chill and Rigor.mp3'
@@ -482,8 +484,6 @@
       length: 69
     - name: '[SJ] Questioning (Allegro).mp3'
       length: 77
-    - name: '[EO] Questioning (Moderato).mp3'
-      length: 118
     - name: '[U] Questioning (Moderato).mp3'
       length: 342
     - name: '[U] Questioning (Allegro).mp3'
@@ -496,8 +496,6 @@
       length: 315
     - name: '[BB] Questioning (Presto).mp3'
       length: 239
-    - name: '[SSBM] Questioning (Presto).mp3'
-      length: 168
     - name: '[SM] Questioning (Presto).mp3'
       length: 107
     - name: '[BD] Questioning (Presto).mp3'
@@ -546,8 +544,6 @@
       length: 73
     - name: '[AA] Objection! (Jazz).mp3'
       length: 187
-    - name: '[AA] Objection! (15th).mp3'
-      length: 59
     - name: '[JFA] Objection!.mp3'
       length: 80
     - name: '[T&T] Objection!.mp3'
@@ -674,8 +670,6 @@
       length: 83
     - name: '[AA] Pursuit (Variation).mp3'
       length: 78
-    - name: '[AA] Pursuit (Orchestra).mp3'
-      length: 128
     - name: '[AA] Pursuit (15th).mp3'
       length: 58
     - name: '[AA] Pursuit (Unlimited).mp3'
