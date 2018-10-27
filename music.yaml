@@ -372,10 +372,10 @@
       length: 252
     - name: '[TT] Investigation.mp3'
       length: 192
-    - name: '[GT] Investigation (Core).mp3'
-      length: 166
     - name: '[GT] Investigation (Opening).mp3'
       length: 157
+    - name: '[GT] Investigation (Core).mp3'
+      length: 166
     - name: '[DR] Investigation.mp3'
       length: 245
     - name: '[DR2] Investigation.mp3'
