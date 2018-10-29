@@ -12,8 +12,12 @@ Content additions:
   * Added Phi from VLR
   * Added Luna from VLR
   * Added [TT] Suspense.mp3
+  * Means got a re-rip!
 
 Content changes:
+ * DGS 1 and 2 Payne are now seperate folders and have been renamed to ''Auchi'' and ''Auchi DGS2'' respecitvely.
+ * Trucy's folder has been reorganised
+ * Vera's ini got a fix
 
 Additional Download:
   * 
