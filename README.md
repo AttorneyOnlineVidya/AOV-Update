@@ -7,6 +7,7 @@ Botch fixes:
   - AA Objection (15th)
   - AA Pursuit (Orchestra)
   * Changed the name of Heita's theme on the jukebox to reflect what game he's actually from.
+  * Gina DGS2 now has shouts with her bubbles
   
 Content additions:
   * Added K from VLR
@@ -18,7 +19,7 @@ Content additions:
 
 Content changes:
  * DGS 1 and 2 Payne are now seperate folders and have been renamed to ''Auchi'' and ''Auchi DGS2'' respecitvely.
- * Changed ''Payne DGS Wit'' to ''Auchi Wit''
+ * Changed ''Payne DGS Wit'' to ''Auchi Wit'' and updated his ini.
  * Trucy's folder has been reorganised
  * Vera's ini got a fix
  * EmaAAI is now on the CSS!
