@@ -16,6 +16,7 @@ Content additions:
   * Added [TT] Suspense.mp3
   * Means got a re-rip!
   * Payne DGS has been split into two folders, with his older DGS1 rip being reinstated.
+  * Elise and EmaAAI now have CSS icons in their emotions folder.
 
 Content changes:
  * DGS 1 and 2 Payne are now seperate folders and have been renamed to ''Auchi'' and ''Auchi DGS2'' respecitvely.
