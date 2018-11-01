@@ -8,6 +8,8 @@ Botch fixes:
   - AA Pursuit (Orchestra)
   * Changed the name of Heita's theme on the jukebox to reflect what game he's actually from.
   * Gina DGS2 now has shouts with her bubbles
+
+  * Made casing great again
   
 Content additions:
   * Added K from VLR
