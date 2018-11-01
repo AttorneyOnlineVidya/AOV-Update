@@ -25,6 +25,7 @@ Content changes:
  * Vera's ini got a fix
  * EmaAAI is now on the CSS!
  * Elise has also been added to the CSS. Whoo.
+ * Updated the default theme.
 
 Additional Download:
   * 
