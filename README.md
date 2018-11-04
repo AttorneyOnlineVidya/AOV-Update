@@ -20,6 +20,10 @@ Content additions:
   * Payne DGS has been split into two folders, with his older DGS1 rip being reinstated.
   * Elise and EmaAAI now have CSS icons in their emotions folder.
 
+  * The contest winners submissions are in! Their choices for songs are:
+    - [FF] Prelude
+    - [FFXIV] Questioning (Presto)
+
 Content changes:
  * DGS 1 and 2 Payne are now seperate folders and have been renamed to ''Auchi'' and ''Auchi DGS2'' respecitvely.
  * Changed ''Payne DGS Wit'' to ''Auchi Wit'' and updated his ini.

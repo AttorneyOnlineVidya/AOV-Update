@@ -54,6 +54,8 @@
       length: 125
     - name: '[GT] Prelude.mp3'
       length: 149
+    - name: '[FF] Prelude.mp3'
+      length: 171
 - category: ===TRIAL===
   songs:
     - name: '[AA] Trial.mp3'
@@ -500,6 +502,8 @@
       length: 107
     - name: '[BD] Questioning (Presto).mp3'
       length: 242
+    - name: '[FFXIV] Questioning (Presto).mp3'
+      legnth: 318
 - category: ===GIMMICKS===
   songs:
     - name: '[JFA] Psyche Locks.mp3'
