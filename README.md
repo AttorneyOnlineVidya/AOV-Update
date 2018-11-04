@@ -19,6 +19,7 @@ Content additions:
   * Means got a re-rip!
   * Payne DGS has been split into two folders, with his older DGS1 rip being reinstated.
   * Elise and EmaAAI now have CSS icons in their emotions folder.
+  * Added the winning submission, Ghoul Alba to the files!
 
   * The contest winners submissions are in! Their choices for songs are:
     - [FF] Prelude
