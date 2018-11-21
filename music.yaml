@@ -39,7 +39,7 @@
     - name: "[SoJ] Prelude (Khura'in).mp3"
       length: 149
     - name: '[PLvsAA] Prelude (English).mp3'
-      length: 93
+      length: 76
     - name: '[PLvsAA] Prelude.mp3'
       length: 184
     - name: '[DGS] Prelude.mp3'
@@ -204,6 +204,8 @@
       length: 174
     - name: '[O] Suspense.mp3'
       length: 81
+    - name: '[U] Suspense.mp3'
+      legnth: 195
     - name: '[999] Chill and Rigor.mp3'
       length: 245
     - name: '[999] Eternitybox.mp3'
@@ -456,6 +458,8 @@
       length: 59
     - name: '[GT] Questioning (Allegro).mp3'
       length: 55
+    - name: '[GSM] Questioning (Allegro).mp3'
+      length: 183
     - name: '[RT] Questioning (Allegro).mp3'
       length: 120
     - name: '[TT] Questioning (Moderato).mp3'
