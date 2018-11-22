@@ -44,7 +44,7 @@ The following characters now have bubbles from DGS (Oh god help)
    * Hobbes
    * Hobbes Def (Hobbesjection remains)
    * Hosonaga
-   * Hutch Windiback
+   * Hutch Windibank
    * Iris Watson
    * Iris Watson Assistant
    * Jezail
