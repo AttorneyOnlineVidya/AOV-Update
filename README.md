@@ -7,12 +7,14 @@ Botch fixes:
 Content additions:
 
 The following characters have been added or recieved new emotes:
-   * Clover, Dio, Alice and Tenmyouji from VLR have been added.
+   * Clover, Dio, Alice, Quark and Tenmyouji from VLR have been added.
    * Snow has additional emotes.
    * ProsecutorJustice has additional emotes.
+   * Lewdton
 The following backgrounds have been added.
    * AJcourtSideJ, AJCourtSideJW and AJCourtSideW have all been added.
 The following songs have been added to the jukebox.
+    * [Misc] Record Scratch has been added
     * [GSM] Questioning has been re-added
     * [U] Suspense has been re-added.
 
