@@ -1,0 +1,15 @@
+{
+  "versions": [
+    {
+      "version": "aov-2.5.1",
+      "executable": "Attorney_Online.exe",
+      "full": [
+        {
+          "action": "dl",
+          "url": "https://s3.wasabisys.com/aov/AOV_2.5.1.7z",
+          "hash": "478e0ca069b25a6f413dec8c2c5ca04e491ec35f"
+        }
+      ]
+    }
+  ]
+}

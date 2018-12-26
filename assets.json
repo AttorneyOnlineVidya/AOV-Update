@@ -1,0 +1,46 @@
+{
+  "versions": [
+    {
+	  "version": "aov-2018.12",
+	  "prev": "aov-2018.11",
+	  "update": [
+		{
+		  "action": "deleteDir",
+		  "targets": [
+		    "base/characters/Rise",
+			"base/characters/Justine Courtney"
+		  ]
+		},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Holly_Jolly_Update.zip",
+		  "hash": "b3149d46615ad1af8372d3ed6aaacdedde1e2021"
+		}
+	  ]
+	},
+	{
+      "version": "aov-2018.11",
+      "full": [
+        {
+          "action": "dl",
+          "url": "https://s3.wasabisys.com/aov/Full_Characters_1.zip"
+        },
+        {
+          "action": "dl",
+          "url": "https://s3.wasabisys.com/aov/Full_Characters_2.zip",
+          "hash": "9feceb9ad09cd403941584e43df42015e4a72139"
+        },
+        {
+          "action": "dl",
+          "url": "https://s3.wasabisys.com/aov/Full_Music.zip",
+          "hash": "8b23c0dc46562caee4f0474b731fdd7507095a4a"
+        },
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Full_Misc.zip",
+		  "hash": "fc71bda28cf40531aeea8882e77a9e75253175f0"
+		}
+      ]
+    }
+  ]
+}
