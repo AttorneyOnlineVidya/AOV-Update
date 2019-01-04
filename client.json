@@ -1,5 +1,22 @@
 {
   "versions": [
+	{
+	  "version": "aov-2.6.1",
+	  "executable": "Attorney_Online.exe",
+	  "prev": "aov-2.5.1",
+	  "update": [
+	    {
+		  "action": "deleteDir",
+		  "targets": [
+		    "base/themes/1.8",
+			"base/themes/20%bigger"
+		  ]
+		},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/AOV_2.6.1.zip"
+		  "hash": "58e956b83a11b2befa9f5cdf503bef557e29b9a9"
+	},
     {
       "version": "aov-2.5.1",
       "executable": "Attorney_Online.exe",
