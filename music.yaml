@@ -258,9 +258,9 @@
       length: 81
     - name: '[PLvsAA] Confrontation.mp3'
       length: 190
-    - name: '[DGS] Reasoning Battle.mp3'
+    - name: '[DGS] Reasoning Battle - Start.opus'
       length: 125
-    - name: '[DGS] Reasoning Battle (Allegro).mp3'
+    - name: '[DGS] Reasoning Battle - Defeat.opus'
       length: 128
     - name: '[DGS] Joint Reasoning (Type A).mp3'
       length: 95
@@ -268,9 +268,9 @@
       length: 90
     - name: '[DGS] Joint Reasoning (Type B).mp3'
       length: 98
-    - name: '[DGS] Joint Reasoning (Type B-2).mp3'
-      length: 98
     - name: '[DGS] Joint Reasoning (Type C).mp3'
+      length: 98
+    - name: '[DGS] Joint Reasoning (Type C-2).opus'
       length: 98
     - name: '[15th] Joint Reasoning (Type O).mp3'
       length: 152
@@ -310,7 +310,7 @@
       length: 106
     - name: "[SoJ] Detention Center (Khura'in).mp3"
       length: 95
-    - name: '[DGS] Detention Center.mp3'
+    - name: '[DGS] Detention Center.opus'
       length: 160
 - category: ===INVESTIGATION===
   songs:
@@ -866,7 +866,7 @@
       length: 152
     - name: '[DGS] An Ashen Dance.mp3'
       length: 117
-    - name: '[DGS] The Musings of Sherlock Holmes.mp3'
+    - name: '[DGS] The Musings of Sherlock Holmes.opus'
       length: 77
     - name: '[DGS] The Thoughts of Sherlock Holmes.mp3'
       length: 139
