@@ -1,6 +1,21 @@
 {
   "versions": [
     {
+	  "version": "2.7 Content Update",
+	  "prev": "aov-2019.1",
+	  "update": [
+		{
+		  "action": "deletedir",
+		  "targets": "base/characters/Armie"
+		},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/2.7_Content_Update.zip",
+		  "hash": "52c9dd460910cd54580872b9429c8eae1c946cb9" 
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2019.1",
 	  "prev": "aov-2018.12",
 	  "update": [
@@ -8,7 +23,7 @@
 		  "action": "delete",
 		  "targets": [
 		    "base/characters/Margaret/[PRE]-damage.gif",
-			"base/characters/Margaret/[PRE]-Burst.gif",
+			"base/characters/Margaret/[PRE]-burst.gif",
 			"base/characters/Margaret/[PRE]-enough.gif",
 			"base/characters/Margaret/[PRE]-intro.gif",
 			"base/characters/Margaret/[PRE]-objection.gif",
@@ -30,15 +45,13 @@
 		  ]
 		},
 		{
-		  "action": "deleteDir",
-		  "targets": [
-		    "base/characters/Justine CourtneyPro"
-		  ]
+		  "action": "deletedir",
+		  "targets": "base/characters/Justine CourtneyPro"
 		},
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/And_A_Happy_New_Update.zip",
-		  "hash": "2988c0f2c1e6bfb3aa2cd7a77c432d60ee8c826c"
+		  "hash": "ea88ef46fd1035e9e7d61b26b1b33e12d99bfea5"
 		}
 	  ]
 	},
@@ -47,7 +60,7 @@
 	  "prev": "aov-2018.11",
 	  "update": [
 		{
-		  "action": "deleteDir",
+		  "action": "deletedir",
 		  "targets": [
 		    "base/characters/Rise",
 			"base/characters/Justine Courtney"

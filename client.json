@@ -1,6 +1,18 @@
 {
   "versions": [
 	{
+	  "version": "aov-2.7",
+	  "executable": "Attorney_Online.exe",
+	  "prev": "aov-2.6.1",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/AOV_2.7.zip",
+		  "hash": "72724bdf285544de2c15ff8b1a1e3efa9557730a"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2.6.1",
 	  "executable": "Attorney_Online.exe",
 	  "prev": "aov-2.5.1",
