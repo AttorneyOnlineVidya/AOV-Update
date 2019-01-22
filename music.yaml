@@ -174,6 +174,8 @@
       length: 173
     - name: '[M] The Basics of The Case.mp3'
       length: 177
+    - name: '[JJ] Logic and Stands.opus'
+      length: 105
 - category: ===SUSPENSE===
   songs:
     - name: '[AA] Suspense.mp3'
@@ -362,7 +364,7 @@
       length: 179
     - name: '[AAI2] Investigation (Core).mp3'
       length: 185
-    - name: '[DGS] Investigation (Opening).mp3'
+    - name: '[DGS] Investigation (Opening).opus'
       length: 195
     - name: '[DGS] Investigation (Core).mp3'
       length: 141
@@ -630,7 +632,7 @@
       length: 73
     - name: '[PLvsAA] Confess the Truth.mp3'
       length: 164
-    - name: '[DGS] Confess The Truth.mp3'
+    - name: '[DGS] Confess The Truth.opus'
       length: 208
     - name: '[DGS] Confess The Truth (DLC).mp3'
       length: 183
@@ -954,6 +956,8 @@
       length: 124
     - name: '[FF] Victory!.mp3'
       length: 46      
+    - name: '[BD] Victory!.opus'
+      length: 35
 - category: ===ENDINGS===
   songs:
     - name: '[AA] Ending.mp3'
@@ -982,7 +986,7 @@
       length: 329
     - name: '[PLvsAA] Epilogue.mp3'
       length: 134
-    - name: '[DGS] Closing Suite.mp3'
+    - name: '[DGS] Closing Suite.opus'
       length: 426
     - name: '[DGS] Ending.mp3'
       length: 320
@@ -1052,10 +1056,12 @@
       length: 209
     - name: '[GT] Bizarre People.mp3'
       length: 160
-    - name: '[BB] Dangerous People.mp3'
+    - name: '[BB] Dangerous People.opus'
       length: 262
-    - name: '[BB] Malicious People.mp3'
+    - name: '[BB] Malicious People.opus'
       length: 227
+    - name: '[JJ] Killer People.opus'
+      length: 178
     - name: '[S&G] Depressing People.mp3'
       length: 183
 - category: ===GENERAL THEMES===
@@ -1432,7 +1438,7 @@
       length: 165
     - name: '[15th] Shi Long Lang - Speak up, Pup!.mp3'
       length: 89
-    - name: '[TWEWY] Sho Minamimoto - So Zetta Slow!.mp3'
+    - name: '[TWEWY] Sho Minamimoto - So Zetta Slow!.opus'
       length: 197
     - name: '[TWEWY] Sho Minamimoto - Inverse Matrix.mp3'
       length: 115
