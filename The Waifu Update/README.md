@@ -2,7 +2,7 @@
 
 Botch fixes:
   * Franziska, Alita, Angel, April, EmaAAI, Gant, Jezail, Lucy, Maggey/AAI,
-    Olga, Penny, Snake Trucy and Winfred all have new folders or minor adjustments.
+    Olga, Penny, Snake, EmaAJ, Trucy and Winfred all have new folders or minor adjustments.
 
   
 Content additions:
@@ -38,5 +38,7 @@ Changes:
 
 Removes:
    * Justine CourtneyPro
+   * LSP emotes from Adrian, Rhoda and Cammy
+   * sfx-con-damage.wav
    * Duplicate slides from the VLR folders (Tenmyouji, Alice)
    * [BB] Dangerous and Malicious people, [TWEWY] Show Zetta slow and a few DGS songs

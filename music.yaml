@@ -89,6 +89,7 @@
     - name: '[X] Logic and Conspiracy'
     - name: '[SoJ] The Basics of the Case'
     - name: '[TT] The Basics of The Case'
+    - name: '[JJ] Logic and Stands'
     - name: '[M] The Basics of The Case'
 - category: ===SUSPENSE===
   songs:
@@ -493,6 +494,7 @@
     - name: '[DGS2] Victory! (DLC)'
     - name: '[GT] Victory!'
     - name: '[FF] Victory!'
+    - name: '[BD] Victory!'
 - category: ===ENDINGS===
   songs:
     - name: '[AA] Ending'
@@ -547,6 +549,7 @@
     - name: '[BB] Dangerous People'
     - name: '[BB] Malicious People'
     - name: '[S&G] Depressing People'
+    - name: '[JJ] Killer People'
 - category: ===GENERAL THEMES===
   songs:
     - name: '[JFA] Berry Big Circus'

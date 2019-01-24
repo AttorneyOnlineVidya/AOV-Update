@@ -25,6 +25,8 @@ del "base\sounds\music\[DGS] Investigation.mp3"
 del "base\sounds\music\[DGS] London - Business as Usual.mp3"
 del "base\sounds\music\[TWEWY] Sho Minamoto - So Zetta Slow!.mp3"
 
+del "base\sounds\sounds\general\sfx-con-damage.wav"
+
 rd /S /Q "base\characters\Justine" "CourtneyPro"
 
 echo "completed"
