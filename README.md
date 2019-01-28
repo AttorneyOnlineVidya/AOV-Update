@@ -2,7 +2,7 @@
 
 Botch fixes:
   * Franziska, Alita, Angel, April, EmaAAI, Gant, Jezail, Lucy, Maggey/AAI,
-    Olga, Penny, Snake, EmaAJ, Trucy and Winfred all have new folders or minor adjustments.
+    Olga, Penny, Snake, EmaAJ, Trucy, Pearl Teen Comfy and Winfred all have new folders or minor adjustments.
 
   
 Content additions:
@@ -42,3 +42,4 @@ Removes:
    * sfx-con-damage.wav
    * Duplicate slides from the VLR folders (Tenmyouji, Alice)
    * [BB] Dangerous and Malicious people, [TWEWY] Show Zetta slow and a few DGS songs
+   * All Shih-na emotes and buttons from Yew's folder
