@@ -1,7 +1,7 @@
 # [THE WAIFU UPDATE]
 
 Botch fixes:
-  * Franziska, Alita, Angel, April, EmaAAI, Gant, Jezail, Lucy, Maggey/AAI,
+  * Franziska, Alita, Angel, April, Barnham, EmaAAI, Gant, Jezail, Lucy, Maggey/AAI,
     Olga, Penny, Snake, EmaAJ, Trucy, Pearl Teen Comfy and Winfred all have new folders or minor adjustments.
 
   
