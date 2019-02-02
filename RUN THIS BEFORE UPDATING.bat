@@ -1,12 +1,4 @@
 
-del "base\characters\Franziska"
-del "base\characters\April"
-del "base\characters\Baliff" "JP"
-del "base\characters\Baliff" "GB"
-del "base\characters\Maggey"
-del "base\characters\Maggey" "AAI"
-del "base\characters\Olga" "Orly"
-del "base\characters\Pearl"
 del "base\characters\Cammy\(b)LSP.gif"
 del "base\characters\Cammy\(a)LSP.gif"
 del "base\characters\Adrian\(b)LSP.gif"
@@ -78,7 +70,14 @@ del "base\sounds\music\[TWEWY] Sho Minamoto - So Zetta Slow!.mp3"
 
 del "base\sounds\sounds\general\sfx-con-damage.wav"
 
-rd /S /Q "base\characters\Justine" "CourtneyPro"
-
+rd /S /Q "base\characters\Justine "CourtneyPro"
+rd /S /Q "base\characters\Franziska"
+rd /S /Q "base\characters\April"
+rd /S /Q "base\characters\Baliff "JP"
+rd /S /Q "base\characters\Baliff "GB"
+rd /S /Q "base\characters\Maggey"
+rd /S /Q "base\characters\Maggey "AAI"
+rd /S /Q "base\characters\Olga "Orly"
+rd /S /Q "base\characters\Pearl"
 echo "completed"
 exit
