@@ -7,6 +7,7 @@ Botch fixes:
   
 Content additions:
    * Blackquill has a new custom and his silence emote has been added to the folder.
+   * Updated the client to 2.7.2
    
 
 The following characters have been added or recieved new emotes:
