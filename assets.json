@@ -6,7 +6,7 @@
 	  "update": [
 	    {
 		  "action": "delete",
-		  "targets": [
+		  "target": [
 			"base/characters/Cammy/(b)LSP.gif",
 			"base/characters/Cammy/(a)LSP.gif",
 			"base/characters/Adrian/(b)LSP.gif",
@@ -74,8 +74,8 @@
 		  ]
 		},
 		{
-		  "action": "deletedir",
-		  "targets": [
+		  "action": "deleteDir",
+		  "target": [
 			"base/characters/Justine CourtneyPro",
 			"base/characters/Franziska",
 			"base/characters/April",
@@ -100,7 +100,7 @@
 	  "update": [
 		{
 		  "action": "deletedir",
-		  "targets": "base/characters/Armie"
+		  "target": "base/characters/Armie"
 		},
 		{
 		  "action": "dl",
@@ -115,7 +115,7 @@
 	  "update": [
 	    {
 		  "action": "delete",
-		  "targets": [
+		  "target": [
 		    "base/characters/Margaret/[PRE]-damage.gif",
 			"base/characters/Margaret/[PRE]-burst.gif",
 			"base/characters/Margaret/[PRE]-enough.gif",
@@ -140,7 +140,7 @@
 		},
 		{
 		  "action": "deletedir",
-		  "targets": "base/characters/Justine CourtneyPro"
+		  "target": "base/characters/Justine CourtneyPro"
 		},
 		{
 		  "action": "dl",
@@ -155,7 +155,7 @@
 	  "update": [
 		{
 		  "action": "deletedir",
-		  "targets": [
+		  "target": [
 		    "base/characters/Rise",
 			"base/characters/Justine Courtney"
 		  ]

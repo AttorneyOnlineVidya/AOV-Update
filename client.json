@@ -31,7 +31,7 @@
 	  "update": [
 	    {
 		  "action": "deleteDir",
-		  "targets": [
+		  "target": [
 		    "base/themes/1.8",
 			"base/themes/20%bigger"
 		  ]
