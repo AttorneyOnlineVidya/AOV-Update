@@ -29,13 +29,8 @@
 	  "executable": "Attorney_Online.exe",
 	  "prev": "aov-2.5.1",
 	  "update": [
-	    {
-		  "action": "deleteDir",
-		  "target": [
-		    "base/themes/1.8",
-			"base/themes/20%bigger"
-		  ]
-		},
+	    {"action": "deleteDir", "target": "base/themes/1.8"},
+		{"action": "deleteDir", "target": "base/themes/20%bigger"},
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/AOV_2.6.1.zip",
