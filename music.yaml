@@ -574,6 +574,7 @@
     - name: '[DD] Robot Laboratory - Unerasable Past'
     - name: '[DD] Amazing Nine-Tails'
     - name: '[DD] The Legend of Tenma Taro'
+    - name: '[DD] Shipshape Aquariam - A Refreshing Sea'
     - name: '[SoJ] Audience Chamber'
     - name: '[SoJ] Fourteen Years Ago'
     - name: "[SoJ] It's show time!"
@@ -817,6 +818,7 @@
     - name: '[Misc] Ocean Man'
     - name: '[Misc] Pizza Time'
     - name: '[Misc] Record Scratch'
+    - name: '[Misc] Raebelle'
       length: 0
     - name: '[Misc] Running in the 90s'
     - name: '[Misc] Stand Activated'
@@ -834,9 +836,11 @@
   mod: 1
   songs:
     - name: '[MOD] Conway - Chicken Wings'
+      length: 0
     - name: '[MOD] abuse'
       length: 0
     - name: '[MOD] Normies'
+      length: 0
     - name: '[MOD] 39 dollars'
       length: 0
 - category: ===CUSTOM===

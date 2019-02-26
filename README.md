@@ -1,11 +1,13 @@
 # [THE DEEP DARK FANTASY UPDATE]
 
 Botch fixes:
-   * Geiru has some buttons and her ini fixed
+   * Geiru and Lbelle has some buttons and her ini fixed
   
 Content additions:
-   * Buttons for Pearl have been redone
+   * Buttons for several characters have been redone
    * A Char_Icon for Sarge was added
+   * Athena SOJ W has been added!
+   * Trucy (Red) was added! 
    
 
 The following characters have been added or recieved new emotes:
@@ -26,6 +28,7 @@ The following songs have been added to the jukebox:
    * [TT] Suspense.opus
    * [TT] The Basics of The Case.opus
    * [TT] The Dead Shall Speak.opus
+   * [Misc] Raebelle.opus
 Content changes:
 
 
@@ -38,7 +41,7 @@ BATCH FILE
 Changes:
 
 Removes:
-   * 
+
    * [DD] Pursuit (Promotion Mix).mp3
    * [SOJ] Pursuit.mp3
    * [SOJ] Pursuit (Variation).mp3
@@ -50,3 +53,13 @@ Removes:
    * [TT] Suspense.mp3
    * [TT] The Basics of The Case.mp3
    * [TT] The Dead Shall Speak.mp3
+
+   * Newman\point_pre.gif
+   * Newman\point_pre_girl.gif
+   * Desiree\(a)desiree-normal.gif
+   * Desiree\(b)desiree-normal.gif
+   * Desiree\(a)desirenormal.gif
+   * Desiree\(b)desirenormal.gif
+   * Desiree\(a)desiree-sweating.gif
+   * Desiree\(b)desiree-sweating.gif
+   * Desiree\(a)desiree-thinking.gif
