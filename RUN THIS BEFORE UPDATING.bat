@@ -23,6 +23,7 @@ del "base\sounds\music\[TT] Suspense.mp3"
 del "base\sounds\music\[TT] The Basics of The Case.mp3"
 del "base\sounds\music\[TT] The Dead Shall Speak.mp3"
 
+rd /S /Q "base\characters\Kokichi"
 
 echo "completed"
 exit

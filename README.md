@@ -4,11 +4,12 @@ Botch fixes:
    * Geiru and Lbelle has some buttons and her ini fixed
   
 Content additions:
+   * Added Darkthena!
    * Buttons for several characters have been redone
    * A Char_Icon for Sarge was added
    * Athena SOJ W has been added!
    * Trucy (Red) was added! 
-   
+   * The _customblips folder has been updated.
 
 The following characters have been added or recieved new emotes:
    * Desiree
@@ -41,6 +42,8 @@ BATCH FILE
 Changes:
 
 Removes:
+  
+   * Kokichi
 
    * [DD] Pursuit (Promotion Mix).mp3
    * [SOJ] Pursuit.mp3
