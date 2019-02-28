@@ -14,6 +14,7 @@ Content additions:
 The following characters have been added or recieved new emotes:
    * Desiree
    * Angel Starr
+   * Taizou got a rerip!
    * Kay Injured
 
 The following songs have been added to the jukebox:
@@ -44,6 +45,7 @@ Changes:
 Removes:
   
    * Kokichi
+   * Taizou
 
    * [DD] Pursuit (Promotion Mix).mp3
    * [SOJ] Pursuit.mp3
