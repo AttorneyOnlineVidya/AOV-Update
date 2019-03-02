@@ -16,6 +16,7 @@ The following characters have been added or recieved new emotes:
    * Angel Starr
    * Taizou got a rerip!
    * Kay Injured
+   * Kay
 
 The following songs have been added to the jukebox:
    * [DD] Pursuit (Promotion Mix).opus
@@ -45,8 +46,8 @@ Changes:
 Removes:
   
    * Kokichi
-   * Taizou
-
+   * Uzukamaru Taizo
+   * [FF] Victory!.mp3
    * [DD] Pursuit (Promotion Mix).mp3
    * [SOJ] Pursuit.mp3
    * [SOJ] Pursuit (Variation).mp3
@@ -63,8 +64,8 @@ Removes:
    * Newman\point_pre_girl.gif
    * Desiree\(a)desiree-normal.gif
    * Desiree\(b)desiree-normal.gif
-   * Desiree\(a)desirenormal.gif
-   * Desiree\(b)desirenormal.gif
+   * Desiree\(a)desireenormal.gif
+   * Desiree\(b)desireenormal.gif
    * Desiree\(a)desiree-sweating.gif
    * Desiree\(b)desiree-sweating.gif
    * Desiree\(a)desiree-thinking.gif
