@@ -1,0 +1,7 @@
+Rip and buttons by Rye (Rye#5371) for Attorney Online Vidya. Please contact me if you have any questions or feedback. 
+
+Footage kindly donated by an outside source.
+
+Char_icon is inconsistent with AOV's char_icon structure simply because I do not have access to the other style of icon. 
+
+Shoutouts to Simps.
