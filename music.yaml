@@ -9,6 +9,7 @@
     - name: "[DGS2] The Great Detective's Friendship"
     - name: '[DGS2] The Legend of the Baskervilles'
     - name: '[Ani] Opening Season 1'
+    - name: '[Ani} Opening Season 2'
     - name: '[LS] Theme of the Devils Flute'
     - name: '[CB] Tank!'
 - category: ===PRELUDE===
@@ -396,6 +397,7 @@
     - name: '[SJ] Pursuit'
     - name: '[LB] Pursuit'
     - name: '[MGR] Pursuit'
+    - name: [DMC] Pursuit'
     - name: '[P5] Pursuit'
     - name: '[RT] Pursuit'
     - name: '[SM] Pursuit'
@@ -780,6 +782,7 @@
     - name: '[C] Also Sprach Brooks'
     - name: '[PLvsAA] Bakery'
     - name: '[P5] Beneath the Mask'
+    - name: '[P5] Beneath the Mask (Rain)
     - name: '[P3] Blues In Velvet Room'
     - name: '[O] Brick Ballades Houston Street'
     - name: '[GT] Chase'
@@ -818,8 +821,8 @@
     - name: '[Misc] Ocean Man'
     - name: '[Misc] Pizza Time'
     - name: '[Misc] Record Scratch'
-    - name: '[Misc] Raebelle'
       length: 0
+    - name: '[Misc] Raebelle'
     - name: '[Misc] Running in the 90s'
     - name: '[Misc] Stand Activated'
     - name: "[Misc] What's The Deal With Contradictions"
