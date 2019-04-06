@@ -1,9 +1,15 @@
 {
+  "launcher": { "version": "1.2.0"},
   "versions": [
     {
 	  "version": "aov-2019.4",
 	  "prev": "aov-2019.3",
 	  "update": [
+	    {
+		  "action": "notice",
+		  "msg": "Your current version of the launcher is out of date. You can download the latest version at https://s3.wasabisys.com/aov/Launcher.zip.",
+		  "versionCheck": true
+		},
 	    { "action": "delete", "target": "base\sounds\general\drv3-oumasnore.wav"},
 	    { "action": "delete", "target": "base\sounds\general\drv3-oumacry.wav"},
 	    { "action": "delete", "target": "base\sounds\general\drv3-oumalaugh.wav"},
