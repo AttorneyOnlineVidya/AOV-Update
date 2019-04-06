@@ -1,6 +1,95 @@
 {
   "versions": [
     {
+	  "version": "aov-2019.4",
+	  "prev": "aov-2019.3",
+	  "update": [
+	    { "action": "delete", "target": "base\sounds\general\drv3-oumasnore.wav"},
+	    { "action": "delete", "target": "base\sounds\general\drv3-oumacry.wav"},
+	    { "action": "delete", "target": "base\sounds\general\drv3-oumalaugh.wav"},
+	    { "action": "delete", "target": "base\sounds\general\drv3-usodayo.wav"},
+	    { "action": "delete", "target": "base\sounds\general\drv3-nishishi.wav"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Mature_Update.zip",
+		  "hash": "d0aeca65380472fbca304be4a2da8ad9915b918f"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2019.3",
+	  "prev": "QUALITY",
+	  "update": [
+		{ "action": "delete", "target": "base\sounds\music\[Misc] Anime.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[CB]Blue.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Blissful People.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Logic And Tricks.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Pursuit (Live Mix).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Questioning (Allegro) (OST Mix).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Questioning (Moderato) (Beta Mix).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Suspense.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AA] Trial (OST Mix).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AAI2] Confrontation (Presto).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AAI2] Shi Long-Lang - Speak Up, Pup!.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AJ] Ema Skye - Scientist Detective.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AJ] Gramarye Troupe.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AJ] Kitaki Family.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AJ] Trance Logic.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [AJ] Trucy Wright - Child Of Magic.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [BJ] Piano Man.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [DD] Difficult People.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [DP] Life Is Beautiful.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [EBA] Jumpin Jack Flash.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [GM] Pursuit - Wanting to Stick it in.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [GT] Captive Of Fate.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [GT] Chicken Paradise.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [GT] Lynne - A Targeted Redhead.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [GT] Objection!.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [HB] El Sonidito.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [HD] Monochrome.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [HH] Zacharias Barnham - Real Labyrinthian.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [JFA] Berry Big Circus.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [JFA] Strange People.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [Misc] Gone Guru.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [Misc] King of Limbo.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [MOD] Hip to Defend.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [MOD] Lawyer Man.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [P3] Investigation (Opening).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [P4] Rise Kujikawa - Twinkle Star (Offender Mix).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [P5] Life Will Change.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [P5] Rivers In The Desert.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [S] Invitation.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [SoJ] Objection! (Athena).opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [T&T] Trial.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [T&T] Victor Kudo - How Sad, The Melody Of This War Song.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] [Y0] Kiryu Kazuma - Breaking The Law.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Conway Stern - Speeding Ticket.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Dick Gumshoe - It's Detective Gumshoe!.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Ibuki (Ibuki) - Ibuki.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Polly - Birds.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Solomon Starbuck - Ground Control To Major Tom.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Uering People.opus" },
+		{ "action": "delete", "target": "base\sounds\music\[LEG] Warden Mundy - Rock The Outback.opus" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_AthenaDA" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_AthenaW" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_Chrom" },
+		{ "action": "deleteDir", "target": "base\characters\Legacy_Krieger" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_L" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_Nuclear Apollo" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_Paper Barok" },
+		{ "action": "deleteDir", "target": "base\characters\legacy_QualityQuill" }
+	  ]
+	},
+	{
+	  "version": "QUALITY",
+	  "update":
+	    {
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Quality_Update.zip"
+		  "hash": "4d5e51c4df5eb3352f6f7e9a065ff9e31dd78541"
+		}
+	},
+	{
 	  "version": "aov-2019.3",
 	  "prev": "aov-2019.2",
 	  "update": [
@@ -24,8 +113,8 @@
 	    { "action": "delete", "target": "base\sounds\music\[TT] Suspense.mp3"},
 	    { "action": "delete", "target": "base\sounds\music\[TT] The Basics of The Case.mp3"},
 	    { "action": "delete", "target": "base\sounds\music\[TT] The Dead Shall Speak.mp3"},
-	    { "action": "deletedir", "target": "base\characters\Kokichi"},
-	    { "action": "deletedir", "target": "base\characters\Uzukamaru Taizo"},
+	    { "action": "deleteDir", "target": "base\characters\Kokichi"},
+	    { "action": "deleteDir", "target": "base\characters\Uzukamaru Taizo"},
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/The_Deep_Dark_Fantasy_Update.zip",
@@ -122,7 +211,7 @@
 	  "prev": "aov-2019.1",
 	  "update": [
 		{
-		  "action": "deletedir",
+		  "action": "deleteDir",
 		  "target": "base/characters/Armie"
 		},
 		{
@@ -157,7 +246,7 @@
 		{"action": "delete", "target": "base/sounds/music/[DGS] Reasoning Battle (Allegro).mp3"},
 		{"action": "delete", "target": "base/sounds/music/[DGS] The Musings of Sherlock Holmes.mp3"},
 		{
-		  "action": "deletedir",
+		  "action": "deleteDir",
 		  "target": "base/characters/Justine CourtneyPro"
 		},
 		{
