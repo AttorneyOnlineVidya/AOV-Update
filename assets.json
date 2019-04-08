@@ -1,5 +1,5 @@
 {
-  "launcher": { "version": "1.2.0"},
+  "launcher": { "branding": "https://s3.wasabisys.com/aov/branding.rcc", "version": "1.2.0"},
   "versions": [
     {
 	  "version": "aov-2019.4",
