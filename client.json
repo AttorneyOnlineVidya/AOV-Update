@@ -3,7 +3,6 @@
 	{
 	  "version": "aov-2.7.2",
 	  "executable": "Attorney_Online.exe",
-	  "prev": "aov-2.7.1",
 	  "full": [
 		{
 		  "action": "dl",
