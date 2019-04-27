@@ -2,6 +2,7 @@
   songs:
     - name: '[JFA] Toccata and Fugue'
     - name: '[PLvsAA] Opening Theme'
+    - name: '[AAHD] Opening Theme'
     - name: '[DGS] The Adventure of the Great Departure'
     - name: '[DGS] Dawn of the Unspeakable Story'
     - name: '[DGS] Burst of Flames'
@@ -29,6 +30,7 @@
     - name: '[DGS2] Prelude to Resolve'
     - name: '[DGS2] Prelude to the Blossoming Attorney'
     - name: '[GT] Prelude'
+    - name: '[P5] Prelude'
     - name: '[FF] Prelude'
 - category: ===TRIAL===
   songs:
@@ -117,6 +119,7 @@
     - name: '[GT] Suspense'
     - name: '[P4] Suspense'
     - name: '[DP] Suspense'
+    - name: '[OFF] Suspense'
 - category: ===CRISIS===
   songs:
     - name: '[JFA] Hotline of Fate'
@@ -643,6 +646,7 @@
     - name: '[GT] Cabanela - A White Lovely Lanky Man'
     - name: "[DD] Cap'n Orla's Swashbucklers - Adventures Across the Seven Seas"
     - name: '[DGS2] Connette Rozaic - Mysteries Pressed in Wax'
+    - name: '[DGS2] Courtney Sithe - The Solitary Coroner'
     - name: '[T&T] Dahlia Hawthorne - Distant Traces of Beauty'
     - name: '[AA] Damon Gant - Swimming, Anyone'
     - name: '[AAI2] Dane Gustavia - Brandished Flavor'
@@ -701,6 +705,7 @@
     - name: '[DGS2] Mamemomi Heita - Justice from Reporter Mamemomi'
     - name: '[AA] Marvin Grossberg - Age, Regret, Retribution'
     - name: '[PWC] Marvin Grossberg - Old Age, Regret, Retribution'
+    - name: '[P4U] Margaret's Theme - The Sadistic Stud-Keeping Secretary'
     - name: '[T&T] Mask DeMasque - Pleeeeease Listen'
     - name: '[JFA] Maximillion Galactica - Fabulous!'
     - name: '[AA] Maya Fey - Turnabout Sisters'
