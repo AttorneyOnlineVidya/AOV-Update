@@ -1,5 +1,5 @@
 {
-  "launcher": { "version": "1.2.0"},
+  "launcher": { "version": "1.2.2"},
   "versions": [
     {
 	  "version": "aov-2019.4",
@@ -230,73 +230,78 @@
 	},
 	{
 	  "version": "aov-2019.1",
-	  "prev": "aov-2018.12",
-	  "update": [
-	    {"action": "delete", "target": "base/characters/Margaret/[PRE]-damage.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-burst.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-enough.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-intro.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-objection.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-oof.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-Peace.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-present.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-shock.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-show.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-slam.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-slamX2.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-slip.gif"},
-		{"action": "delete", "target": "base/characters/Margaret/[PRE]-swipe.gif"},
-		{"action": "delete", "target": "base/sounds/music/[AOV] anime.mp3"},
-		{"action": "delete", "target": "base/sounds/music/[DGS] Detention Center.mp3"},
-		{"action": "delete", "target": "base/sounds/music/[DGS] Joint Reasoning (Type B-2).mp3"},
-		{"action": "delete", "target": "base/sounds/music/[DGS] Reasoning Battle.mp3"},
-		{"action": "delete", "target": "base/sounds/music/[DGS] Reasoning Battle (Allegro).mp3"},
-		{"action": "delete", "target": "base/sounds/music/[DGS] The Musings of Sherlock Holmes.mp3"},
-		{
-		  "action": "deleteDir",
-		  "target": "base/characters/Justine CourtneyPro"
+	  "full": [
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/Basics.zip",
+		  "hash": "68a9eb20bce2f8ed900a9e0dc93843101cb934a6"
 		},
-		{
-		  "action": "dl",
-		  "url": "https://s3.wasabisys.com/aov/And_A_Happy_New_Update.zip",
-		  "hash": "ea88ef46fd1035e9e7d61b26b1b33e12d99bfea5"
-		}
-	  ]
-	},
-	{
-	  "version": "aov-2018.12",
-	  "prev": "aov-2018.11",
-	  "update": [
-		{"action": "deleteDir", "target": "base/characters/Rise"},
-		{"action": "deleteDir", "target": "base/characters/Justine Courtney"},
-		{
-		  "action": "dl",
-		  "url": "https://s3.wasabisys.com/aov/Holly_Jolly_Update.zip",
-		  "hash": "b3149d46615ad1af8372d3ed6aaacdedde1e2021"
-		}
-	  ]
-	},
-	{
-      "version": "aov-2018.11",
-      "full": [
-        {
-          "action": "dl",
-          "url": "https://s3.wasabisys.com/aov/Full_Characters_1.zip"
-        },
-        {
-          "action": "dl",
-          "url": "https://s3.wasabisys.com/aov/Full_Characters_2.zip",
-          "hash": "9feceb9ad09cd403941584e43df42015e4a72139"
-        },
-        {
-          "action": "dl",
-          "url": "https://s3.wasabisys.com/aov/Full_Music.zip",
-          "hash": "8b23c0dc46562caee4f0474b731fdd7507095a4a"
-        },
-		{
-		  "action": "dl",
-		  "url": "https://s3.wasabisys.com/aov/Full_Misc.zip",
-		  "hash": "fc71bda28cf40531aeea8882e77a9e75253175f0"
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/Trilogy.zip",
+		  "hash": "8196056de4efd9fc09f8aebacf69da47f01b2ac9"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/AJ.zip",
+		  "hash": "97b4f6ec41bb45952e90f1ded98fb92a0ee72b74"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/AAI1.zip",
+		  "hash": "aa0817f3303e808ab2e61875cbad415d3fe9fc6d"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/AAI2.zip",
+		  "hash": "cd612fbaeb2a10441a55aa319d6fb791ad17c399"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/AAExtra.zip",
+		  "hash": "d1014fe9c0a19ce24916bddf4650d0ca131ed35b"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/GhostTrick.zip",
+		  "hash": "db4b4ae95de6395f8aefb1e9cf3eebeb36b74ffe"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/DD.zip",
+		  "hash": "81c411e1061a4b2af4766a72f460400257e820d9"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/SoJ.zip",
+		  "hash": "ab90b87b4e34c37f09053562c728178b81cb5ced"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/DGS1.zip",
+		  "hash": "48013c85774003e9ac8acff103ae47da308bc52b"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/DGS2.zip",
+		  "hash": "876aef3910802c89ad2a1b419ca1290697bfe1c7"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/PLvsAA.zip",
+		  "hash": "a6cc9162082c31bfc4d6ae1decbf8431b6553d98"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/Layton.zip",
+		  "hash": "beded4bd8538a33323751b25924b7b0f5eeeccc4"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/GhostTrick.zip",
+		  "hash": "db4b4ae95de6395f8aefb1e9cf3eebeb36b74ffe"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/ZE.zip",
+		  "hash": "acfd1a8dc9379d67eee5523b2874a53ed613f3a5"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/DR.zip",
+		  "hash": "65ab1eb05e461433ccd37400233f587cac70cda8"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/Persona.zip",
+		  "hash": "e9085965288fa041600d1e9d007bfbb4d80cc32e"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/ThirdParty.zip",
+		  "hash": "00517a93b16dc882cebf88a0ac0ae0e9e396eade"
 		}
       ]
     }
