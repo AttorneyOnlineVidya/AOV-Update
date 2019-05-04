@@ -520,6 +520,9 @@
     - name: '[DGS2] Closing Suite'
     - name: '[DGS2] Ending'
     - name: '[CB] The Real Folk Blues'
+    - name: '[EB] Ending'
+    - name: '[SM64] Ending'
+    - name: '[P3] Ending'
 - category: ===PEOPLE THEMES===
   songs:
     - name: '[AA] Blissful People'
@@ -705,7 +708,7 @@
     - name: '[DGS2] Mamemomi Heita - Justice from Reporter Mamemomi'
     - name: '[AA] Marvin Grossberg - Age, Regret, Retribution'
     - name: '[PWC] Marvin Grossberg - Old Age, Regret, Retribution'
-    - name: '[P4U] Margaret's Theme - The Sadistic Stud-Keeping Secretary'
+    - name: "[P4U] Margaret's Theme - The Sadistic Stud-Keeping Secretary"
     - name: '[T&T] Mask DeMasque - Pleeeeease Listen'
     - name: '[JFA] Maximillion Galactica - Fabulous!'
     - name: '[AA] Maya Fey - Turnabout Sisters'
@@ -807,12 +810,11 @@
     - name: '[HD] Straight Chaser'
     - name: '[RK] The Lazy Detective Agency'
     - name: '[PLvsAA] The Lost Forest'
+    - name: '[P3R] Want To Be Close'
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime'
-    - name: '[Misc] Brother'
     - name: "[Misc] Bustin'"
-    - name: '[Misc] Clover'
     - name: '[Misc] Dejavu'
     - name: '[Misc] Gas Gas Gas'
     - name: '[Misc] Infinite Edge'
@@ -821,14 +823,12 @@
     - name: '[Misc] Kangaroo Court'
     - name: '[Misc] Komm Susser Tod'
     - name: '[Misc] Law & Order - Main Theme'
-    - name: '[Misc] Lestrade'
     - name: '[Misc] Like a Damn Fiddle'
     - name: '[Misc] Mystery Skulls - Money'
     - name: '[Misc] Ocean Man'
     - name: '[Misc] Pizza Time'
     - name: '[Misc] Record Scratch'
       length: 0
-    - name: '[Misc] Raebelle'
     - name: '[Misc] Running in the 90s'
     - name: '[Misc] Stand Activated'
     - name: "[Misc] What's The Deal With Contradictions"
