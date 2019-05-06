@@ -20,6 +20,11 @@
 		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Mature_Update.zip",
 		  "hash": "342fc5dc1e8deac560916a4afa23da045acad277"
 		}
+		 {
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/There_is_Fuck_All_in_this_Update.rar",
+		  "hash": "b4c7974b65a8809ffcae754b8a246bfb5790a90b"
+		}
 	  ]
 	},
 	{
