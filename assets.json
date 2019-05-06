@@ -2,24 +2,23 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	  {
-		  "version": "aov-2019.5
-		  "prev": "aov-2019.4"
-		  "update": [
-		  {
-		  	"action": "notice",
-		  	"msg": "This is a shockingly small update, the link to said update can be found here: https://docs.google.com/document/d/1-9gJL35XL9si2rm6Z5ncfQoGqEH165GGtSLCjFcC9Os/edit#"
-	  	},
-		  { "action": "delete", "target": "base\characters\Maggey AAI\Maggey_Char_Icon.png"},
-	          { "action": "delete", "target": "base\sounds\music\[Misc] Brother.mp3"},
-		  { "action": "delete", "target": "base\sounds\music\[Misc] Lestrade.mp3"},
-		  { "action": "delete", "target": "base\sounds\music\[Misc] Clover.mp3"},
-		  { "action": "delete", "target": "base\sounds\music\[Misc] Raebelle.opus"},
-		  { "action": "deleteDir", "target": "base\characters\Ryu Leg"},
-		  { "action": "deleteDir", "target": "base\characters\Ryuunosuke"},
-	  		 {
+	  "version": "aov-2019.5",
+	  "prev": "aov-2019.4",
+	  "update": [
+		{
+		"action": "notice",
+	  	"msg": "This is a shockingly small update, the link to said update can be found here: https://docs.google.com/document/d/1-9gJL35XL9si2rm6Z5ncfQoGqEH165GGtSLCjFcC9Os/edit"
+		},
+		{ "action": "delete", "target": "base/characters/Maggey AAI/Maggey_Char_Icon.png"},
+	    { "action": "delete", "target": "base/sounds/music/[Misc] Brother.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Lestrade.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Clover.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Raebelle.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Ryu Leg"},
+		{ "action": "deleteDir", "target": "base/characters/Ryuunosuke"},
+	  	{
 		  "action": "dl",
-		  "url": "https://s3.wasabisys.com/aov/Update/2019/There_is_Fuck_All_in_this_Update.rar",
-		  "hash": "b4c7974b65a8809ffcae754b8a246bfb5790a90b"
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/There_is_Fuck_All_in_this_Update.zip"
 		}
 	  ]
 	},
