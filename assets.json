@@ -1,14 +1,22 @@
 {
   "launcher": { "version": "1.2.2"},
   "versions": [
-	  {
+	{
+	  "version": "aov-2019.8",
+	  "prev": "aov-2019.5",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/SherlockWatson"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Minimalist_Update.zip",
+		  "hash": "4db20b6fda7527895762df02a9cd9978f7c1f57f"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2019.5",
 	  "prev": "aov-2019.4",
 	  "update": [
-		{
-		"action": "notice",
-	  	"msg": "This is a shockingly small update, the link to said update can be found here: https://docs.google.com/document/d/1-9gJL35XL9si2rm6Z5ncfQoGqEH165GGtSLCjFcC9Os/edit"
-		},
 		{ "action": "delete", "target": "base/characters/Maggey AAI/Maggey_Char_Icon.png"},
 	    { "action": "delete", "target": "base/sounds/music/[Misc] Brother.mp3"},
 		{ "action": "delete", "target": "base/sounds/music/[Misc] Lestrade.mp3"},
@@ -18,7 +26,8 @@
 		{ "action": "deleteDir", "target": "base/characters/Ryuunosuke"},
 	  	{
 		  "action": "dl",
-		  "url": "https://s3.wasabisys.com/aov/Update/2019/There_is_Fuck_All_in_this_Update.zip"
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/There_is_Fuck_All_in_this_Update.zip",
+		  "hash": "46492f163614fb3db9aa7ddafd5a8af11a39ca9c"
 		}
 	  ]
 	},
@@ -26,11 +35,6 @@
 	  "version": "aov-2019.4",
 	  "prev": "UNQUALITY",
 	  "update": [
-	    {
-		  "action": "notice",
-		  "msg": "Your current version of the launcher is out of date. You can download the latest version at https://s3.wasabisys.com/aov/Launcher.zip.",
-		  "versionCheck": true
-		},
 	    { "action": "delete", "target": "base/sounds/general/drv3-oumasnore.wav"},
 	    { "action": "delete", "target": "base/sounds/general/drv3-oumacry.wav"},
 	    { "action": "delete", "target": "base/sounds/general/drv3-oumalaugh.wav"},
