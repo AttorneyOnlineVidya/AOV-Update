@@ -8,6 +8,7 @@ Botch fixes:
    * Makepeace no longer missingnos after doing her Fall or Hidden emotes
    * Newman Pro and Fulbright now have proper objection sfx
    * Fulbright's folder has been cleaned of unnecessary clutter
+   * Included the Ryunosuke Hotfix from a few updates back
 
 Content changes:
    * Maggey AAI has her AAI hail emote back
