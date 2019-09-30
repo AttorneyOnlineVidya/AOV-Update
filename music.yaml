@@ -405,6 +405,7 @@
     - name: '[RT] Pursuit'
     - name: '[SM] Pursuit'
     - name: '[O] Pursuit'
+    - name: '[U] Pursuit'
     - name: '[AOV] Pursuit (Kay Faraday)'
 - category: ===REMINISCENCE===
   songs:
@@ -481,6 +482,7 @@
     - name: "[VLR] Blue Bird's Lamentation"
     - name: '[P5] Regret'
     - name: '[P5] Guilt'
+    - name: '[PR] Bygone Days'
     - name: '[DP] York and Zach'
 - category: ===VICTORY CELEBRATION===
   songs:
