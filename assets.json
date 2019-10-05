@@ -2,6 +2,36 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2019.10",
+	  "prev": "aov-2019.8 Hotfix",
+	  "update": [
+	    { "action": "delete", "target": "base/sounds/music/[BB] Confess the Truth.mp3"},
+	    { "action": "delete", "target": "base/sounds/music/[BB] Confess the Truth.opus"},
+	    { "action": "delete", "target": "base/sounds/music/[BB] Dangerous People.mp3"},
+	    { "action": "delete", "target": "base/sounds/music/[BB] Dangerous People.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[BB] Malicious People.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[BB] Malicious People.opus"},
+		{ "action": "delete", "target": "base/characters/Fulbright/bobby button.png"},
+		{ "action": "delete", "target": "base/characters/Fulbright/bobby button.pdn"},
+	    {
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Littlest_Update.zip",
+		  "hash": "4afcb013e7e4acf1cdc873801107c8604f55cab5"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2019.8 Hotfix",
+	  "prev": "aov-2019.8",
+	  "update": [
+	    {
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/July_Hotfix.zip",
+		  "hash": "42d5f2dbe8b8baff617150b6c946624f6a7f19ea"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2019.8",
 	  "prev": "aov-2019.5",
 	  "update": [
