@@ -337,7 +337,6 @@
     - name: '[DGS] Confess The Truth (DLC) (Variation)'
     - name: '[DR] Confess The Truth'
     - name: '[DR] Confess The Truth (Variation)'
-    - name: '[BB] Confess The Truth'
 - category: ===LAST CHANCE===
   songs:
     - name: '[PLvsAA] Prelude to The Turnabout'
@@ -556,8 +555,6 @@
     - name: '[N] Cowardly People'
     - name: '[LM] Stupid People'
     - name: '[GT] Bizarre People'
-    - name: '[BB] Dangerous People'
-    - name: '[BB] Malicious People'
     - name: '[S&G] Depressing People'
     - name: '[JJ] Killer People'
     - name: '[JJ] Standoffish People'
