@@ -337,7 +337,6 @@
     - name: '[DGS] Confess The Truth (DLC) (Variation)'
     - name: '[DR] Confess The Truth'
     - name: '[DR] Confess The Truth (Variation)'
-    - name: '[BB] Confess The Truth'
 - category: ===LAST CHANCE===
   songs:
     - name: '[PLvsAA] Prelude to The Turnabout'
@@ -405,6 +404,7 @@
     - name: '[RT] Pursuit'
     - name: '[SM] Pursuit'
     - name: '[O] Pursuit'
+    - name: '[U] Pursuit'
     - name: '[AOV] Pursuit (Kay Faraday)'
 - category: ===REMINISCENCE===
   songs:
@@ -481,6 +481,7 @@
     - name: "[VLR] Blue Bird's Lamentation"
     - name: '[P5] Regret'
     - name: '[P5] Guilt'
+    - name: '[PR] Bygone Days'
     - name: '[DP] York and Zach'
 - category: ===VICTORY CELEBRATION===
   songs:
@@ -554,8 +555,6 @@
     - name: '[N] Cowardly People'
     - name: '[LM] Stupid People'
     - name: '[GT] Bizarre People'
-    - name: '[BB] Dangerous People'
-    - name: '[BB] Malicious People'
     - name: '[S&G] Depressing People'
     - name: '[JJ] Killer People'
     - name: '[JJ] Standoffish People'
