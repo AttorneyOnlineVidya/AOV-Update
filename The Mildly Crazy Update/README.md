@@ -2,6 +2,7 @@
 
 Content additions:
    * Eve Belduke has been added to the roster
+   * Added several miscellaneous PLvsAA sfx
 
 Botch fixes:
    * Fixed some of Chelmey's buttons having the wrong coloring scheme
