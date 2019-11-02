@@ -2,6 +2,27 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2019.11",
+	  "prev": "aov-2019.10",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/general/aj-ema-munch.wav"},
+	    { "action": "delete", "target": "base/sounds/general/aj-ema-munch.wav"},
+	    { "action": "deleteDir", "target": "base/characters/Dante/"},
+	    { "action": "deleteDir", "target": "base/characters/Ridelle/"},
+	    { "action": "delete", "target": "base/characters/Chelmey/Emotions/button11_off.png"},
+		{ "action": "delete", "target": "base/characters/Chelmey/Emotions/button11_on.png"},
+		{ "action": "delete", "target": "base/characters/Chelmey/Emotions/button12_off.png"},
+		{ "action": "delete", "target": "base/characters/Chelmey/Emotions/button12_on.png"},
+		{ "action": "delete", "target": "base/characters/EmaAJ/(a)nackoo.gif"},
+		{ "action": "delete", "target": "base/characters/EmaAJ/(a)nackoo.apng"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/The_Mildly_Crazy_Update.zip",
+		  "hash": "c409a1d7140a82b10cf75a4c7903acdc4bae6879"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2019.10",
 	  "prev": "aov-2019.8 Hotfix",
 	  "update": [
