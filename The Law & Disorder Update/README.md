@@ -10,7 +10,8 @@ Botch fixes:
 
 Content changes:
    * Updated the anime.opus
-   * Updated DDCourt and SOJCourt to use the "sea" position
+   * Updated DDCourt's rip
+   * Updated SOJCourt to use the "sea" position, enabling the use of prohelper
    * Updated DGSCourtJapanese and DGSCourtOldBailey to use the "jur" position, obsoleting DGSCourtOldBaileyJury
 
 The following songs have been added to the jukebox:
