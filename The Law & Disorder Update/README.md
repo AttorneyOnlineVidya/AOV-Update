@@ -14,6 +14,9 @@ Content changes:
    * Updated SOJCourt to use the "sea" position, enabling the use of prohelper
    * Updated DGSCourtJapanese and DGSCourtOldBailey to use the "jur" position, obsoleting DGSCourtOldBaileyJury
 
+Miscellaneous content stuff:
+   * Included the Eve Belduke ini fix from the December update
+
 The following songs have been added to the jukebox:
    * [L&D] 4 Minutes Before Death
    * [L&D] Funk Debate
