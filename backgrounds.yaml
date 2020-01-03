@@ -57,6 +57,7 @@
 - AJWrightOffice
 - Blackout
 - DDCourt
+- DDCourtPerceive
 - DDCourtGray
 - DDCourtRuined
 - DDCourtRuinedInvestigation
@@ -68,7 +69,9 @@
 - DDThemisAcademy
 - DDPerceive
 - DGSCourtJapanese
+- DGSCourtJapanesePerceive
 - DGSCourtOldBailey
+- DGSCourtOldBaileyPerceive
 - DGSCourtOldBaileyJury
 - DGSDefendantLobbyJapanese
 - DGSDefendantLobbyOldBailey
@@ -125,6 +128,7 @@
 - PLvsAAWagon
 - PLvsAAWorkshop
 - SoJCourt
+- SoJCourtPerceive
 - SOJDefendantLobby
 - SOJDetentionCenterJapanifornia
 - SOJDetentionCenterKhurain
