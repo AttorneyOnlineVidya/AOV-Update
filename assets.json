@@ -2,6 +2,119 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.1",
+	  "prev": "aov-2019.12",
+	  "update": [
+	    { "action": "notice", 
+		  "msg": "This update alters/deletes the following content:\nCHARACTERS \nShih-na (Folder) \nBACKGROUNDS \nAACourtChristmasDecorations, AACourtChristmasLights, DDCourt, DGSCourtOldBailey, DGS CourtOldBaileyJury, SOJCourt \nMUSIC \nanime.opus, animer.opus, theanimest.opus \nSOUND EFFECTS \nsfx-blipddfemale.opus, sfx-blipddmale.opus, sfx-blipfemale.opus, sfx-blipmale.opus, sfx-bliplayton.opus, sfx-blipzelda.opus \nPress the Cancel button if you wish to back up the content before updating."
+		},
+	    { "action": "deleteDir", "target": "base/characters/Shih-na"},
+	    { "action": "deleteDir", "target": "base/background/AACourtChristmasDecorations"},
+	    { "action": "deleteDir", "target": "base/background/AACourtChristmasLights"},
+	    { "action": "deleteDir", "target": "base/background/DDCourt"},
+	    { "action": "deleteDir", "target": "base/background/DGSCourtOldBailey"},
+	    { "action": "deleteDir", "target": "base/background/DGSCourtOldBaileyJury"},
+	    { "action": "deleteDir", "target": "base/background/SOJCourt"},
+	    { "action": "delete", "target": "base/sounds/music/[AOV] animer.opus"},
+	    { "action": "delete", "target": "base/sounds/music/[AOV] theanimest.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-blipmale.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-blipfemale.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-blipddmale.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-blipddfemale.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-bliplayton.opus"},
+	    { "action": "delete", "target": "base/sounds/general/sfx-blipzelda.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Law_&_Disorder_Update.zip",
+		  "hash": "ff63bdeefd7a4f49d2ba720cc29e4df07db6b459"
+		}
+	  ],
+	  "full": [
+		{ "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Basics.zip",
+		  "hash": "fda80c7655d8e627ac87a38c8312a544bd799422"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Trilogy.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AJ.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAI1.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAI2.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAExtra.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/GhostTrick.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DD.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/SoJ.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DGS1.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DGS2.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/PLvsAA.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Layton.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/GhostTrick.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/ZE.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DR.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Persona.zip",
+		  "hash": ""
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/ThirdParty.zip",
+		  "hash": ""
+	  ]
+	},
+	{
+	  "version": "aov-2019.12",
+	  "prev": "aov-2019.11",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2019/Decemberfest.zip",
+		  "hash": "ab53188d2dd08c610ea7023445b2c99bc7e38b6d"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2019.11",
 	  "prev": "aov-2019.10",
 	  "update": [
