@@ -36,71 +36,68 @@
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Trilogy.zip",
-		  "hash": ""
+		  "hash": "6848e6cf65fd365e1af4e479166fe671b590a0d7"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AJ.zip",
-		  "hash": ""
+		  "hash": "4dcbba5e73856c2065cf3122f5e55405c1d7224f"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAI1.zip",
-		  "hash": ""
+		  "hash": "32399ee60fbb908609305ac1f4624f12b0ca4c1d"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAI2.zip",
-		  "hash": ""
+		  "hash": "2cd92707eabea0e9b40981bdc2a212af44c1f605"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/AAExtra.zip",
-		  "hash": ""
-		},
-        { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/GhostTrick.zip",
-		  "hash": ""
+		  "hash": "78668d9b0347030de31b733d7d324e55fc65a2a4"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DD.zip",
-		  "hash": ""
+		  "hash": "70d22cb5a09808defbcbcec6af52e3cf88aafe92"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/SoJ.zip",
-		  "hash": ""
+		  "hash": "16a47be1853da1320b0787a54175286fcbe73be1"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DGS1.zip",
-		  "hash": ""
+		  "hash": "1825765f0f65e178ae1754f450015093a6146c25"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DGS2.zip",
-		  "hash": ""
+		  "hash": "8ec23afb472f08cc0b71a8241182036dbc1f3922"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/PLvsAA.zip",
-		  "hash": ""
+		  "hash": "f0a01a64d9da7ae6c4316a077fb2c5ea2af6c4a2"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Layton.zip",
-		  "hash": ""
+		  "hash": "5550eee1432a1ca99a75da5ddabb7f973a11a667"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/GhostTrick.zip",
-		  "hash": ""
+		  "hash": "93b2a38a04c4a6fbad2cdf79de98ec6fbe6e8923"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/ZE.zip",
-		  "hash": ""
+		  "hash": "962cee0e9a882f45b8aa96f80871134b9fd3f9d3"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/DR.zip",
-		  "hash": ""
+		  "hash": "05a9a9cca0864592e52ac4ca29b7aad6b60a9539"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/Persona.zip",
-		  "hash": ""
+		  "hash": "de9121df58f64a6e8f885a52075144b1b90dc643"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/ThirdParty.zip",
-		  "hash": ""
+		  "hash": "8803f312785006990fda432856178b76014835fc"
+		}
 	  ]
 	},
 	{
@@ -443,10 +440,6 @@
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/AAExtra.zip",
 		  "hash": "d1014fe9c0a19ce24916bddf4650d0ca131ed35b"
-		},
-        { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/GhostTrick.zip",
-		  "hash": "db4b4ae95de6395f8aefb1e9cf3eebeb36b74ffe"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2019/Full/DD.zip",
