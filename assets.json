@@ -3,7 +3,7 @@
   "versions": [
 	{
 	  "version": "aov-2020.2",
-	  "prev": "aov-2020.2",
+	  "prev": "aov-2020.1",
 	  "update": [
 		{ "action": "notice",
 		  "msg": "This update alters/deletes the following content:\nCHARACTERS \nFulbright (char.ini) \nKay (drink.gif) \nMUSIC \nanime.opus \nPress the Cancel button if you wish to back up the content before updating."
