@@ -2,6 +2,21 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.2",
+	  "prev": "aov-2020.2",
+	  "update": [
+		{ "action": "notice",
+		  "msg": "This update alters/deletes the following content:\nCHARACTERS \nFulbright (char.ini) \nKay (drink.gif) \nMUSIC \nanime.opus \nPress the Cancel button if you wish to back up the content before updating."
+		},
+	    { "action": "delete", "target": "base/characters/Kay/(a)drink.gif"},
+	    { "action": "delete", "target": "base/characters/Kay/(b)drink.gif"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Bits_and_Pieces_Update.zip",
+		  "hash": "b8b05c483981fe4c22184c5c207f93d7a8620d02"
+		}
+	  ]
+	{
 	  "version": "aov-2020.1",
 	  "prev": "aov-2019.12",
 	  "update": [
@@ -80,7 +95,7 @@
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/GhostTrick.zip",
-		  "hash": "93b2a38a04c4a6fbad2cdf79de98ec6fbe6e8923"
+		  "hash": "f8af90b793d707c1acb88004bfed7af110532bcd"
 		},
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2020/Full/ZE.zip",
