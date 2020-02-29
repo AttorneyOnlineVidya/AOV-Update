@@ -2,6 +2,32 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.3",
+	  "prev": "aov-2020.2",
+	  "update": [
+	    { "action": "notice", 
+		  "msg": "This update alters/deletes the following content:\nCHARACTERS \nWilliam (Rip Updated) \nGaran (Rip Updated) \nAura (Rip Updated) \nVenus (Rip Updated) \nMUSIC \n[FF] Suspense (Renamed to [FFX] Suspense) \n[FF] Prelude (Renamed to [FFVII] Prelude) \n[AAI2] Jeffery Master - Sweet Happiness (Renamed to [AAI2] Jeffrey Master - Sweet Happiness) \n[GSM] Questioning(Allegro) (Quality updated) \n[AOV] anime (Updated) \n \nPress the Cancel button if you wish to back up the content before updating."
+		},
+		{ "action": "deleteDir", "target": "base/characters/William"},
+		{ "action": "deleteDir", "target": "base/characters/Garan"},
+		{ "action": "deleteDir", "target": "base/characters/Venus"},
+		{ "action": "deleteDir", "target": "base/characters/Aura"},
+		{ "action": "delete", "target": "base/sounds/music/[FF] Suspense.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[FF] Suspense.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[FF] Prelude.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[FF] Prelude.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[AAI2] Jeffery Master - Sweet Happiness.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[AAI2] Jeffery Master - Sweet Happiness.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[GSM] Questioning(Allegro).opus"},
+		{ "action": "delete", "target": "base/sounds/music/[GSM] Questioning(Allegro).mp3"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Big_and_Beautiful_Update.zip",
+		  "hash": "e6c9c2874ead6a7281a0562b81d902175e623760"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.2",
 	  "prev": "aov-2020.1",
 	  "update": [
