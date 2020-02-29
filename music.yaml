@@ -31,7 +31,7 @@
     - name: '[DGS2] Prelude to the Blossoming Attorney'
     - name: '[GT] Prelude'
     - name: '[P5] Prelude'
-    - name: '[FF] Prelude'
+    - name: '[FFVII] Prelude'
 - category: ===TRIAL===
   songs:
     - name: '[AA] Trial'
@@ -114,7 +114,7 @@
     - name: '[999] Chill and Rigor'
     - name: '[999] Eternitybox'
     - name: '[VLR] Fleeting Fate'
-    - name: '[FF] Suspense'
+    - name: '[FFX] Suspense'
     - name: '[ZTD] Suspense'
     - name: '[GT] Suspense'
     - name: '[P4] Suspense'
@@ -490,6 +490,7 @@
     - name: '[P5] Guilt'
     - name: '[PR] Bygone Days'
     - name: '[DP] York and Zach'
+    - name: '[GSM] The Icy Road Forward'
 - category: ===VICTORY CELEBRATION===
   songs:
     - name: '[AA] Victory!'
@@ -665,6 +666,7 @@
     - name: '[AAI] Dick Gumshoe - I Can Do It When It Counts!'
     - name: '[PWC] Dick Gumshoe - Unloved and Unpaid'
     - name: '[CV] Don Paolo - The Master of Disguise'
+    - name: '[DGS2] Dr. Dobinbough - Science Boy'
     - name: '[SoJ] Ellen Wyatt - Walking Down the Aisle'
     - name: '[T&T] Elise Deauxnim - Gentle Melody'
     - name: "[P4U] Elizabeth - Battle For Everyone's Souls"
@@ -697,7 +699,7 @@
     - name: '[AA] Jake Marshall - Detective From the Wild West'
     - name: "[HnI] Jay Elbird - Chains Can't Hold a Champion Down"
     - name: '[MM] Jean Descole - Descent of the Phantom'
-    - name: '[AAI2] Jeffery Master - Sweet Happiness'
+    - name: '[AAI2] Jeffrey Master - Sweet Happiness'
     - name: '[AAI2] John Marsh - Pointed Age'
     - name: '[AAI2] Justine Courtney - Goddess of Law'
     - name: '[15th] Justine Courtney - Goddess of Law'
@@ -753,6 +755,7 @@
     - name: '[TSBO] Robert Snow - Catastrophically Successful Investigator'
     - name: '[AAI2] Sebastian Debeste - Debeste Reasoning'
     - name: '[AAI2] Sebastian Debeste - Debeste Farewell'
+    - name: '[PXZ2] Segata Sanshiro - Sega Saturn, Shiro!'
     - name: '[JFA] Shelly de Killer - The Whim of a Murderous Gentleman'
     - name: '[DGS] Sherlock Holmes - The Great Detective of the Foggy Town'
     - name: '[15th] Sherlock Holmes - The Great Detective of the Foggy Town'
@@ -779,6 +782,7 @@
     - name: "[AAI] Tyrell Badd - The Truth isn't Sweet"
     - name: '[SoJ] Uendo Toneido - The Laughing Typhoon'
     - name: '[T&T] Victor Kudo - How Sad, the Melody of This War Song'
+    - name: '[DGS2] William Petenshy - Shakespeare of the Slums'
     - name: '[DD] Yuri Cosmos - Head of the Center of the Universe'
     - name: '[P4U] Yu Narukami - Reach Out To The Truth'
     - name: '[PLvsAA] Zacharias Barnham - The Sword of Labyrinthia'
