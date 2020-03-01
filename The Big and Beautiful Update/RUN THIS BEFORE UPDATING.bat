@@ -2,6 +2,7 @@ rmdir "base\characters\William" /s /q
 rmdir "base\characters\Garan" /s /q
 rmdir "base\characters\Venus" /s /q
 rmdir "base\characters\Aura" /s /q
+del "base\characters\Courtney Sithe\char_icon.png" /s /q
 ren "base\sounds\music\[FF] Suspense.*" "[FFX] Suspense.*"
 ren "base\sounds\music\[FF] Prelude.*" "[FFVII] Prelude.*"
 ren "base\sounds\music\[AAI2] Jeffery Master - Sweet Happiness.*" "[AAI2] Jeffrey Master - Sweet Happiness.*"
