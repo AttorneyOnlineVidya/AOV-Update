@@ -2,6 +2,34 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.4",
+	  "prev": "aov-2020.3.botch",
+	  "update": [	
+	    { "action": "notice", 
+		  "msg": "This update alters/deletes the following content:\nCHARACTERS \nChiaki (Character Overhaul) \nPonco (Rip Updated) \nMUSIC \n[DGS2] Dr. Dobinbough - Science Boy (Renamed) \n[AOV] anime (Updated) \nPress the Cancel button if you wish to back up the content before updating."
+		},
+		{ "action": "deleteDir", "target": "base/characters/Chiaki"},
+		{ "action": "deleteDir", "target": "base/characters/Ponco"},
+		{ "action": "delete", "target": "base/sounds/music/[DGS2] Dr. Dobinbough - Science Boy.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Sick_and_Spreading_Update.zip",
+		  "hash": "374d27aba1d9471dcbed30fe32fc80e58be1b50b"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2020.3.botch",
+	  "prev": "aov-2020.3",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/DGS2 Sound Effects Fix.zip",
+		  "hash": "9e53fc2e1b19051009a2d5282ef2fc6d381bf50a"
+		}
+	  ]
+	},	
+	{
 	  "version": "aov-2020.3",
 	  "prev": "aov-2020.2",
 	  "update": [
