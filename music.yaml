@@ -853,6 +853,7 @@
     - name: '[SU] Lag Remover'
     - name: '[Serb] Kebab Remover'
     - name: '[Misc] Wake Me Up'
+    - name: '[Misc] Want You Gone'
 - category: ===MOD===
   mod: 1
   songs:
@@ -865,6 +866,8 @@
     - name: '[MOD] 39 dollars'
       length: 0
     - name: '[MOD] Dick Gumshoe - Payday'
+      length: 0
+    - name: '[MOD] modsong'
       length: 0
 - category: ===CUSTOM===
   songs:
