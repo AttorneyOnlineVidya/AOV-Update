@@ -1,6 +1,26 @@
 {
   "launcher": { "version": "1.2.2"},
   "versions": [
+  	{
+	  "version": "aov-2020.5",
+	  "prev": "aov-2020.4",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Juniper School"},
+		{ "action": "deleteDir", "target": "base/characters/Juniper Casual"},
+		{ "action": "deleteDir", "target": "base/characters/Jinxie"},
+		{ "action": "deleteDir", "target": "base/characters/EmaSOJ"},
+		{ "action": "deleteDir", "target": "base/characters/Lbelle"},
+		{ "action": "deleteDir", "target": "base/background/PLvsAACourtLabyrinthia"},
+		{ "action": "delete", "target": "base/characters/Dane Gustavia/takethat.mp3"},
+		{ "action": "delete", "target": "base/characters/Rola/(a)plead.apng"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Simple_and_Clean_Update.zip",
+		  "hash": "4e8b037f98605df90481cd2f5f455e35a359d195"
+		}
+	  ]
+	},
 	{
 	  "version": "aov-2020.4",
 	  "prev": "aov-2020.3.botch",
