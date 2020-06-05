@@ -21,10 +21,8 @@ rmdir "base\characters\Josephine\emotions" /s /q
 rmdir "base\characters\Kay Injured\emotions" /s /q
 rmdir "base\characters\Lauren Paups\emotions" /s /q
 rmdir "base\characters\Lisa\emotions" /s /q
-rmdir "base\characters\Miles\emotions" /s /q
 del "base\characters\Miles\(a)zoom.*" /s /q
 del "base\characters\Miles\(b)zoom.*" /s /q
-rmdir "base\characters\Miles Def\emotions" /s /q
 del "base\characters\Miles Def\(a)zoom.*" /s /q
 del "base\characters\Miles Def\(b)zoom.*" /s /q
 rmdir "base\characters\Missile\emotions" /s /q
