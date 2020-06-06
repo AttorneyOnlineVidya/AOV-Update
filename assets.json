@@ -2,6 +2,17 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.6.hotfix",
+	  "prev": "aov-2020.6",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/June_Hotfix.zip",
+		  "hash": "b5602b80750b98cf5119f103ed5f4e217846c828"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.6",
 	  "prev": "aov-2020.5",
 	  "update": [
