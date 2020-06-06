@@ -4,7 +4,7 @@ Content additions:
    * Added Marie
 
 Botch fixes:
-   * Removed the worthless Hazama Honoka, Balliff GB and Balliff JP folders from erroneous downloads
+   * Removed the worthless Hazama Honoka, Baliff GB and Baliff JP folders from erroneous downloads
    * Fixed the static png files from the 3D Aigis folder hotfixes
 
 Content changes:
