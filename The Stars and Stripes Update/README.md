@@ -1,18 +1,15 @@
 # [THE BELLS AND WHISTLES UPDATE]
 
 Content additions:
-   * Added Marie
+   * Reworked Marshall and Missile's folders to add new emotes and some frame-specific SFX
 
 Botch fixes:
-   * Removed the worthless Hazama Honoka, Baliff GB and Baliff JP folders from erroneous downloads
-   * Fixed the static png files from the 3D Aigis folder hotfixes
+   * Fixed Justine Courtney's gallery emotes, as they weren't showing her sitting at the judge bench
+   * Fixed a bizarre sprite error in one of Emmy's emotes
+   * Fixed some stray pixels on a pair of Marie's emotes
+   * Fixed some stray pixels and missing shaders on some of Lucy Baker's emotes
+   * Fixed the resolution and renamed AACourtAnime to AACourtVocaloid as per its actual source
 
 Content changes:
-   * Updated the buttons and/or char.ini files for approximately 37 characters, IE every folder in this update but Aigis 3D and Aigis 3D W
-   * Split Snow and Hemlock into separate folders
-   * Removed the rather poorly-ripped Ghost Trick sprites from Cabanela's folder
-   * Reworked Yanni and June's folders
+   * Reworked the buttons of Beppo, Luke, Patricia, Yuujin Mikotoba Suit, Sirhan Dogen, Sahwit, Vasquez and Bowl
    * Updated the anime.opus
-
-The following songs have been added to the jukebox:
-   * [SMT] Confrontation (Moderato)
