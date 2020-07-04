@@ -2,6 +2,41 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.7",
+	  "prev": "aov-2020.6.hotfix",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Marshall"},
+		{ "action": "deleteDir", "target": "base/background/AACourtAnime"},
+		{ "action": "deleteDir", "target": "base/characters/Luke/emotions"},
+		{ "action": "deleteDir", "target": "base/characters/Yuujin Mikotoba Suit/emotions"},
+		{ "action": "deleteDir", "target": "base/characters/Sirhan Dogen/emotions"},
+		{ "action": "deleteDir", "target": "base/characters/Sahwit/emotions"},
+		{ "action": "deleteDir", "target": "base/characters/Vasquez/emotions"},
+		{ "action": "deleteDir", "target": "base/characters/Bowl/emotions"},
+		{ "action": "delete", "target": "base/characters/Sahwit/breakdown1.gif"},
+		{ "action": "delete", "target": "base/characters/Sahwit/breakdown1.apng"},
+		{ "action": "delete", "target": "base/characters/Sahwit/breakdown2.gif"},
+		{ "action": "delete", "target": "base/characters/Sahwit/breakdown2.apng"},
+		{ "action": "delete", "target": "base/characters/Sahwit/char - Kopie.ini"},
+		{ "action": "delete", "target": "base/characters/Sirhan Dogen/enterkuroold.gif"},
+		{ "action": "delete", "target": "base/characters/Sirhan Dogen/enterkuroold.apng"},
+		{ "action": "delete", "target": "base/characters/Patricia/damage.gif"},
+		{ "action": "delete", "target": "base/characters/Patricia/damage.apng"},
+		{ "action": "delete", "target": "base/characters/Patricia/breakdown.gif"},
+		{ "action": "delete", "target": "base/characters/Patricia/breakdown.apng"},
+		{ "action": "delete", "target": "base/characters/Vasquez/dee-surprised(a).gif"},
+		{ "action": "delete", "target": "base/characters/Vasquez/dee-surprised(a).apng"},
+		{ "action": "deleteDir", "target": "base/characters/Beppo/emotions"},
+		{ "action": "delete", "target": "base/characters/Marie/(a)Flustered.apng"},
+		{ "action": "delete", "target": "base/characters/Marie/(b)Flustered.apng"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Stars_and_Stripes_Update.zip",
+		  "hash": "2d1f1724ca9dd8fb8e30f8164151746ff1e3320b"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.6.hotfix",
 	  "prev": "aov-2020.6",
 	  "update": [
