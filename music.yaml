@@ -109,7 +109,6 @@
     - name: '[DGS] Suspense'
     - name: '[DGS] Suspense (Variation)'
     - name: '[TT] Suspense'
-    - name: '[O] Suspense'
     - name: '[U] Suspense'
     - name: '[999] Chill and Rigor'
     - name: '[999] Eternitybox'
@@ -318,14 +317,16 @@
     - name: '[DGS2] Objection! (Ryutaro)'
     - name: '[PLMM] Objection!'
     - name: '[PWC] Objection!'
-    - name: '[DR] Objection!'
+    - name: '[DRv3] Objection!'
     - name: '[GT] Objection!'
+    - name: '[O] Objection!' 
     - name: '[FE] Objection! (Roar)'
     - name: '[SJ] Objection!'
     - name: '[EO] Objection!'
     - name: '[SO] Objection!'
     - name: '[P3] Objection!'
     - name: '[P5] Objection!'
+    - name: '[RK] Objection!'
     - name: '[MGR] Objection!'
 - category: ===CONFESS THE TRUTH===
   songs:
@@ -827,6 +828,7 @@
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime'
+    - name: '[AOV] animejp'
     - name: "[Misc] Bustin'"
     - name: '[Misc] Dejavu'
     - name: '[Misc] Gas Gas Gas'
