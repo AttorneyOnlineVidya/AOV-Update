@@ -13,6 +13,7 @@ Content changes:
    * Reworked the buttons of MilesDD AAI, Matilda, Matilda Headset, Anonymous, Penny AAI, LanaP, Ron, and Sonohigurashi
    * Moved [O] Suspense to the Objection category as [O] Objection!
    * Updated the anime.opus
+   * Removed Payne Max, separating him into separate component folders.
 
 The following songs have been added to the jukebox:
    * [DRv3] Objection!

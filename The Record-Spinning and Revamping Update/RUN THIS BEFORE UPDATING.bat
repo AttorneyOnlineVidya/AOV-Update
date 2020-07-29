@@ -63,6 +63,7 @@ del "base\sounds\music\[DR] Objection!.*" /s /q
 del "base\sounds\music\[P5] Logic of the Heart.*" /s /q
 del "base\sounds\music\[Misc] It's Always Sunny.*" /s /q
 del "base\sounds\music\[P5] Prelude.*" /s /q
+rmdir "base\characters\Payne Max" /s /q
 
 echo "completed"
 exit
