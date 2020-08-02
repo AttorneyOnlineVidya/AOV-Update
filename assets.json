@@ -2,6 +2,25 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.8.hotfix",
+	  "prev": "aov-2020.8",
+	  "update": [
+		{ "action": "delete", "target": "base/characters/Ron/(a)ron-emphathic.apng"},
+		{ "action": "delete", "target": "base/characters/Ron/(a)ron-emphathic.gif"},
+		{ "action": "delete", "target": "base/characters/Ron/(b)ron-emphathic.apng"},
+		{ "action": "delete", "target": "base/characters/Ron/(b)ron-emphathic.gif"},
+		{ "action": "delete", "target": "base/sounds/music/[P3] Elizabeth - The Battle for Everyone's Souls.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[P3] Elizabeth - The Battle for Everyone's Souls.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[P4U] Margaret - The Sadistic Stud-Keeping Secretary.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[P4U] Margaret - The Sadistic Stud-Keeping Secretary.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/August_Hotfix.zip",
+		  "hash": "b83d569178f6d07502724c860dc8b2f529c63054"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.8",
 	  "prev": "aov-2020.7",
 	  "update": [
