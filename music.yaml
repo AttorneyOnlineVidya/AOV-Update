@@ -30,7 +30,6 @@
     - name: '[DGS2] Prelude to Resolve'
     - name: '[DGS2] Prelude to the Blossoming Attorney'
     - name: '[GT] Prelude'
-    - name: '[P5] Prelude'
     - name: '[FFVII] Prelude'
 - category: ===TRIAL===
   songs:
@@ -88,11 +87,9 @@
     - name: '[999] Digital Root'
     - name: '[VLR] Logic Clarification'
     - name: '[SC] Logic and Realization'
-    - name: '[P5] Logic of the Heart'
     - name: '[X] Logic and Conspiracy'
     - name: '[SoJ] The Basics of the Case'
     - name: '[TT] The Basics of The Case'
-    - name: '[JJ] Logic and Stands'
     - name: '[M] The Basics of The Case'
 - category: ===SUSPENSE===
   songs:
@@ -264,6 +261,8 @@
     - name: '[Z012] Questioning (Allegro)'
     - name: '[SJ] Questioning (Moderato)'
     - name: '[SJ] Questioning (Allegro)'
+    - name: '[TWA] Confrontation (Moderato)'
+    - name: '[TWA] Confrontation (Allegro)'
     - name: '[U] Questioning (Moderato)'
     - name: '[U] Questioning (Allegro)'
     - name: '[P5] Questioning (Moderato)'
@@ -834,7 +833,6 @@
     - name: '[Misc] Gas Gas Gas'
     - name: '[Misc] Infinite Edge'
     - name: "[Misc] It is a Mystery"
-    - name: "[Misc] It's Always Sunny"
     - name: '[Misc] Kangaroo Court'
     - name: '[Misc] Komm Susser Tod'
     - name: '[Misc] Law & Order - Main Theme'
