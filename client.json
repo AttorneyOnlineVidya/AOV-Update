@@ -2,6 +2,7 @@
   "versions": [
   	{
 	  "version": "aov-2.8.5.1",
+	  "prev": "aov-2.7.2",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
 	    {"action": "deleteDir", "target": "base/themes/fullscreen"},
