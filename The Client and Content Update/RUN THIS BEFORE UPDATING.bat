@@ -1,4 +1,5 @@
 del "base\sounds\music\[AOV] anime.opus" /s /q
+del "base\sounds\music\[AOV] animejp.opus" /s /q
 rmdir "base\characters\Polly\emotions" /s /q
 rmdir "base\characters\Alita Tiala\emotions" /s /q
 rmdir "base\characters\Elise\emotions" /s /q
