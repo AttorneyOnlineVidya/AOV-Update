@@ -2,10 +2,10 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
   	{
-	  "version": "aov-2020.",
-	  "prev": "aov-2020.9",
+	  "version": "aov-2020.9",
+	  "prev": "aov-2020.8.hotfix",
 	  "update": [
-		{ "action": "notice", "msg": "WARNING! This update messes with a lot of char.ini files. Be sure to back up your custom char.ini files before continuing, if you have any."}
+		{ "action": "notice", "msg": "WARNING! This update messes with a lot of char.ini files. Be sure to back up your custom char.ini files before continuing, if you have any."},
 		{ "action": "deleteDir", "target": "base/characters/Polly/emotions"},
 		{ "action": "deleteDir", "target": "base/characters/Alita Tiala/emotions"},
 		{ "action": "deleteDir", "target": "base/characters/Elise/emotions"},
