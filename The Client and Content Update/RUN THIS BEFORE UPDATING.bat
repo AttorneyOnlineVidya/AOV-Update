@@ -10,7 +10,7 @@ rmdir "base\characters\Judge JP\emotions" /s /q
 del "base\sounds\music\[U] Questioning (Moderato).*" /s /q
 del "base\sounds\music\[L&D] 4 Minutes Before Death.*" /s /q
 del "base\sounds\music\[AA] Pursuit (Unlimited).*" /s /q
-ren "base\sounds\music\[FE] Objection! (Roar).*" "[FE] Objection!"
+ren "base\sounds\music\[FE] Objection! (Roar).*" "[FE] Objection!.*"
 del "base\sounds\music\[PWC] Dick Gumshoe - Unloved and Unpaid.*" /s /q
 rmdir "base\characters\JudgeCalifornia" /s /q
 del "base\characters\Polly\char - Def.ini" /s /q
