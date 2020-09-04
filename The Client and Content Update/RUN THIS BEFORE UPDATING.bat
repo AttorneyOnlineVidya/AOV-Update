@@ -12,6 +12,8 @@ del "base\sounds\music\[L&D] 4 Minutes Before Death.*" /s /q
 del "base\sounds\music\[AA] Pursuit (Unlimited).*" /s /q
 ren "base\sounds\music\[FE] Objection! (Roar).*" "[FE] Objection!.*"
 del "base\sounds\music\[PWC] Dick Gumshoe - Unloved and Unpaid.*" /s /q
+del "base\sounds\music\[PWC] Marvin Grossberg - Old Age, Regret, Retribution.*" /s /q
+del "base\sounds\music\[P4U] Elizabeth - Battle For Everyone's Souls.*" /s /q
 rmdir "base\characters\JudgeCalifornia" /s /q
 del "base\characters\Polly\char - Def.ini" /s /q
 del "base\characters\Polly\char - Kopie.ini" /s /q
