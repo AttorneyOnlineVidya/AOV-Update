@@ -523,8 +523,10 @@
       length: 0
     - name: '[JFA] Ringtone - Richard Wellington.opus'
     - name: '[JFA] Ringtone - Phoenix Wright.opus'
+    - name: '[JFA] Ringtone - Off.opus'
+      length: 0
     - name: '[T&T] Ringtone - Godot.opus'
-    - name: '[AJ] Ringtone - Guilty Love.opus'
+    - name: '[AJ] Ringtone - Klavier.opus'
     - name: '[AAI2] Ringtone - Justine Courtney.opus'
     - name: "[SoJ] Ringtone - Guitar's Serenade.opus"
     - name: '[PLvsAA] Music Box - Turnabout Sisters.opus'

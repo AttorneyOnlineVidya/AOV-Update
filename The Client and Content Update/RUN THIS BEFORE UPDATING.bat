@@ -21,6 +21,7 @@ del "base\characters\Polly\char - Witness.ini" /s /q
 del "base\characters\Polly\char - Pro.ini" /s /q
 del "base\sounds\music\[AA] Dick Gumshoe - It's Detective Gumshoe!.*" /s /q
 del "base\sounds\music\[AAI2] Ringtone - Moozilla.*" /s /q
+del "base\sounds\music\[AJ] Ringtone - Guilty Love.*" /s /q
 del "base\sounds\music\[DMC] Pursuit.*" /s /q
 del "base\sounds\music\[JFA] Ringtone - Phoenix.*" /s /q
 del "base\sounds\music\[JFA] Ringtone - Toccata and Fugue.*" /s /q
