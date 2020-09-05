@@ -24,7 +24,10 @@
 		{ "action": "delete", "target": "base/characters/Polly/char - Pro.ini"},
 		{ "action": "delete", "target": "base/sounds/music/[AA] Dick Gumshoe - It's Detective Gumshoe!.opus"},
 		{ "action": "delete", "target": "base/sounds/music/[PWC] Dick Gumshoe - Unloved and Unpaid.opus"},
-		{ "action": "delete", "target": "base/sounds/music/[AAI2] Ringtone - Justine Courtney.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[PWC] Marvin Grossberg - Old Age, Regret, Retribution.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[P4U] Elizabeth - Battle For Everyone's Souls.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[AAI2] Ringtone - Moozilla.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[AJ] Ringtone - Guilty Love"},
 		{ "action": "delete", "target": "base/sounds/music/[DMC] Pursuit.opus"},
 		{ "action": "delete", "target": "base/sounds/music/[JFA] Ringtone - Phoenix.opus"},
 		{ "action": "delete", "target": "base/sounds/music/[JFA] Ringtone - Toccata and Fugue.opus"},
@@ -1073,7 +1076,7 @@
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Client_and_Content_Update.zip",
-		  "hash": "ab3b56e1fed4c3fdabc911b5b7bf2760d02c0bc3"
+		  "hash": "f29de705257852988fda1c1c7a8f145f2319f81e"
 		}
 	  ]
 	},
