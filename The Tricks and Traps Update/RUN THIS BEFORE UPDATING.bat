@@ -15,6 +15,7 @@ ren "base\characters\Aigis (Godot)" Aigis_Visor
 ren "base\characters\Aigis 3D" Aigis_3D
 ren "base\characters\Aigis 3D W" Aigis_3D_Wit
 ren "base\characters\Alita Tiala" Alita
+ren "base\characters\Andistandhin" Peeslubn
 ren "base\characters\Apollo 3D B" Apollo_Injured
 ren "base\characters\Apollo DD Wounded Wit" Apollo_DD_Injured_Wit
 ren "base\characters\Apollo Leg" Apollo_Leg
@@ -37,7 +38,9 @@ ren "base\characters\Bailiff GB" Bailiff_GB
 ren "base\characters\Bailiff JP" Bailiff_JP
 ren "base\characters\Barok Wit" Barok_Wit
 ren "base\characters\Barok Z" Barok
+ren "base\characters\Barnham" Zacharias
 ren "base\characters\Betty de Famme" Betty
+ren "base\characters\Birdman" Harvey
 ren "base\characters\Blackquill" Simon_Blackquill
 ren "base\characters\Blackquill Assistant" Simon_Blackquill_Co
 ren "base\characters\Blackquill DD Wit" Simon_Blackquill_Wit
@@ -61,13 +64,15 @@ ren "base\characters\Dane Gustavia" Dane
 ren "base\characters\Darklaw" Eve_Darklaw
 ren "base\characters\Darkthena W" Darkthena_Wit
 ren "base\characters\Daryan Crescend" Daryan
-ren "base\characters\Shelly"
-ren "base\characters\Shelly_AAI"
+ren "base\characters\de Killer" Shelly
+ren "base\characters\de Killer AAI" Shelly_AAI
 ren "base\characters\Deplume" Norma
+ren "base\characters\Descole" Jean_Descole
 ren "base\characters\Dhurke D" Dhurke_Def
 ren "base\characters\Diego Leg" Diego_Leg
 ren "base\characters\Di-Jun Huang" Di-Jun
 ren "base\characters\Dobinbough" Benjamin
+ren "base\characters\Drebber" Enoch
 ren "base\characters\DrHotti" Hotti
 ren "base\characters\Duet (Lamiroir & Machi)" Lamiroir_&_Machi
 ren "base\characters\EmaAAI" Ema_AAI
@@ -76,6 +81,8 @@ ren "base\characters\EmaSOJ" Ema_SOJ
 ren "base\characters\Ernest Amano" Ernest
 ren "base\characters\Espella H" Espella_Co
 ren "base\characters\Eve Belduke" Eve
+ren "base\characters\Fawles" Terry
+ren "base\characters\Filch" Phineas
 ren "base\characters\Franziska AAI" Franziska_AAI
 ren "base\characters\Franziska AAI Young" Franziska_AAI_Young
 ren "base\characters\Fulbright" Bobby
@@ -93,8 +100,10 @@ ren "base\characters\Grey" Turner
 ren "base\characters\Grosky" Clamp
 ren "base\characters\Grossberg" Marvin_Young
 ren "base\characters\Grossberg Old" Marvin
-ren "base\characters\Gumshoe AAI" Gumshoe_AAI
+ren "base\characters\Gumshoe" Dick
+ren "base\characters\Gumshoe AAI" Dick_AAI
 ren "base\characters\Gundam" Gundham
+ren "base\characters\Hawk" Luis
 ren "base\characters\Hobbes Def" Hobbes_Def
 ren "base\characters\Hosonaga" Satoru
 ren "base\characters\Hugh Def" Hugh_Def
@@ -130,8 +139,10 @@ ren "base\characters\Kazuma W" Kazuma_Wit
 ren "base\characters\Kirigiri" Kyoko
 ren "base\characters\Klavier DD Pro" Klavier_DD
 ren "base\characters\Klavier DD Wit" Klavier_DD_Wit
-ren "base\characters\Klavier Young" Klavier_Youngren "base\characters\Knightley"
+ren "base\characters\Klavier Young" Klavier_Young
+ren "base\characters\Knightley" Horace
 ren "base\characters\Komaeda" Nagito
+ren "base\characters\Kudo" Victor
 ren "base\characters\LanaP" Lana_Pro
 ren "base\characters\Lance Amano" Lance
 ren "base\characters\Lauren Paups" Lauren
@@ -188,6 +199,7 @@ ren "base\characters\Olga Orly" Olga
 ren "base\characters\O'Malley" Rola_&_Patrick
 ren "base\characters\Oscar Fairplay" Oscar
 ren "base\characters\Oscar Fairplay Juror" Oscar_Juror
+ren "base\characters\Paolo" Don
 ren "base\characters\Paul Atishon" Paul
 ren "base\characters\Payne AA" Winston
 ren "base\characters\Payne AJ" Winston_AJ
@@ -234,6 +246,7 @@ ren "base\characters\Ryunosuke Witness" Ryunosuke_Wit
 ren "base\characters\Ryutaro Leg" Ryutaro_Leg
 ren "base\characters\Ryuunosuke" Ryunosuke
 ren "base\characters\Sahwit" Frank
+ren "base\characters\Scuttlebutt" Myriam
 ren "base\characters\Segata Sanshiro" Segata
 ren "base\characters\Sherlock Casual" Sherlock_Casual
 ren "base\characters\Sherlock Goggled" Sherlock_Goggled
@@ -241,6 +254,7 @@ ren "base\characters\Sherlock Undercover" Sherlock_Undercover
 ren "base\characters\Sirhan Dogen" Sirhan
 ren "base\characters\Sissel Cat" Sissel_Cat
 ren "base\characters\Smiles" Johnny
+ren "base\characters\Snow" Robert_Snow
 ren "base\characters\Sonohigurashi" Sanmon
 ren "base\characters\Starbuck" Solomon
 ren "base\characters\Stroganov" Mitrov
@@ -266,6 +280,7 @@ ren "base\characters\White" Redd
 ren "base\characters\WillP" Will
 ren "base\characters\Winfred Kitaki" Winfred
 ren "base\characters\Wocky Kitaki" Wocky
+ren "base\characters\Yew" Calisto
 ren "base\characters\Yuujin Mikotoba" Yuujin
 ren "base\characters\Yuujin Mikotoba Suit" Yuujin_Suit
 ren "base\characters\Zinc Lablanc" Zinc

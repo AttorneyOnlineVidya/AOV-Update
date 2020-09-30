@@ -1,4 +1,4 @@
-# [THE CLIENT AND CONTENT UPDATE]
+# [THE TRICKS AND TRAPS UPDATE]
 
 Content additions:
    * Added Nahyuta Wit
@@ -20,11 +20,6 @@ Content changes:
 
 The following songs have been added to the jukebox:
    * [Y0] Gotcha!
-
-The following songs have been removed from the jukebox:
-   * [U] Questioning (Moderato)
-   * [L&D] 4 Minutes Before Death
-   * [AA] Pursuit (Unlimited)
 
 The following songs have been given higher-quality versions:
    * [P5] Questioning (Moderato)
