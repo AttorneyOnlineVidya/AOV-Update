@@ -16,11 +16,11 @@ ren "base\characters\Aigis 3D" Aigis_3D
 ren "base\characters\Aigis 3D W" Aigis_3D_Wit
 ren "base\characters\Alita Tiala" Alita
 ren "base\characters\Andistandhin" Peeslubn
-ren "base\characters\Apollo 3D B" Apollo_Injured
+ren "base\characters\Apollo 3D B" Apollo_DD_Injured
 ren "base\characters\Apollo DD Wounded Wit" Apollo_DD_Injured_Wit
 ren "base\characters\Apollo Leg" Apollo_Leg
-ren "base\characters\ApolloDD" Apollo_DD
-ren "base\characters\ApolloDD Injured" Apollo_DD_Injured
+ren "base\characters\ApolloDD" Apollo_Injured
+ren "base\characters\ApolloDD Injured" Apollo_DD_Injured_Jacket
 ren "base\characters\ApolloDDWit" Apollo_DD_Wit
 ren "base\characters\ApolloSOJ" Apollo_SOJ
 ren "base\characters\ApolloSoJWit" Apollo_SOJ_Wit
@@ -55,7 +55,7 @@ ren "base\characters\ButzEdgeworth" Larry_Edgeworth
 ren "base\characters\ButzSOJ" Larry_SOJ
 ren "base\characters\Caeser Villan" Caeser
 ren "base\characters\Clover VLR" Clover_VLR
-ren "base\characters\Colias Palaeno" Palaeno
+ren "base\characters\Colias Palaeno" Colias
 ren "base\characters\Conway Stern" Conway
 ren "base\characters\Courtney Sithe" Courtney_Sithe
 ren "base\characters\Crab" Herman
@@ -286,4 +286,5 @@ ren "base\characters\Yuujin Mikotoba Suit" Yuujin_Suit
 ren "base\characters\Zinc Lablanc" Zinc
 ren "base\characters\Luke" Luke_Triton
 ren "base\characters\Atmey" Luke
+ren "base\characters\Angel Starr" Angel
 pause
