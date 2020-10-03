@@ -55,7 +55,7 @@ ren "base\characters\ButzEdgeworth" Larry_Edgeworth
 ren "base\characters\ButzSOJ" Larry_SOJ
 ren "base\characters\Caeser Villan" Caeser
 ren "base\characters\Clover VLR" Clover_VLR
-ren "base\characters\Colias Palaeno" Palaeno
+ren "base\characters\Colias Palaeno" Colias
 ren "base\characters\Conway Stern" Conway
 ren "base\characters\Courtney Sithe" Courtney_Sithe
 ren "base\characters\Crab" Herman
@@ -286,4 +286,5 @@ ren "base\characters\Yuujin Mikotoba Suit" Yuujin_Suit
 ren "base\characters\Zinc Lablanc" Zinc
 ren "base\characters\Luke" Luke_Triton
 ren "base\characters\Atmey" Luke
+ren "base\characters\Angel Starr" Angel
 pause
