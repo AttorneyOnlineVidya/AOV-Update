@@ -37,11 +37,12 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Aigis 3D W changed to Aigis_3D_Wit
    * Alita Tiala changed to Alita
    * Andistandhin changed to Peeslubn
-   * Apollo 3D B changed to Apollo_Injured
+   * Angel Starr changed to Angel
+   * Apollo 3D B changed to Apollo_DD_Injured
    * Apollo DD Wounded Wit changed to Apollo_DD_Injured_Wit
    * Apollo Leg changed to Apollo_Leg
-   * ApolloDD changed to Apollo_DD
-   * ApolloDD Injured changed to Apollo_DD_Injured
+   * ApolloDD changed to Apollo_Injured
+   * ApolloDD Injured changed to Apollo_DD_Injured_Jacket
    * ApolloDDWit changed to Apollo_DD_Wit
    * ApolloSOJ changed to Apollo_SOJ
    * ApolloSoJWit changed to Apollo_SOJ_Wit
@@ -68,7 +69,7 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Blackquill DD Wit changed to Simon_Blackquill_Wit
    * BlackquillSoJWit changed to Simon_Blackquill_SOJ_Wit
    * Blaise Debeste changed to Blaise
-   * Bonnie_Karin changed to Bonnie_&_Karin
+   * Bonnie_Karin changed to Bonnie_and_Karin
    * Bonny de Famme changed to Bonny
    * Butch Browning changed to Butch
    * Butz changed to Larry
@@ -77,7 +78,7 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * ButzSOJ changed to Larry_SOJ
    * Caeser Villan changed to Caeser
    * Clover VLR changed to Clover_VLR
-   * Colias Palaeno changed to Palaeno
+   * Colias Palaeno changed to Colias
    * Conway Stern changed to Conway
    * Courtney Sithe changed to Courtney_Sithe
    * Crab changed to Herman
@@ -96,7 +97,7 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Dobinbough changed to Benjamin
    * Drebber changed to Enoch
    * DrHotti changed to Hotti
-   * Duet (Lamiroir & Machi) changed to Lamiroir_&_Machi
+   * Duet (Lamiroir & Machi) changed to Lamiroir_and_Machi
    * EmaAAI changed to Ema_AAI
    * EmaAJ changed to Ema_AJ
    * EmaSOJ changed to Ema_SOJ
@@ -219,7 +220,7 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Oldbag changed to Wendy
    * Oldbag AAI changed to Wendy_AAI
    * Olga Orly changed to Olga
-   * O'Malley changed to Rola_&_Patrick
+   * O'Malley changed to Rola_and_Patrick
    * Oscar Fairplay changed to Oscar
    * Oscar Fairplay Juror changed to Oscar_Juror
    * Paolo changed to Don
@@ -232,7 +233,7 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Payne E-tail changed to Winston_Ponytail
    * Payne in the Ashes changed to Winston_Phoenix
    * Payne SOJ changed to Gaspen_SOJ
-   * Payne T&T changed to Winston_T&T
+   * Payne T&T changed to Winston_TT
    * Payne Train changed to Payne_Train
    * Payne Train v2 changed to Payne_Train_V2
    * Pearl Teen Comfy changed to Pearl_Teen_Jacket
