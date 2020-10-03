@@ -16,11 +16,11 @@ ren "base\characters\Aigis 3D" Aigis_3D
 ren "base\characters\Aigis 3D W" Aigis_3D_Wit
 ren "base\characters\Alita Tiala" Alita
 ren "base\characters\Andistandhin" Peeslubn
-ren "base\characters\Apollo 3D B" Apollo_Injured
+ren "base\characters\Apollo 3D B" Apollo_DD_Injured
 ren "base\characters\Apollo DD Wounded Wit" Apollo_DD_Injured_Wit
 ren "base\characters\Apollo Leg" Apollo_Leg
-ren "base\characters\ApolloDD" Apollo_DD
-ren "base\characters\ApolloDD Injured" Apollo_DD_Injured
+ren "base\characters\ApolloDD" Apollo_Injured
+ren "base\characters\ApolloDD Injured" Apollo_DD_Injured_Jacket
 ren "base\characters\ApolloDDWit" Apollo_DD_Wit
 ren "base\characters\ApolloSOJ" Apollo_SOJ
 ren "base\characters\ApolloSoJWit" Apollo_SOJ_Wit
