@@ -46,7 +46,7 @@ ren "base\characters\Blackquill Assistant" Simon_Blackquill_Co
 ren "base\characters\Blackquill DD Wit" Simon_Blackquill_Wit
 ren "base\characters\BlackquillSoJWit" Simon_Blackquill_SOJ_Wit
 ren "base\characters\Blaise Debeste" Blaise
-ren "base\characters\Bonnie_Karin" "Bonnie_&_Karin"
+ren "base\characters\Bonnie_Karin" "Bonnie_and_Karin"
 ren "base\characters\Bonny de Famme" Bonny
 ren "base\characters\Butch Browning" Butch
 ren "base\characters\Butz" Larry
@@ -74,7 +74,7 @@ ren "base\characters\Di-Jun Huang" Di-Jun
 ren "base\characters\Dobinbough" Benjamin
 ren "base\characters\Drebber" Enoch
 ren "base\characters\DrHotti" Hotti
-ren "base\characters\Duet (Lamiroir & Machi)" "Lamiroir_&_Machi"
+ren "base\characters\Duet (Lamiroir and Machi)" "Lamiroir_and_Machi"
 ren "base\characters\EmaAAI" Ema_AAI
 ren "base\characters\EmaAJ" Ema_AJ
 ren "base\characters\EmaSOJ" Ema_SOJ
@@ -196,7 +196,7 @@ ren "base\characters\Nikomina Hatless" Nikomina_Hatless
 ren "base\characters\Oldbag" Wendy
 ren "base\characters\Oldbag AAI" Wendy_AAI
 ren "base\characters\Olga Orly" Olga
-ren "base\characters\O'Malley" "Rola_&_Patrick"
+ren "base\characters\O'Malley" "Rola_and_Patrick"
 ren "base\characters\Oscar Fairplay" Oscar
 ren "base\characters\Oscar Fairplay Juror" Oscar_Juror
 ren "base\characters\Paolo" Don
@@ -209,7 +209,7 @@ ren "base\characters\Payne DGS" Auchi
 ren "base\characters\Payne E-tail" Winston_Ponytail
 ren "base\characters\Payne in the Ashes" Winston_Phoenix
 ren "base\characters\Payne SOJ" Gaspen_SOJ
-ren "base\characters\Payne T&T" "Winston_T&T"
+ren "base\characters\Payne TandT" "Winston_TandT"
 ren "base\characters\Payne Train" Payne_Train
 ren "base\characters\Payne Train v2" Payne_Train_V2
 ren "base\characters\Pearl Teen Comfy" Pearl_Teen_Jacket
