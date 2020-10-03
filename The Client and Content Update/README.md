@@ -25,7 +25,7 @@ The following songs have been added to the jukebox:
    * [AAI] Blue Badger March
    * [AAI2] Lamenting People 
    * [GSK] Blissful People 
-   * [USK] Confess the Truth
+   * [KUS] Confess the Truth
 
 The following songs have been removed from the jukebox:
    * [U] Questioning (Moderato)

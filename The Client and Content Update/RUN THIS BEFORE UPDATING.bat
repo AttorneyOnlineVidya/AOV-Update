@@ -1,4 +1,5 @@
 del "base\sounds\music\[AOV] anime.opus" /s /q
+del "base\sounds\music\[AOV] animejp.opus" /s /q
 rmdir "base\characters\Polly\emotions" /s /q
 rmdir "base\characters\Alita Tiala\emotions" /s /q
 rmdir "base\characters\Elise\emotions" /s /q
@@ -9,14 +10,18 @@ rmdir "base\characters\Judge JP\emotions" /s /q
 del "base\sounds\music\[U] Questioning (Moderato).*" /s /q
 del "base\sounds\music\[L&D] 4 Minutes Before Death.*" /s /q
 del "base\sounds\music\[AA] Pursuit (Unlimited).*" /s /q
-ren "base\sounds\music\[FE] Objection! (Roar).*" "[FE] Objection!"
+ren "base\sounds\music\[FE] Objection! (Roar).*" "[FE] Objection!.*"
+del "base\sounds\music\[PWC] Dick Gumshoe - Unloved and Unpaid.*" /s /q
+del "base\sounds\music\[PWC] Marvin Grossberg - Old Age, Regret, Retribution.*" /s /q
+del "base\sounds\music\[P4U] Elizabeth - Battle For Everyone's Souls.*" /s /q
 rmdir "base\characters\JudgeCalifornia" /s /q
 del "base\characters\Polly\char - Def.ini" /s /q
 del "base\characters\Polly\char - Kopie.ini" /s /q
 del "base\characters\Polly\char - Witness.ini" /s /q
 del "base\characters\Polly\char - Pro.ini" /s /q
 del "base\sounds\music\[AA] Dick Gumshoe - It's Detective Gumshoe!.*" /s /q
-del "base\sounds\music\[AAI2] Ringtone - Justine Courtney.*" /s /q
+del "base\sounds\music\[AAI2] Ringtone - Moozilla.*" /s /q
+del "base\sounds\music\[AJ] Ringtone - Guilty Love.*" /s /q
 del "base\sounds\music\[DMC] Pursuit.*" /s /q
 del "base\sounds\music\[JFA] Ringtone - Phoenix.*" /s /q
 del "base\sounds\music\[JFA] Ringtone - Toccata and Fugue.*" /s /q
