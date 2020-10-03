@@ -155,7 +155,7 @@ ren "base\characters\LeTouse" Romein
 ren "base\characters\Long Lang" Shi-Long
 ren "base\characters\Lotta AAI" Lotta_AAI
 ren "base\characters\Lucy Baker" Lucy
-ren "base\characters\Luke Adult" Luke_Adult
+ren "base\characters\Luke Adult" Luke_Triton_Adult
 ren "base\characters\Machi Tobaye" Machi
 ren "base\characters\Maggey AAI" Maggey_AAI
 ren "base\characters\Makepeace" Diane
@@ -284,4 +284,6 @@ ren "base\characters\Yew" Calisto
 ren "base\characters\Yuujin Mikotoba" Yuujin
 ren "base\characters\Yuujin Mikotoba Suit" Yuujin_Suit
 ren "base\characters\Zinc Lablanc" Zinc
+ren "base\characters\Luke" Luke_Triton
+ren "base\characters\Atmey" Luke
 pause
