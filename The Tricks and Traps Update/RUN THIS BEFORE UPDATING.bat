@@ -1,8 +1,8 @@
-rmdir "base\characters\Cindy"
-rmdir "base\characters\Datz\emotions"
-rmdir "base\characters\Auchi"
-rmdir "base\characters\Auchi DGS2"
-rmdir "base\characters\Ridelle"
+rmdir /Q /S "base\characters\Cindy"
+rmdir /Q /S "base\characters\Datz\emotions"
+rmdir /Q /S "base\characters\Auchi"
+rmdir /Q /S "base\characters\Auchi DGS2"
+rmdir /Q /S "base\characters\Ridelle"
 del "base\sounds\music\[AOV] anime.opus"
 ren "base\characters\0 Master Anonymous" 0_Master_Anonymous
 ren "base\characters\1 Anonymous" 1_Anonymous
