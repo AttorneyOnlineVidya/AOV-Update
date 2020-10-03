@@ -284,4 +284,6 @@ ren "base\characters\Yew" Calisto
 ren "base\characters\Yuujin Mikotoba" Yuujin
 ren "base\characters\Yuujin Mikotoba Suit" Yuujin_Suit
 ren "base\characters\Zinc Lablanc" Zinc
+ren "base\characters\Luke" Luke_Triton
+ren "base\characters\Atmey" Luke
 pause
