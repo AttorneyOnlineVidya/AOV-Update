@@ -74,7 +74,7 @@ ren "base\characters\Di-Jun Huang" Di-Jun
 ren "base\characters\Dobinbough" Benjamin
 ren "base\characters\Drebber" Enoch
 ren "base\characters\DrHotti" Hotti
-ren "base\characters\Duet (Lamiroir and Machi)" "Lamiroir_and_Machi"
+ren "base\characters\Duet (Lamiroir & Machi)" "Lamiroir_and_Machi"
 ren "base\characters\EmaAAI" Ema_AAI
 ren "base\characters\EmaAJ" Ema_AJ
 ren "base\characters\EmaSOJ" Ema_SOJ
