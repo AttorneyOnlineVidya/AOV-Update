@@ -4,6 +4,7 @@ rmdir /Q /S "base\characters\Auchi"
 rmdir /Q /S "base\characters\Auchi DGS2"
 rmdir /Q /S "base\characters\Ridelle"
 del "base\sounds\music\[AOV] anime.opus"
+del "base\sounds\music\[PWC] Questioning (Presto).opus"
 ren "base\characters\0 Master Anonymous" 0_Master_Anonymous
 ren "base\characters\1 Anonymous" 1_Anonymous
 ren "base\characters\2 Anonymous" 2_Anonymous
