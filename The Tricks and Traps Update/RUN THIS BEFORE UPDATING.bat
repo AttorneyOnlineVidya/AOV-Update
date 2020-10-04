@@ -4,6 +4,7 @@ rmdir /Q /S "base\characters\Auchi"
 rmdir /Q /S "base\characters\Auchi DGS2"
 rmdir /Q /S "base\characters\Ridelle"
 del "base\sounds\music\[AOV] anime.opus"
+del "base\sounds\music\[PWC] Questioning (Presto).opus"
 ren "base\characters\0 Master Anonymous" 0_Master_Anonymous
 ren "base\characters\1 Anonymous" 1_Anonymous
 ren "base\characters\2 Anonymous" 2_Anonymous
@@ -74,7 +75,7 @@ ren "base\characters\Di-Jun Huang" Di-Jun
 ren "base\characters\Dobinbough" Benjamin
 ren "base\characters\Drebber" Enoch
 ren "base\characters\DrHotti" Hotti
-ren "base\characters\Duet (Lamiroir and Machi)" "Lamiroir_and_Machi"
+ren "base\characters\Duet (Lamiroir & Machi)" "Lamiroir_and_Machi"
 ren "base\characters\EmaAAI" Ema_AAI
 ren "base\characters\EmaAJ" Ema_AJ
 ren "base\characters\EmaSOJ" Ema_SOJ
