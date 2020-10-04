@@ -211,7 +211,6 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * MilesKid changed to Miles_Kid
    * MilesSOJ changed to Miles_SOJ
    * MrHat changed to Mr_Hat
-   * Nahyuta Wit changed to Nahyuta_Wit
    * Nemmy Tinpillar changed to Nemmy
    * Newman changed to Robin
    * Newman Pro changed to Robin_Pro
