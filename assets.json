@@ -295,7 +295,6 @@
 		{ "action": "deleteDir", "target": "base/characters/Yuujin Mikotoba"},
 		{ "action": "deleteDir", "target": "base/characters/Yuujin Mikotoba Suit"},
 		{ "action": "deleteDir", "target": "base/characters/Zinc Lablanc"},
-		]
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Tricks_and_Traps_Update.zip",
