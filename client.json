@@ -1,6 +1,18 @@
 {
   "versions": [
   	{
+	  "version": "aov-2.8.5.1 (Small CSS Theme)",
+	  "prev": "aov-2.8.5.1",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/AOV_Small_CSS.zip",
+		  "hash": "e112d6d72657d609eb44d7a933c1bca5b5dbb458"
+		}
+	  ]
+	},
+  	{
 	  "version": "aov-2.8.5.1",
 	  "prev": "aov-2.7.2",
 	  "executable": "Attorney_Online.exe",
