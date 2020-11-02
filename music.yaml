@@ -51,6 +51,7 @@
     - name: '[DGS2] Trial (DLC).opus'
     - name: '[DGS2] Trial (DLC-2).opus'
     - name: '[O] Trial.opus'
+    - name: '[O] Trial (Variation).opus'
     - name: '[GT] Trial.opus'
 - category: ===QUESTIONING===
   songs:
@@ -154,7 +155,6 @@
     - name: '[M] The Basics of The Case.opus'
     - name: '[IQ] A Grand Theory (Opening).opus'
     - name: '[IQ] A Grand Theory (Finale).opus'
-    - name: '[SiG] Funk Debate.opus'
 - category: ===SUSPENSE===
   songs:
     - name: '[AA] Suspense.opus'
@@ -180,6 +180,7 @@
     - name: '[FFX] Suspense.opus'
     - name: '[ZTD] Suspense.opus'
     - name: '[ZTD] Make Your Choice.opus'
+    - name: '[O] Suspense.opus'
     - name: '[GT] Suspense.opus'
     - name: '[P4] Suspense.opus'
     - name: '[DP] Suspense.opus'
@@ -200,6 +201,7 @@
     - name: '[Ani] Oral Argument.opus'
     - name: '[GT] Countdown.opus'
     - name: '[GT] Desperate Struggle.opus'
+    - name: '[O] Name of God.opus'
     - name: '[O] Stand A Crisis.opus'
     - name: '[SMT3] Fiendish Crisis.opus'
     - name: '[DN] Ultimate Crisis.opus'
@@ -290,6 +292,7 @@
     - name: '[SJ] Pursuit.opus'
     - name: '[LB] Pursuit.opus'
     - name: '[BB] Pursuit.opus'
+    - name: '[MGSPW] Koi No Yokushiryoku.opus'
     - name: '[MGR] Pursuit.opus'
     - name: '[DMC5] Pursuit.opus'
     - name: '[P5] Pursuit.opus'
@@ -297,6 +300,7 @@
     - name: '[SM] Pursuit.opus'
     - name: '[O] Pursuit.opus'
     - name: '[U] Pursuit.opus'
+    - name: '[U] Pursuit (Evil).opus'
     - name: '[DW1] Pursuit.opus'
     - name: '[AOV] Pursuit (Kay Faraday).opus'
 - category: ===CONFESS THE TRUTH===
@@ -316,6 +320,7 @@
     - name: '[DGS] Confess The Truth (DLC) (Variation).opus'
     - name: '[DR] Confess The Truth.opus'
     - name: '[DR] Confess The Truth (Variation).opus'
+    - name: '[O] Confess The Truth.opus'
     - name: '[KUS] Confess The Truth.opus'
 - category: ===VICTORY CELEBRATION===
   songs:
@@ -495,6 +500,9 @@
     - name: '[999] Investigation (Core).opus'
     - name: '[DR] Investigation.opus'
     - name: '[DR2] Investigation.opus'
+    - name: '[O] Investigation (Opening).opus'
+    - name: '[O] Investigation (Middle).opus'
+    - name: '[O] Investigation (Core).opus'
     - name: '[GT] Investigation (Opening).opus'
     - name: '[GT] Investigation (Core).opus'
     - name: '[SiG] Investigation (Opening).opus'
@@ -611,7 +619,7 @@
     - name: '[GT] The World of the Dead.opus'
     - name: '[GT] Welcome to the Salon.opus'
     - name: '[O] Brick Ballades Houston Street.opus'
-    - name: '[SMT] The Lazy Detective Agency.opus'
+    - name: '[RK] The Lazy Detective Agency.opus'
     - name: '[Wii] Channel.opus'
 - category: ===CHARACTER THEMES===
   songs:
@@ -620,6 +628,7 @@
     - name: '[DD] Amazing Nine-Tails.opus'
     - name: "[DD] Apollo Justice - I'm Fine!.opus"
     - name: '[MGS5] Apollo Justice - Nuclear.opus'
+    - name: '[Z012] Prosecutor Justice - A New Path.opus'
     - name: '[DGS] Asougi Kazuma - Samurai With a Mission.opus'
     - name: '[15th] Asougi Kazuma - Samurai with a Mission.opus'
     - name: '[DGS] Asougi Kazuma - Nocturne.opus'
@@ -691,7 +700,6 @@
     - name: '[AJ] Lamiroir - Landscape Painter in Sound.opus'
     - name: "[T&T] Larry Butz - When Something Smells, It's Usually Me.opus"
     - name: "[SoJ] Larry Butz - When Something Smells, It's Usually Me.opus"
-    - name: '[FE] Lucina - Challenger of Fate.opus'
     - name: '[T&T] Luke Atmey - I Just Want Love.opus'
     - name: '[GT] Lynne - A Targeted Redhead.opus'
     - name: '[GT] Madam - An Enveloping Smell of Roses.opus'
@@ -811,6 +819,7 @@
     - name: '[15th] Partners - The Game is Afoot!.opus'
     - name: '[N] Cowardly People.opus'
     - name: '[O] Procrastination.opus'
+    - name: '[O] Servant People.opus'
     - name: '[TC] Gentle Breeze.opus'
     - name: '[LM] Stupid People.opus'
     - name: '[DGS2] Solo of Rage.opus'
@@ -844,6 +853,7 @@
   songs:
     - name: '[PLvsAA] Locked-Away Darkness.opus'
     - name: '[PLvsAA] The Legendary Great Fire.opus'
+    - name: '[O] Role Call.opus'
     - name: '[FE] Unwavering People.opus'
     - name: '[PM] Light Up The Night.opus'
     - name: '[TTGL] Pierce the Heavens.opus'
@@ -928,12 +938,15 @@
     - name: '[DGS2] The Gate to the Truth.opus'
     - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.opus'
     - name: '[DP] Life is Beautiful.opus'
+    - name: '[O] And Forever.opus'
     - name: '[P5] Guilt.opus'
     - name: '[PR] Bygone Days.opus'
     - name: '[GSM] The Icy Road Forward.opus'
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime.opus'
+    - name: '[AOV] Contest A.opus'
+    - name: '[AOV] Contest B.opus'
     - name: "[Misc] Bustin'.opus"
     - name: '[Misc] Dejavu.opus'
     - name: '[Misc] Gas Gas Gas.opus'
@@ -942,7 +955,6 @@
     - name: '[Misc] Kangaroo Court.opus'
     - name: '[Misc] Komm Susser Tod.opus'
     - name: '[Misc] Law & Order - Main Theme.opus'
-    - name: '[Misc] Koi No Yokushiryoku.opus'
     - name: '[Misc] Mystery Skulls - Money.opus'
     - name: '[Misc] Ocean Man.opus'
     - name: '[Misc] Pizza Time.opus'

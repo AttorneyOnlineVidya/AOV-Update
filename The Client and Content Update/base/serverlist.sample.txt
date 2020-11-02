@@ -1,2 +1,0 @@
-107.191.99.112:50001:Attorney Online Vidya
-107.191.99.112:50002:Attorney Online Vidya (test)
