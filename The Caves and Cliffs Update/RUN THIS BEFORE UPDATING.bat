@@ -7,8 +7,8 @@ rmdir /Q /S "base\characters\Kay"
 del "base\sounds\music\[AOV] anime.opus"
 del "base\sounds\music\[FE] Lucina - Challenger of Fate.opus"
 del "base\sounds\music\[SiG] Funk Debate.opus"
-ren "base\sounds\music\[SMT] Lazy Detective Agency" "[RK] Lazy Detective Agency"
-ren "base\sounds\music\[Misc] Koi No Yokushiryoku" "[MGSPW] Koi No Yokushiryoku"
+ren "base\sounds\music\[SMT] Lazy Detective Agency.opus" "[RK] Lazy Detective Agency.opus"
+ren "base\sounds\music\[Misc] Koi No Yokushiryoku.opus" "[MGSPW] Koi No Yokushiryoku.opus"
 ren "base\characters\Adachi" Tohru
 ren "base\characters\Adachi_Gunless" Tohru_Gunless
 ren "base\characters\Tenmyouji" Junpei
