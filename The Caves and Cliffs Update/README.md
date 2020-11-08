@@ -31,6 +31,8 @@ The following songs have been added to the jukebox:
    * [U] Pursuit (Evil)
    * [AOV] Contest A
    * [AOV] Contest B
+   * [AOV] Contest C
+   * [AOV] Contest D
 
 The following songs have been removed from the jukebox
    * [FE] Lucina - Challenger of Fate
@@ -53,3 +55,4 @@ The following folders have been renamed to fit a new naming scheme for consisten
    * Ryutaro_Leg changed to Susato_Ryutaro_Leg
    * Taizou changed to Taizo
    * Yuujin changed to Yujin
+   * Yuujin_Suit changed to Yujin_Suit

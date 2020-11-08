@@ -2,6 +2,40 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.11",
+	  "prev": "aov-2020.10",
+	  "update": [
+		{ "action": "notice", "msg": "RENAMED FOLDERS:\nAdachi, Adachi_Gunless, Tenmyouji, Hemlock, Ryutaro, Ryutaro_Leg, Courtney_Sithe, Natsume, Taizou, Yuujin, Yuujin_Suit\n\nREMOVED:\nLucina, Aigis_3D, Aigis_3D_Wit, [FE] Lucina - Challenger of Fate.opus, [SiG] Funk Debate.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Duet (Lamiroir & Machi)"},
+		{ "action": "deleteDir", "target": "base/characters/Maya_PLVSAA_Co_Knight"},
+		{ "action": "deleteDir", "target": "base/characters/Lucina"},
+		{ "action": "deleteDir", "target": "base/characters/Aigis_3D"},
+		{ "action": "deleteDir", "target": "base/characters/Aigis_3D_Wit"},
+		{ "action": "deleteDir", "target": "base/characters/Kay"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[FE] Lucina - Challenger of Fate.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[SiG] Funk Debate.opus"},
+		{ "action": "deleteDir", "target": "base/sounds/music/[SMT] The Lazy Detective Agency.opus"},
+		{ "action": "deleteDir", "target": "base/sounds/music/[Misc] Koi No Yokushiryoku.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Adachi"},
+		{ "action": "deleteDir", "target": "base/characters/Adachi_Gunless"},
+		{ "action": "deleteDir", "target": "base/characters/Tenmyouji"},
+		{ "action": "deleteDir", "target": "base/characters/Hemlock"},
+		{ "action": "deleteDir", "target": "base/characters/Ryutaro"},
+		{ "action": "deleteDir", "target": "base/characters/Ryutaro_Leg"},
+		{ "action": "deleteDir", "target": "base/characters/Courtney_Sithe"},
+		{ "action": "deleteDir", "target": "base/characters/Natsume"},
+		{ "action": "deleteDir", "target": "base/characters/Taizou"},
+		{ "action": "deleteDir", "target": "base/characters/Yuujin"},
+		{ "action": "deleteDir", "target": "base/characters/Yuujin_Suit"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Caves_and_Cliffs_Update.zip",
+		  "hash": "61cb9ff9523b4787d392662326db752016c66fa3"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.10",
 	  "prev": "aov-2020.9",
 	  "update": [
