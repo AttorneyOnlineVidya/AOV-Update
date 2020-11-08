@@ -19,4 +19,5 @@ ren "base\characters\Courtney_Sithe" Courtney
 ren "base\characters\Natsume" Soseki
 ren "base\characters\Taizou" Taizo
 ren "base\characters\Yuujin" Yujin
+ren "base\characters\Yuujin_Suit" Yujin_Suit
 pause
