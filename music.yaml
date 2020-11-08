@@ -947,6 +947,8 @@
     - name: '[AOV] anime.opus'
     - name: '[AOV] Contest A.opus'
     - name: '[AOV] Contest B.opus'
+    - name: '[AOV] Contest C.opus'
+    - name: '[AOV] Contest D.opus'
     - name: "[Misc] Bustin'.opus"
     - name: '[Misc] Dejavu.opus'
     - name: '[Misc] Gas Gas Gas.opus'
