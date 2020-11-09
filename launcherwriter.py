@@ -22,7 +22,7 @@ for line in infile:
         holder = line.split("\"")[1].replace("\\","/")
         outfile.write("\t\t{ \"action\": \"%s\", \"target\": \"%s\"},\n" % (('deleteDir' if ('rmdir' in line.split("\"")[0]) else ('delete' if ('del' in line.split("\"")[0]) else 'CHECK .BAT')) , holder))
 
-outfile.write("\t\t]\n\t\t{\n\t\t  \"action\": \"dl\",\n\t\t  \"url\": \"https://s3.wasabisys.com/aov/Update/%s/%s.zip\",\n" % (year,updateName))
+outfile.write("\n\t\t{\n\t\t  \"action\": \"dl\",\n\t\t  \"url\": \"https://s3.wasabisys.com/aov/Update/%s/%s.zip\",\n" % (year,updateName))
 
 shahash = input("Input SHA-1 hash for the file: ").lower()
 
