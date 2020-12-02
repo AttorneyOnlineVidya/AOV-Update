@@ -53,6 +53,7 @@
     - name: '[O] Trial.opus'
     - name: '[O] Trial (Variation).opus'
     - name: '[GT] Trial.opus'
+    - name: '[L&O] Trial.opus'
 - category: ===QUESTIONING===
   songs:
     - name: '[AA] Questioning (Moderato).opus'
@@ -207,6 +208,7 @@
     - name: '[DN] Ultimate Crisis.opus'
     - name: '[DR] Desperate People.opus'
     - name: '[C2] Nuclear Crisis.opus'
+    - name: '[H] Facism.opus'
     - name: '[KUS] Gambling Crisis.opus'
     - name: '[PLvsAA] Omen.opus'
 - category: ===OBJECTION===
@@ -363,7 +365,7 @@
     - name: '[EB] Ending.opus'
     - name: '[P3] Ending.opus'
     - name: '[SM64] Ending.opus'
-    - name: '[YES] Roundabout.opus'
+    - name: '[JC] Want You Gone.opus'
 - category: ===INTRO AND CINEMATICS===
   songs:
     - name: '[AA] Prologue - The First Turnabout.opus'
@@ -571,6 +573,7 @@
     - name: '[AAI2] Logic Chess (Ending).opus'
     - name: '[GT] 4 Minutes Before Death (Moderato).opus'
     - name: '[GT] 4 Minutes Before Death (Allegro).opus'
+    - name: '[J] What is Thinking.opus'
 - category: ===LOCATIONS===
   songs:
     - name: '[JFA] Berry Big Circus.opus'
@@ -627,7 +630,6 @@
     - name: "[SoJ] Amara Sigatar Khura'in - Her Eminence Reborn.opus"
     - name: '[DD] Amazing Nine-Tails.opus'
     - name: "[DD] Apollo Justice - I'm Fine!.opus"
-    - name: '[MGS5] Apollo Justice - Nuclear.opus'
     - name: '[Z012] Prosecutor Justice - A New Path.opus'
     - name: '[DGS] Asougi Kazuma - Samurai With a Mission.opus'
     - name: '[15th] Asougi Kazuma - Samurai with a Mission.opus'
@@ -681,6 +683,7 @@
     - name: '[DGS] Hart Vortex - Judge of Time.opus'
     - name: '[DGS] Hart Vortex - The Passing of Time.opus'
     - name: '[MGS3] Horace Knightley - A Knight Protects His King.opus'
+    - name: '[DR2] Ibuki - Hai Oh Daa.opus'
     - name: '[IC] Inferno Cop - Purgatory Flame.opus'
     - name: '[DGS] Iris Watson - A Little Biographer.opus'
     - name: '[DGS] Iris Watson - Bubbly Biographer.opus'
@@ -823,6 +826,11 @@
     - name: '[TC] Gentle Breeze.opus'
     - name: '[LM] Stupid People.opus'
     - name: '[DGS2] Solo of Rage.opus'
+    - name: '[SM2] Pizza Time.opus'
+    - name: "[S] What's The Deal With Contradictions.opus"
+    - name: "[TJ&E] Funky People'.opus"
+    - name: "[NC] Spooky People'.opus"
+    - name: "[NC] Brodyquest'.opus"
 - category: ===RELAXING MOMENT===
   songs:
     - name: '[P3] 3 31.opus'
@@ -841,6 +849,7 @@
     - name: '[P3] Blues In Velvet Room.opus'
     - name: '[GT] Chase.opus'
     - name: "[T&T] Godot's Jazz Blend.opus"
+    - name: '[eCDP] Golden Arches.opus'
     - name: '[B] In the Speak Easy.opus'
     - name: '[PLvsAA] In-Flight.opus'
     - name: '[AC] 7pm.opus'
@@ -855,9 +864,11 @@
     - name: '[PLvsAA] The Legendary Great Fire.opus'
     - name: '[O] Role Call.opus'
     - name: '[FE] Unwavering People.opus'
+    - name: '[SF] Infinite Edge.opus'
     - name: '[PM] Light Up The Night.opus'
     - name: '[TTGL] Pierce the Heavens.opus'
     - name: '[BT] I Need a Hero.opus'
+    - name: '[ID] Gas Gas Gas.opus'
 - category: ===MELANCHOLY===
   songs:
     - name: '[AA] Detention Center.opus'
@@ -941,7 +952,9 @@
     - name: '[O] And Forever.opus'
     - name: '[P5] Guilt.opus'
     - name: '[PR] Bygone Days.opus'
+    - name: "[Ch] You're The Inspiration.opus"
     - name: '[GSM] The Icy Road Forward.opus'
+    - name: '[NGE] Komm Susser Tod.opus'
 - category: ===MISCELLANEOUS===
   songs:
     - name: '[AOV] anime.opus'
@@ -949,32 +962,16 @@
     - name: '[AOV] Contest B.opus'
     - name: '[AOV] Contest C.opus'
     - name: '[AOV] Contest D.opus'
-    - name: "[Misc] Bustin'.opus"
-    - name: '[Misc] Dejavu.opus'
-    - name: '[Misc] Gas Gas Gas.opus'
-    - name: '[Misc] Infinite Edge.opus'
-    - name: "[Misc] It is a Mystery.opus"
     - name: '[Misc] Kangaroo Court.opus'
-    - name: '[Misc] Komm Susser Tod.opus'
-    - name: '[Misc] Law & Order - Main Theme.opus'
     - name: '[Misc] Mystery Skulls - Money.opus'
-    - name: '[Misc] Ocean Man.opus'
-    - name: '[Misc] Pizza Time.opus'
     - name: '[Misc] Record Scratch.opus'
       length: 0
-    - name: '[Misc] Running in the 90s.opus'
-    - name: '[Misc] Stand Activated.opus'
-    - name: "[Misc] What's The Deal With Contradictions.opus"
-    - name: '[Misc] What is Thinking.opus'
     - name: '[Misc] Whose Court is it Anyway.opus'
-    - name: '[Misc] YRWN.opus'
-    - name: "[Misc] You're The Inspiration.opus"
     - name: '[Wi] Lag Remover.opus'
     - name: '[GB] Lag Remover.opus'
     - name: '[SU] Lag Remover.opus'
     - name: '[Serb] Kebab Remover.opus'
     - name: '[Misc] Wake Me Up.opus'
-    - name: '[Misc] Want You Gone.opus'
 #- category: ===MOD===
 #  songs:
 #    - name: '[MOD] Conway - Chicken Wings.opus'
