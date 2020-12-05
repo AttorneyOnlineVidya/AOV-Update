@@ -2,6 +2,41 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2020.12",
+	  "prev": "aov-2020.11",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] animejp.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Deja Vu.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Running in the 90s.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Infinite Edge.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Ocean Man.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Pizza Time.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Stand Activated.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] What's the Deal with Contradictions.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] What is Thinking.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] It is a Mystery.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] YWRN.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] You're the Inspiration.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Want You Gone.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Komm Susser Tod.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Bustin'.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Law & Order - Main Theme.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[Misc] Gas Gas Gas.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[MGS5] Apollo Justice - Nuclear.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[YES] Roundabout.opus"},
+		{ "action": "delete", "target": "base/evidence/DGSCastHutch.png"},
+		{ "action": "delete", "target": "base/sounds/music/[GMO] Godot - The Fragrance of Dark Coffee.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[GMO] Miles Edgeworth - Great Revival.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Dante"},
+		{ "action": "deleteDir", "target": "base/characters/Calisto"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2020/The_Egg_and_Nog_Update.zip",
+		  "hash": "851ad515c073aee76f9698dd229fea630bc4afaa"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.11",
 	  "prev": "aov-2020.10",
 	  "update": [
