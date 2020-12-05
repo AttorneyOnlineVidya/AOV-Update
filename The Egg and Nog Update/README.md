@@ -1,8 +1,9 @@
-# [THE HOLLY AND JOLLY UPDATE]
+# [THE EGG AND NOG UPDATE]
 
 Content additions:
    * Added Phoenix_SOJ_Wit
    * Added Narrator-kun
+   * Added Egg
 
 Content removal:
    * Removed Fun
@@ -34,6 +35,8 @@ The following songs have been removed from the jukebox
    * [Misc] YWRN
    * [MGS5] Apollo Justice - Nuclear
    * [YES] Roundabout
+   * [GMO] Godot - The Fragrance of Dark Coffee
+   * [GMO] Miles Edgeworth - Great Revival
 
 The following songs have been recategorized or given new prefixes
    * [Misc] Infinite Edge
