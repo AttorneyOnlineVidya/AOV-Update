@@ -18,6 +18,8 @@ ren "base\sounds\music\[Misc] Gas Gas Gas.opus" "[ID] Gas Gas Gas.opus"
 del "base\sounds\music\[MGS5] Apollo Justice - Nuclear.opus"
 del "base\sounds\music\[YES] Roundabout.opus"
 ren "base\evidence\DGSCastHutch.png" "DGSCastHatch.png"
+del "base\sounds\music\[GMO] Godot - The Fragrance of Dark Coffee.opus"
+del "base\sounds\music\[GMO] Miles Edgeworth - Great Revival.opus"
 rmdir /Q /S "base\characters\Dante"
 rmdir /Q /S "base\characters\Calisto"
 pause
