@@ -111,6 +111,7 @@
     - name: '[TWA] Confrontation (Moderato).opus'
     - name: '[TWA] Confrontation (Allegro).opus'
     - name: '[U] Questioning (Allegro).opus'
+    - name: '[BotW] Confrontation (Allegro).opus'
     - name: '[P5] Questioning (Moderato).opus'
     - name: '[P5] Questioning (Allegro).opus'
     - name: '[P5] Questioning (Presto).opus'
@@ -178,6 +179,7 @@
     - name: '[999] Foreboding.opus'
     - name: '[999] Extreme Extrication.opus'
     - name: '[VLR] Ambidexterity.opus'
+    - name: '[VLR] Strain.opus'
     - name: '[FFX] Suspense.opus'
     - name: '[ZTD] Suspense.opus'
     - name: '[ZTD] Make Your Choice.opus'
@@ -185,6 +187,7 @@
     - name: '[GT] Suspense.opus'
     - name: '[P4] Suspense.opus'
     - name: '[DP] Suspense.opus'
+    - name: '[DE] Krenel, Downwell, Somatosensor.opus'
     - name: '[KUS] Escalating Gamble.opus'
     - name: '[JJ] Killer People.opus'
     - name: '[OFF] Suspense.opus'
@@ -210,6 +213,7 @@
     - name: '[C2] Nuclear Crisis.opus'
     - name: '[H] Fascism.opus'
     - name: '[KUS] Gambling Crisis.opus'
+    - name: '[LB] Tense Crisis.opus'
     - name: '[PLvsAA] Omen.opus'
 - category: ===OBJECTION===
   songs:
@@ -242,6 +246,7 @@
     - name: '[EO] Objection!.opus'
     - name: '[SO] Objection!.opus'
     - name: '[Y0] Gotcha!.opus'
+    - name: '[BotW] Objection!.opus'
     - name: '[P3] Objection!.opus'
     - name: '[P5] Objection!.opus'
     - name: '[RK] Objection!.opus'
@@ -510,6 +515,8 @@
     - name: '[SiG] Investigation (Core).opus'
     - name: '[P3] Investigation (Opening).opus'
     - name: '[TT] Investigation.opus'
+    - name: '[LB] Investigation (Opening).opus'
+    - name: '[LB] Investigation (Middle).opus'
     - name: '[ZTD] Investigation (Opening).opus'
     - name: '[ZTD] Investigation (Middle).opus'
     - name: '[ZTD] Investigation (Core).opus'
@@ -530,6 +537,8 @@
     - name: '[DD] Jingle - You Should Rest at a Time Like This.opus'
       length: 0
     - name: '[SoJ] Jingle - Take a Breather.opus'
+      length: 0
+    - name: '[OD] Jingle - Discovery.opus'
       length: 0
     - name: '[JFA] Ringtone - Richard Wellington.opus'
     - name: '[JFA] Ringtone - Phoenix Wright.opus'
@@ -762,6 +771,7 @@
     - name: '[AAI2] Sirhan Dogen - Tone of an Assassin.opus'
     - name: '[AA] The Blue Badger - I Want to Protect.opus'
     - name: '[AAI] Blue Badger March.opus'
+    - name: '[AAI] Blue Badger March (Orchestral).opus'
     - name: '[AAI2] The Great Moozilla.opus'
     - name: "[SoJ] The Holy Mother - The Teachings of Khura'in.opus"
     - name: '[SoJ] The Plumed Punisher - Warrior of Neo Twilight Realm.opus'
