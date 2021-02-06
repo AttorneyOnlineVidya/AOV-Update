@@ -8,10 +8,81 @@
 		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
 		{ "action": "delete", "target": "base/characters/Miles/iniswaps.txt"},
 		{ "action": "deleteDir", "target": "base/characters/Tyrell"},
+		{ "action": "deleteDir", "target": "base/characters/Angel Starr"},
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Stonks_Update.zip",
 		  "hash": "9a2ea28cd428f478913a66342abcf4a01671603d"
+		}
+	  ],
+	  "full": [
+		{ "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/Basics.zip",
+		  "hash": "fbbb85ecac48b43674f0d265fae38d65cf7b04a6"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/Trilogy.zip",
+		  "hash": "e6a2d3266c679c5e1f50f80a0b0ad2b50b7521a2"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/AJ.zip",
+		  "hash": "597d45a6f32f2b0eddafbdbda04fc4755b4045f6"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/AAI1.zip",
+		  "hash": "ccfdb9820ee26e29883e939c61d4a1435a68522f"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/AAI2.zip",
+		  "hash": "f85c84af1687201ac5a4608edf934db82e36f89b"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/AAExtra.zip",
+		  "hash": "30d3edece9a729cfc23516d74f239720eadfff79"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/DD.zip",
+		  "hash": "e8f69b5e27c8fa0206752e22df85e41a90a5ff44"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/SoJ.zip",
+		  "hash": "bd3f0e9bfdeb5b65db4cdab3a3a5ea69702d4b8b"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/DGS1.zip",
+		  "hash": "0a484da35d4960bc3504243e17b8ccc9693c042f"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/DGS2.zip",
+		  "hash": "d569dfe29fc300cf62b63c9be78d590830fb5e75"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/PLvsAA.zip",
+		  "hash": "982a14927bdd0d2893e6014561a504f9df79aa09"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/Layton.zip",
+		  "hash": "d6256f57f11e2f2285799fef3fb9696bd5667c53"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/GhostTrick.zip",
+		  "hash": "ed6e849a3bb6b056dea657385b9ba7818044b9c8"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/ZE.zip",
+		  "hash": "5f6538c1f02742a5d963c449eb0f08bb3166d31a"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/DR.zip",
+		  "hash": "f97cb6f143b252d22f8032a44f415d49315f1bce"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/Persona.zip",
+		  "hash": "f0d352525d61190d381737ae999d75e6013cfe63"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2021/Full/ThirdParty.zip",
+		  "hash": "9d2b79f5b1be2a90de7b1c797c168f8e482894d5"
 		}
 	  ]
 	},
