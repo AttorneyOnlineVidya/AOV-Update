@@ -1,0 +1,1655 @@
+murder:
+    - It's a ?{method} case, but ?{twist|1-5}
+    - It's a murder taking place at ?{location}, but also ?{twist|1-5}
+    - ?{person} has been murdered by ?{method}, but ?{twist|1-5}
+    - ?{person} killed ?{person} via ?{method} at ?{location}, and it has the evidence ?{evidence|2-5}, but also ?{twist|1-3}
+class trial:
+    - Murder by ?{method}. The participants are ?{ultimate|4-16}. Also, ?{twist|1-3}.
+asspull:
+    - ?{twist}!
+    - You thought that ?{twist}, but really ?{twist}!
+    - The ?{cast|2} are actually ?{relationship}!
+    - The real scene of the crime was actually ?{location}!
+    - The ?{cast} is secretly a time traveler from ?{time period}!
+    - The real killer is actually ?{character}!
+    - The true murder method was actually ?{method}!
+method:
+    - stabbing by ?{point}
+    - cutting by ?{blade}
+    - killed with ?{weapon}
+    - strangulation/asphyxiation
+    - shot with ?{gun}
+    - bludgeoning by ?{bludgeon}
+    - hit-and-run
+    - ?{weird method}
+
+weird method:
+    - freezing
+    - drowning
+    - electricution
+    - arson
+    - poison
+    - crushing
+
+twist:
+    - the ?{cast|2} are ?{relationship|1-2}
+    - the ?{cast} is secretly a ?{occupation}
+    - the ?{cast} is a ?{occupation}
+    - there's another victim
+    - the murder takes place in a "locked room"
+    - the murder takes place in an open space
+    - the murder happened in front of a crowd
+    - the body has a strange wound
+    - there's no signs of a struggle
+    - there's signs of a struggle
+    - it takes place in ?{time period}
+    - it's related to a past case via the ?{cast|1-3}
+    - there's ?{drugs} involved
+    - there's racism involved
+    - there's politics involved
+    - it's a reference to something
+    - it's VERY anime
+    - it's VERY serious
+    - it's VERY NSFW
+    - murder method could be ?{method}
+    - it takes place at ?{location}
+    - there's also ?{weapon|1-2%} on the scene
+    - there's ?{weapon} from ?{location} at the scene
+    - the crime scene is nearby ?{location}
+    - ?{person} is involved somehow
+    - the murder took place ?{time}
+    - the crime scene is a cross between ?{location|2-3}
+    - there's a ?{meme} at the crime scene
+    - it has fantasy/mythical elements
+    - the murder weapon can't be found
+    - the body was moved to ?{location}
+    - a special event was happening around the time
+    - the evidence ?{evidence} is involved somehow
+
+occupation:
+    - leader of ?{country}
+    - student
+    - teacher
+    - doctor
+    - lawyer
+    - prosecutor
+    - cop
+    - hobo
+    - detective
+    - CEO of ?{occupation} company
+    - rioter
+    - gamer
+    - prostitute
+    - drug dealer
+    - artist
+    - magician
+    - assassin
+    - astronaut
+    - judge
+    - bodyguard
+    - boxer
+    - businessman
+    - chef
+    - con artist
+    - rakugo performer
+    - flight attendant
+    - scientist
+    - security guard
+    - musician
+    - maid/butler
+    - spirit medium
+    - prince
+    - clown
+    - professional ?{game} player
+    - loli
+    - shota
+    - ?{country} national
+    - CHAD
+    - lizardperson
+    - serial killer
+    - unemployed
+    - gambler
+    - bartender
+    - accountant
+    - programmer
+    - debt collector
+    - knight
+
+game:
+    - football
+    - soccer
+    - rugby
+    - baseball
+    - chess
+    - shogi
+    - mahjong
+    - poker
+    - fortnite
+    - children's card game
+    - children's card game (on motorcycles)
+
+drugs:
+    - alcohol
+    - caffeine
+    - cocaine
+    - meth
+    - weed
+    - made-up drugs
+
+time:
+    - in the morning
+    - in the afternoon
+    - in the evening
+    - at night
+    - at high noon
+time period:
+    - the near future
+    - the far future
+    - medieval times
+    - ancient history
+    - the 20th century
+    - the 1800's
+relationship:
+    - lovers
+    - family members
+    - best friends
+    - enemies
+    - co-workers
+    - rivals
+    - strangers
+    - roommates
+character:
+    - ?{name}
+    - the ?{cast}
+person:
+    - a ?{occupation}
+    - ?{name}
+    - ?{name} the ?{occupation}
+name:
+    - April May
+    - Bellboy
+    - Larry Butz
+    - Cindy Stone
+    - Cody Hackins
+    - Joe Darke
+    - Emy Skye
+    - Damon Gant
+    - Gregory Edgeworth
+    - Marvin Grossberg
+    - Dick Gumshoe
+    - Jack Hammer
+    - Jake Marshall
+    - The Judge
+    - Lana Skye
+    - Lotta Hart
+    - Manfred Von Karma
+    - Bruce Goodman
+    - Maya Fey
+    - Mike Meekins
+    - Mia Fey
+    - Miles Edgeworth
+    - Misty Fey
+    - Neil Marshall
+    - Wendy Oldbag
+    - Winston Payne
+    - Penny Nichols
+    - Phoenix Wright
+    - Will Powers
+    - Frank Sahwit
+    - Sal Manella
+    - Angel Starr
+    - Dee Vasquez
+    - Redd White
+    - Yanni Yogi
+    - Blaise Debeste
+    - Bonny Young
+    - Jack Cameron
+    - Justine Courtney
+    - Delicia Scones
+    - Sirhan Dogen
+    - Jay Elbird
+    - Dane Gustavia
+    - Jill Crane
+    - Karin Jenson
+    - Katherine Hall
+    - Horace Knightly
+    - John Marsh
+    - Jeffery Master
+    - Nicole Swift
+    - Pierre Hoquet
+    - Raymond Shields
+    - Patricia Roland
+    - Ethan Rooke
+    - Sebastian Debeste
+    - Shelley DeKiller
+    - Simon Keyes
+    - Akbey Hicks
+    - Quercus Alba
+    - Ernest Amano
+    - Tyrell Badd
+    - Buddy Faith
+    - Byrne Faraday
+    - Cammy Meele
+    - Colin Devorae
+    - Deid Mann
+    - Franziska Von Karma
+    - Di-jun Huang
+    - Kay Faraday
+    - Lance Amano
+    - Shi-Long Lang
+    - Mack Rell
+    - Maggey Byrde
+    - Manny Coachen
+    - Ka-Shi Nou
+    - Colias Palaeno
+    - Lauren Paups
+    - Jacques Portsman
+    - Rhoda Teneiro
+    - Shih-na
+    - Callisto Yew
+    - Zinc LeBlanc
+    - Candice Arme
+    - Apollo Justice
+    - Athena Cykes
+    - Aura Blackquill
+    - Simon Blackquill
+    - Clay Terran
+    - Clonco
+    - Ponco
+    - Constance Courte
+    - Herman Crab
+    - Damian Tenma
+    - Phineas Filch
+    - Bobby Fulbright
+    - Jinxie Tenma
+    - Juniper Woods
+    - Klavier Gavin
+    - Florent L'Belle
+    - Aristotle Means
+    - Metis Cykes
+    - The Amazing Ninetales
+    - Norma DePlume
+    - Hugh O'Connor
+    - Orla
+    - Gaspen Payne
+    - Pearl Fey
+    - Rex Kyubi
+    - Marlon Rimes
+    - Robin Newman
+    - Sasha Buckler
+    - Myrium Scuttlebutt
+    - Jack Shipley
+    - Solomon Starbuck
+    - Azura Summers
+    - Ted Tonate
+    - Trucy Wright
+    - Yuri Cosmos
+    - Alita Tiala
+    - Daryan Crescend
+    - Drew Misham
+    - Guy Eldoon
+    - Kristoph Gavin
+    - Lamiroir
+    - Romain LeTouse
+    - Magnifi Grammarye
+    - Pal Meraktis
+    - Olga Olry
+    - Plum Kitaki
+    - Shadi Smith
+    - Spark Brushel
+    - Wesley Stickler
+    - Thalassa Grammarye
+    - Valant Grammarye
+    - Vera Misham
+    - Winfred Kitaki
+    - Wocky Kitaki
+    - Zak Grammarye
+    - Auchi Payne
+    - Barok Van Zieks
+    - Beppo
+    - Robert Crogrey
+    - Dmitri Demiglaski
+    - Oscar Fairplay
+    - Viridian Green
+    - Gina Lestrade
+    - Hatch Windibank
+    - Sherlock Holmes
+    - Satoru Hosonaga
+    - Jezail Brett
+    - Joan Garrideb
+    - John Garrideb
+    - John Watson
+    - Asougi Kazuma
+    - Adam Ladyfirst
+    - Cosney Megundal
+    - Mortar Milverton
+    - Soseki Natsume
+    - Nemmy Tinpillar
+    - Nikomina Borschevic
+    - Pat O'Malley
+    - Rola O'Malley
+    - Roylott
+    - Ryuunosuke Naruhodo
+    - Sanmon Sonohigurashi
+    - Mitrov Stroganov
+    - Susato Mikotoba
+    - Taizou Uzukumaru
+    - Tully Tinpillar
+    - Hart Vortex
+    - Iris Watson
+    - Yuujin Mikotoba
+    - Acro
+    - Adrian Andrews
+    - Bat
+    - Benjamin Woodman
+    - Celeste Inpax
+    - Dustin Prince
+    - Max Galactica
+    - Turner Grey
+    - Doctor Hotti
+    - Ini Miney
+    - Juan Corrida
+    - Matt Engarde
+    - Mimi Miney
+    - Moe
+    - Morgan Fey
+    - Regina Berry
+    - Russel Berry
+    - Richard Wellington
+    - Robert Hammond
+    - Ahlbi Ur'gaid
+    - Amara Sigatar Khura'in
+    - Pees'lubn Andistan'dhin
+    - Archie Buff
+    - Armie Buff
+    - Paul Atishon
+    - Beh'leeb Inmee
+    - Betty DeFamme
+    - Bonny DeFamme
+    - Bucky Whet
+    - Datz Are'bal
+    - Dhurke Sahdmadhi
+    - Dumas Gloomsbury
+    - Ellen Wyatt
+    - Ga'ran
+    - Geiru Toneido
+    - Inga Karkhuul Khurai'in
+    - Nahyuta Sahdmadhi
+    - Nayna
+    - Pierce Nichody
+    - Puhray Zeh'lot
+    - Rayfa
+    - Roger Retinz
+    - Mr. Reus
+    - Paht Rohl
+    - Selena Sprocket
+    - Sorin Sprocket
+    - Tahrust Inmee
+    - Taifu Toneido
+    - Uendo Toneido
+    - Jean Armstrong
+    - Luke Atmey
+    - Bikini
+    - Bruto Cadaverini
+    - Kane Bullard
+    - Dahlia Hawthorne
+    - Mask DeMasque
+    - Desiree DeLite
+    - Diego Armando
+    - Glen Elg
+    - Elise Deuxnim
+    - Terry Fawles
+    - Godot
+    - Iris Fey
+    - Victor Kudo
+    - Lisa Basil
+    - Ron DeLite
+    - Doug Swallow
+    - Furio Tigre
+    - Valerie Hawthorne
+    - Viola Cadaverini
+    - Professor Layton
+    - Luke Triton
+    - Don Paolo
+    - Jean Descole
+    - Zacharias Barnham
+    - Darklaw
+    - Tohru Adachi
+    - Rise Kujikawa
+    - Nagito Komaeda
+    - Hajime Hinata
+    - Jack Black
+ultimate:
+    - ?{name} the Ultimate ?{occupation}
+cast:
+    - victim
+    - defendant
+    - defense
+    - prosecution
+    - detective
+    - first witness
+    - second witness
+    - judge
+    - stenographer
+
+country:
+    - Japnifornia
+    - Dangitstan
+    - Greetaly
+    - Mexikorea
+    - Chinada
+    - Khura'in
+    - Great Britain
+    - France
+    - New Francoleans
+    - BRssia
+    - Down Under
+    - Thaistralia
+    - Hell
+    - Long Florida
+
+location:
+    - a fast food restaurant
+    - a lake
+    - a forest
+    - a city park
+    - didney worl
+    - an arcade
+    - the courthouse
+    - a cruise ship
+    - ?{name}'s house
+    - the ?{cast}'s house
+    - a space station
+    - a prison
+    - a concert hall
+    - a talent agency
+    - a hotel
+    - a ?{occupation} convention
+    - a filming studio
+    - a public beach
+    - a circus
+    - a bridge
+    - a haunted house
+    - ?{location} in the country of ?{country}
+    - a ?{game} stadium
+    - a ?{geometry}-shaped room in ?{location}
+geometry:
+    - square
+    - rectangle
+    - triangle
+    - pentagon
+    - hexagon
+    - octogon
+    - decagon
+    - sphere
+    - cylinder
+    - cube
+    - pyramid
+    - rhombus
+    - trapazoid
+weapon:
+    - ?{point}
+    - ?{blade}
+    - ?{bludgeon}
+    - ?{gun}
+
+point:
+    - a dagger
+    - a rapier
+    - a spear
+    - a sword
+    - a harpoon
+    - a broken bottle
+
+blade:
+    - a sword
+    - a katana
+    - an axe
+    - a Buster Sword
+    - a Japanese plane wing
+    - a steel-rimmed hat
+    - a broken bottle
+
+bludgeon:
+    - a giant dildo
+    - a rock
+    - a bat
+    - bare fists
+    - a morningstar
+    - a statue
+    - a lamp
+    - a jar
+    - a ball
+    - a dumbbell
+    - a ?{cord} ?{console} controller
+    - a golf club
+    - a hard hat
+    - a bottle
+    - a stop sign
+cord:
+    - corded
+    - cordless
+
+console:
+    - NES
+    - Genesis
+    - SNES
+    - Dreamcast
+    - Nintendo 64
+    - Gamecube
+    - Wii
+    - WiiU
+    - Switch
+    - Xbox hueg
+    - PS1
+    - PS2
+    - PS3
+    - PS4
+    - Xbox 360
+    - Xbox One
+    - Steam
+
+gun:
+    - a pistol
+    - a shotgun
+    - a revolver
+    - an assault rifle
+    - a sniper rifle
+    - a cannon
+    - a laser beam
+    - a 105mm High-Explosive Anti-Tank Round
+meme:
+    - half-eaten burger
+    - blue ruby
+    - pulley system
+    - poisoned chandelier
+    - pair of gloves
+    - turkey
+evidence:
+    - AAaffidavit
+    - AAairtube
+    - AAautopsy
+    - AAbluebadger
+    - AAbook
+    - AAbook2
+    - AAbook3
+    - AAbullet
+    - AAbullet2
+    - AAcamera
+    - AAcamera2
+    - AAcards
+    - AAclip
+    - AAclip2
+    - AAclip3
+    - AAclip4
+    - AAclip5
+    - AAdata
+    - AAdata2
+    - AAdata3
+    - AAdata4
+    - AAenvelope
+    - AAevidencelaw
+    - AAfingerprintpowder
+    - AAfirecracker
+    - AAfishingpole
+    - AAflyer
+    - AAglassshards
+    - AAglove
+    - AAgun
+    - AAhandprint
+    - AAI2badge
+    - AAI2bag
+    - AAI2balloon
+    - AAI2balloon2
+    - AAI2bell
+    - AAI2blanket
+    - AAI2blood
+    - AAI2blood2
+    - AAI2body
+    - AAI2body2
+    - AAI2body3
+    - AAI2body4
+    - AAI2body5
+    - AAI2body6
+    - AAI2book
+    - AAI2book2
+    - AAI2Bouquet
+    - AAI2Bug
+    - AAI2bull
+    - AAI2bull2
+    - AAI2bullet
+    - AAI2burn
+    - AAI2button
+    - AAI2button2
+    - AAI2Calling_Card
+    - AAI2Camera
+    - AAI2camera2
+    - AAI2Candelabra
+    - AAI2case
+    - AAI2Casette
+    - AAI2chess
+    - AAI2Chessboard
+    - AAI2Chessboard2
+    - AAI2chessboard3
+    - AAI2Chocolates
+    - AAI2clip
+    - AAI2Cloth
+    - AAI2clothes
+    - AAI2clothes2
+    - AAI2cuffs
+    - AAI2dog
+    - AAI2door
+    - AAI2Fake_Dessert
+    - AAI2floor
+    - AAI2flower
+    - AAI2Flyer
+    - AAI2Footprints
+    - AAI2Gas_Burner
+    - AAI2gate
+    - AAI2glove
+    - AAI2gloves
+    - AAI2gun
+    - AAI2HiddenBlood
+    - AAI2jacket
+    - AAI2jacket2
+    - AAI2journal
+    - AAI2key
+    - AAI2key2
+    - AAI2Keycard
+    - AAI2knife
+    - AAI2Lamp
+    - AAI2letters
+    - AAI2Licence
+    - AAI2littlethief
+    - AAI2Lock
+    - AAI2mask
+    - AAI2mask2
+    - AAI2Masks
+    - AAI2monitors
+    - AAI2Mr_Analysis
+    - AAI2note
+    - AAI2note2
+    - AAI2note3
+    - AAI2note4
+    - AAI2note5
+    - AAI2Pamphlet
+    - AAI2Pamphlet2
+    - AAI2phone
+    - AAI2piece
+    - AAI2piece2
+    - AAI2Poison_Gas
+    - AAI2print
+    - AAI2Recorder
+    - AAI2ring
+    - AAI2rope
+    - AAI2shoes
+    - AAI2shovel
+    - AAI2Signet_Crest
+    - AAI2Sketch
+    - AAI2sketch2
+    - AAI2sketch3
+    - AAI2Sleeping_Drugs
+    - AAI2Sushi
+    - AAI2tarp
+    - AAI2Teacup
+    - AAI2teapot
+    - AAI2ticket
+    - AAI2Tower
+    - AAI2trolley
+    - AAI2Truck
+    - AAI2Trunk
+    - AAI2tunnel
+    - AAI2uniform
+    - AAI2vest
+    - AAI2video
+    - AAI2well
+    - AAIad
+    - AAIad2
+    - AAIad3
+    - AAIarrow
+    - AAIbadge
+    - AAIbadger
+    - AAIbadger2
+    - AAIbadger3
+    - AAIbadger4
+    - AAIbag
+    - AAIballoon
+    - AAIbody
+    - AAIbody2
+    - AAIbody3
+    - AAIbody4
+    - AAIbody5
+    - AAIbook
+    - AAIbook2
+    - AAIbook3
+    - AAIbook4
+    - AAIboxes
+    - AAIbusinesscard
+    - AAIbusinesscard2
+    - AAIcar
+    - AAIcargo
+    - AAIcart
+    - AAIchange
+    - AAIclip
+    - AAIcravat
+    - AAidcard
+    - AAIdecoration
+    - AAIdoor
+    - AAIfile
+    - AAIfile2
+    - AAIfile3
+    - AAIFIRE
+    - AAIflowers
+    - AAIfountain
+    - AAIfountain2
+    - AAIgift
+    - AAIguitarpick
+    - AAIgun
+    - AAIgun2
+    - AAIgun3
+    - AAIhandprint
+    - AAIhat
+    - AAIhoop
+    - AAIink
+    - AAIkey
+    - AAIkey2
+    - AAIkey3
+    - AAIkey4
+    - AAIkey5
+    - AAIknife
+    - AAIknife2
+    - AAIknife3
+    - AAIknife4
+    - AAIknife5
+    - AAIlantern
+    - AAIlittlethief
+    - AAIluggage
+    - AAImoney
+    - AAInote
+    - AAInote10
+    - AAInote11
+    - AAInote12
+    - AAInote13
+    - AAInote14
+    - AAInote15
+    - AAInote16
+    - AAInote17
+    - AAInote2
+    - AAInote3
+    - AAInote4
+    - AAInote5
+    - AAInote6
+    - AAInote7
+    - AAInote8
+    - AAInote9
+    - AAIpen
+    - AAIpendant
+    - AAIpendant2
+    - AAIperfume
+    - AAIperfume2
+    - AAIphone
+    - AAIphone2
+    - AAIphone3
+    - AAIplates
+    - AAIquercuswound
+    - AAIradio
+    - AAIreceipt
+    - AAIsafe
+    - AAIsafe2
+    - AAIsciencekit
+    - AAIshards
+    - AAIshards2
+    - AAIshards3
+    - AAIshears
+    - AAIshirt
+    - AAIsnack
+    - AAIspear
+    - AAIspill
+    - AAIstatue
+    - AAIstatue2
+    - AAIstatue3
+    - AAIstatue4
+    - AAIsuspect
+    - AAIsword
+    - AAIsword2
+    - AAItape
+    - AAItonosamanju
+    - AAItonosamanju2
+    - AAItonosamanju3
+    - AAIvideo
+    - AAIwakasaman
+    - AAIwallet
+    - AAIwire
+    - AAkey
+    - AAkeycard
+    - AAknife1
+    - AAkoptrophy
+    - AAleather
+    - AAlocker
+    - AAlocker2
+    - AAlocker3
+    - AAluminol
+    - AAluminol2
+    - AAlunch
+    - AAlunch2
+    - AAlunch3
+    - AAmagatama
+    - AAmagatama2
+    - AAmayanote
+    - AAmayoinote
+    - AAmetaldetector
+    - AAmissile
+    - AAmissile2
+    - AAmissle2
+    - AAmrmonkey
+    - AAnote
+    - AAnote2
+    - AAnote3
+    - AAnote4
+    - AAparkingticket
+    - AApassport
+    - AApassport2
+    - AAphone
+    - AAphone2
+    - AAphone3
+    - AAphone4
+    - AApills
+    - AApills2
+    - AAplate
+    - AAplate2
+    - AApolly
+    - AAprint
+    - AAprint2
+    - AAprint3
+    - AAprint4
+    - AAprint5
+    - AAprint6
+    - AAprint7
+    - AAprint8
+    - AApsychelock
+    - AAsafe
+    - AAscarf
+    - AAscrewdriver
+    - AAscript
+    - AAscript2
+    - AAshoe
+    - AAshoe2
+    - AAspear
+    - AAstudiovan
+    - AAswitchblade
+    - AAswitchblade2
+    - AAswitchblade3
+    - AATHATCARD
+    - AAthinker
+    - AAvase
+    - AAvase2
+    - AAvase3
+    - AAvase4
+    - AAvase5
+    - AAvideo
+    - AAvideo2
+    - AAwallet
+    - AAwiretap
+    - AJad
+    - AJad2
+    - AJad3
+    - AJad4
+    - AJad5
+    - AJautopsy
+    - AJbadge
+    - AJbook
+    - AJbottle
+    - AJbowl
+    - AJbox
+    - AJbracelet
+    - AJbrooch
+    - AJbullet
+    - AJburntstuff
+    - AJbusinesscard
+    - AJbusinesscard2
+    - AJbusinesscard3
+    - AJbusinesscard4
+    - AJbusinesscard5
+    - AJbusinesscard6
+    - AJbutton
+    - AJcard
+    - AJcard2
+    - AJcard3
+    - AJcard4
+    - AJcard5
+    - AJcart
+    - AJclip
+    - AJclip2
+    - AJclip3
+    - AJcocoon
+    - AJdata1
+    - AJdata2
+    - AJdata3
+    - AJdevice
+    - AJdevice2
+    - AJdevice3
+    - AJearpiece
+    - AJfingerprintpowder
+    - AJframe
+    - AJgoldsnackoo
+    - AJguitar
+    - AJgun
+    - AJgun2
+    - AJgun3
+    - AJiv
+    - AJiv2
+    - AJkey
+    - AJknife
+    - AJlamp
+    - AJlocket
+    - AJluminol
+    - AJmagatama
+    - AJmirror
+    - AJmixer
+    - AJmrhat
+    - AJmug
+    - AJnailpolish
+    - AJnote
+    - AJnote10
+    - AJnote11
+    - AJnote12
+    - AJnote13
+    - AJnote14
+    - AJnote15
+    - AJnote16
+    - AJnote17
+    - AJnote18
+    - AJnote19
+    - AJnote2
+    - AJnote20
+    - AJnote3
+    - AJnote4
+    - AJnote5
+    - AJnote6
+    - AJnote7
+    - AJnote8
+    - AJnote9
+    - AJpainting
+    - AJpainting2
+    - AJpainting3
+    - AJpainting4
+    - AJpanties
+    - AJpanties2
+    - AJpanties3
+    - AJphone
+    - AJphone2
+    - AJpoisonspray
+    - AJsciencekit
+    - AJshoe
+    - AJshoe2
+    - AJshoe3
+    - AJsnack
+    - AJsnack2
+    - AJsnack3
+    - AJsnackoos
+    - AJstamp
+    - AJsyringe
+    - AJticket
+    - AJticket2
+    - AJticket3
+    - AJvideo
+    - AJxraymachine
+    - DDarrow
+    - DDAutopsy
+    - DDBadge
+    - DDbadge2
+    - DDbag
+    - DDball
+    - DDbed
+    - DDbomb
+    - DDbomb2
+    - DDbomb3
+    - DDbomb4
+    - DDbook
+    - DDbook2
+    - DDbook3
+    - DDbook4
+    - DDbook5
+    - DDbowl
+    - DDbox
+    - DDbox2
+    - DDbox3
+    - DDbox4
+    - DDbracelet
+    - DDbullet
+    - DDbullet2
+    - DDbullethole
+    - DDcalendar
+    - DDcamera
+    - DDcamera2
+    - DDcamera3
+    - DDcart
+    - DDcd
+    - DDcharm
+    - DDclip
+    - DDclip2
+    - DDclip3
+    - DDcloth
+    - DDcoin
+    - DDcoin2
+    - DDcomputer
+    - DDcostume
+    - DDcostume2
+    - DDcostumes
+    - DDdata
+    - DDdata2
+    - DDdata3
+    - DDdetonator
+    - DDdoor
+    - DDdoor2
+    - DDdoor3
+    - DDdye
+    - DDearring
+    - DDemblem
+    - DDenvelope
+    - DDfingerprint
+    - DDfingerprintpowder
+    - DDfish
+    - DDflower
+    - DDfood
+    - DDfood2
+    - DDgun
+    - DDhair
+    - DDhairspray
+    - DDhandprint
+    - DDhat
+    - DDheadphones
+    - DDkey
+    - DDkey2
+    - DDkey3
+    - DDkeycard
+    - DDkeycard2
+    - DDkeycard3
+    - DDkeycard4
+    - DDkeycard5
+    - DDkeycard6
+    - DDkeycard7
+    - DDknife
+    - DDladder
+    - DDladder2
+    - DDlighter
+    - DDluminol
+    - DDmagatama
+    - DDmagatama2
+    - DDmask
+    - DDmedicine
+    - DDmedicine2
+    - DDmedicine3
+    - DDnote
+    - DDnote10
+    - DDnote16
+    - DDnote2
+    - DDnote4
+    - DDnote5
+    - DDnote6
+    - DDnote7
+    - DDnote8
+    - DDnote9
+    - DDpenguin
+    - DDphone
+    - DDphone2
+    - DDplate
+    - DDposter
+    - DDposter2
+    - DDposter3
+    - DDpuppet
+    - DDrecorder
+    - DDscienceglasses
+    - DDScrewdriver
+    - DDscroll
+    - DDshard
+    - DDshard2
+    - DDshard3
+    - DDshard4
+    - DDshard5
+    - DDshard6
+    - DDshard7
+    - DDshoe
+    - DDskull
+    - DDstaff
+    - DDstatue
+    - DDstatue2
+    - DDstatue3
+    - DDstatue4
+    - DDstatue5
+    - DDstatue6
+    - DDstatue7
+    - DDstatue8
+    - DDstatue9
+    - DDStatueStands
+    - DDSTEPladder
+    - DDsurgery
+    - DDsuspect
+    - DDsword
+    - DDsword2
+    - DDtail
+    - DDtank
+    - DDtank2
+    - DDvideo
+    - DDwhistle
+    - DDwidget
+    - DGSbadge
+    - DGSbag
+    - DGSbag2
+    - DGSbell
+    - DGSbell2
+    - DGSbell3
+    - DGSbook
+    - DGSbook10
+    - DGSbook2
+    - DGSbook3
+    - DGSbook4
+    - DGSbook5
+    - DGSbook6
+    - DGSbook7
+    - DGSbook8
+    - DGSbook9
+    - DGSbullet
+    - DGScamera
+    - DGScane
+    - DGScart
+    - DGSclip
+    - DGSclip2
+    - DGSclip3
+    - DGSclip4
+    - DGScoin
+    - DGSdevice
+    - DGSflower
+    - DGSfood
+    - DGSfood2
+    - DGSfood3
+    - DGSfood4
+    - DGSgloves
+    - DGSgloves2
+    - DGSgun
+    - DGSgun2
+    - DGSgun3
+    - DGSherbaltea
+    - DGSknife
+    - DGSknife2
+    - DGSknife3
+    - DGSknife4
+    - DGSmusicbox
+    - DGSmusicbox2
+    - DGSmusicbox3
+    - DGSmusicdisk
+    - DGSmusicdisk15
+    - DGSmusicdisk2
+    - DGSmusicdisk3
+    - DGSmusicdisk4
+    - DGSnote
+    - DGSnote10
+    - DGSnote11
+    - DGSnote12
+    - DGSnote13
+    - DGSnote14
+    - DGSnote15
+    - DGSnote16
+    - DGSnote17
+    - DGSnote18
+    - DGSnote19
+    - DGSnote2
+    - DGSnote20
+    - DGSnote21
+    - DGSnote3
+    - DGSnote4
+    - DGSnote5
+    - DGSnote6
+    - DGSnote7
+    - DGSnote8
+    - DGSnote9
+    - DGSpin
+    - DGSpin2
+    - DGSpipe
+    - DGSpressing
+    - DGSsciencekit
+    - DGSshard
+    - DGSstereoscope
+    - DGSstereoscope2
+    - DGStiara
+    - DGSviola
+    - DGSviola2
+    - DGSwhip
+    - JFAautograph
+    - JFAautograph2
+    - JFAball
+    - JFAball2
+    - JFAbear
+    - JFAbear2
+    - JFAbear3
+    - JFAbottle
+    - JFAbox
+    - JFAbox2
+    - JFAbusinesscard
+    - JFAbusinesscard2
+    - JFAbutton
+    - JFAbutton2
+    - JFAbutton3
+    - JFAcamera
+    - JFAcard
+    - JFAcard2
+    - JFAclip
+    - JFAclip2
+    - JFAclip3
+    - JFAclip4
+    - JFAcoat
+    - JFAfrequencydetector
+    - JFAglasses
+    - JFAglove
+    - JFAgrapes
+    - JFAguitar
+    - JFAgun
+    - JFAgun2
+    - JFAhammond
+    - JFAhat
+    - JFAjuice
+    - JFAkey
+    - JFAknife
+    - JFAknife2
+    - JFAleon
+    - JFAmilk
+    - JFAmilk2
+    - JFAmoney
+    - JFAnote
+    - JFAnote2
+    - JFApepper
+    - JFAphoto
+    - JFAposter
+    - JFAreceipt
+    - JFAregent
+    - JFAring
+    - JFArobe
+    - JFArobescrap
+    - JFAscarf
+    - JFAscreen
+    - JFAshoe
+    - JFAspycamera
+    - JFATHATCARD
+    - JFATHATCARD2
+    - JFAticket
+    - JFAticket2
+    - JFAtracker
+    - JFAtransceiver
+    - JFAtransmitter
+    - JFAtrilo
+    - JFAuniform
+    - JFAurn1
+    - JFAurn2
+    - JFAvest
+    - JFAwhip
+    - lawyerbadge
+    - MiscAKMS
+    - MiscAlpaca
+    - MiscAsthmaPump
+    - MiscBaggie
+    - MiscBald_Eagle
+    - MiscBasket
+    - MiscBathtub
+    - MiscBeach
+    - MiscBirthday_cake
+    - MiscBlood
+    - MiscBloodied_Bandges
+    - MiscBloodpack
+    - MiscBloody_Scarf
+    - MiscBlueRuby
+    - MiscBoat
+    - MiscBookGetGood
+    - MiscBoombox
+    - MiscBoots
+    - MiscBoot_print(Bloody)
+    - MiscBoot_print(Muddy)
+    - MiscBowl
+    - MiscBrick Phone
+    - MiscBrick
+    - MiscBroadMachete
+    - MiscBroken_Bloody_Axe
+    - MiscBroken_Guitar
+    - MiscBroken_TV
+    - MiscBurger
+    - MiscCabinHouse
+    - MiscCamera
+    - MiscCandy Cane Dark
+    - MiscCandy Cane
+    - MiscCigaretteButt
+    - MiscCinderBlock
+    - MiscClown
+    - MiscCoal
+    - MiscCocaine
+    - MiscCocktail
+    - MiscCooler
+    - MiscCorkscrew
+    - MiscCornField
+    - MiscCounter
+    - MiscCrowbar
+    - MiscCrumbledPaper
+    - MiscCupcake
+    - MiscDangitMagazine
+    - MiscDeer
+    - MiscDeliSlicer
+    - MiscDivingBoard
+    - MiscDoor
+    - MiscDragonPepper
+    - MiscDumbell
+    - MiscDust
+    - MiscEnclosure
+    - MiscFan
+    - MiscFlintlock
+    - MiscFloppy_Disk
+    - MiscFootprintBlue
+    - MiscFootprintGreen
+    - MiscGenerator
+    - MiscGloves
+    - MiscGrapeJuice
+    - MiscGreen Hut
+    - MiscGrill
+    - MiscHalf-Eaten Burger
+    - MiscHammer
+    - MiscHandcuffs
+    - MiscHandPrint
+    - MiscHandPrint2
+    - MiscHangGlider
+    - MiscHayPile
+    - MiscHealthDrink
+    - MiscHelmet
+    - MiscHole
+    - MiscHoney
+    - MiscIceCube
+    - MiscIronMaiden
+    - MiscKidney
+    - MiscLaptop
+    - MiscLatex_Gloves
+    - MiscLedLights
+    - MiscLifeSaver
+    - MiscLockers
+    - MiscLockpicks
+    - MiscMafia
+    - MiscMapBiolab
+    - MiscMapCourthouse
+    - MiscMapKun
+    - MiscMapLobby1
+    - MiscMichigan J Frog
+    - MiscMoney
+    - MiscMonitor(Bloody)
+    - MiscMonitor
+    - MiscMouse
+    - MiscMud
+    - MiscMug
+    - MiscMystery1
+    - MiscMystery2
+    - MiscMystery3
+    - MiscNoose_knot
+    - MiscOldTrain
+    - MiscPainting
+    - MiscPanda
+    - MiscPhotocopier
+    - MiscPickle
+    - MiscPizza
+    - MiscPizza_box
+    - MiscPotato
+    - MiscProjector
+    - MiscRabbit
+    - MiscRabbitSuit
+    - MiscRaffleTickets
+    - MiscRamen
+    - MiscRavioli
+    - MiscRedCup
+    - MiscRoom
+    - MiscRubber_Duck
+    - MiscSafariHelmet
+    - MiscSandwich
+    - MiscShackles
+    - MiscShovel
+    - MiscSkillet
+    - MiscSnake
+    - MiscSoap
+    - MiscSpatula
+    - MiscSpecimenAlpha
+    - MiscSpider
+    - MiscSteelBeam
+    - MiscSteelWire
+    - MiscStove
+    - MiscSword
+    - MiscTeeth
+    - MiscTeethSharp
+    - MiscThinking
+    - MiscTimeCrystal
+    - MiscTins
+    - MiscToilet
+    - MiscTractor
+    - MiscTrap
+    - MiscTrash
+    - MiscTrumbone
+    - MiscTwitch
+    - MiscUnknown People
+    - MiscUnknown
+    - MiscVDF
+    - MiscVodka
+    - MiscWatch
+    - MiscWheelBarrow
+    - MiscWhiteCoat
+    - MiscWindow
+    - MiscWrench
+    - MiscZombie
+    - PLvsAAbadge
+    - PLvsAAbell
+    - PLvsAAbook
+    - PLvsAAbottle
+    - PLvsAAdoll
+    - PLvsAAflashlight
+    - PLvsAAglasses
+    - PLvsAAgoldenlayton
+    - PLvsAAgreenwall
+    - PLvsAAlantern
+    - PLvsAAletter
+    - PLvsAAmachine1
+    - PLvsAAmachine2
+    - PLvsAAmilk
+    - PLvsAAnewspaper
+    - PLvsAAnote
+    - PLvsAApendant
+    - PLvsAAreport1
+    - PLvsAAreport2
+    - PLvsAAreport3
+    - PLvsAArobe
+    - PLvsAAsketch1
+    - PLvsAAsketch2
+    - PLvsAAsketch3
+    - PLvsAAsketch4
+    - PLvsAAspellbook
+    - PLvsAAstaff1
+    - PLvsAAstaff2
+    - SoJad
+    - SoJad2
+    - SoJad3
+    - SoJad4
+    - SoJad5
+    - SoJad6
+    - SoJad7
+    - SoJarrow
+    - SoJautopsy
+    - SoJbadge
+    - SoJbadge2
+    - SoJblimp
+    - SoJblimp2
+    - SoJblood
+    - SoJboiler
+    - SoJbook
+    - SoJbook10
+    - SoJbook11
+    - SoJbook12
+    - SoJbook13
+    - SoJbook14
+    - SoJbook2
+    - SoJbook3
+    - SoJbook4
+    - SoJbook5
+    - SoJbook6
+    - SoJbook7
+    - SoJbook8
+    - SoJbook9
+    - SoJbox
+    - SoJbox2
+    - SoJbracelet
+    - SoJbucket
+    - SoJcamera
+    - SoJcandelabra
+    - SoJcandelabra2
+    - SoJcandelabra3
+    - SoJcd
+    - SoJcd2
+    - SoJcharm
+    - SoJclip
+    - SoJclip2
+    - SoJcog
+    - SoJcontract
+    - SoJdog
+    - SoJflag
+    - SoJflower
+    - SoJfood1
+    - SoJfood2
+    - SoJfood3
+    - SoJgem
+    - SoJglasses
+    - SoJgoop
+    - SoJhat
+    - SoJhelicopter
+    - SoJhorse
+    - SoJhorse2
+    - SoJkey
+    - SoJkey2
+    - SoJkey3
+    - SoJkey4
+    - SoJkeycard
+    - SoJkeycharm
+    - SoJlantern
+    - SoJlantern2
+    - SoJluminol
+    - SoJmagatama
+    - SoJmagatama2
+    - SoJmagatama3
+    - SoJmrhat
+    - SoJnote
+    - SoJnote10
+    - SoJnote11
+    - SoJnote12
+    - SoJnote13
+    - SoJnote14
+    - SoJnote15
+    - SoJnote16
+    - SoJnote17
+    - SoJnote2
+    - SoJnote3
+    - SoJnote4
+    - SoJnote5
+    - SoJnote6
+    - SoJnote7
+    - SoJnote8
+    - SoJnote9
+    - SoJorb
+    - SoJpassport
+    - SoJpendant
+    - SoJphone
+    - SoJprintpowder
+    - SoJraincoat
+    - SoJscissorlift
+    - SoJscroll
+    - SoJscroll2
+    - SoJsnackoo
+    - SoJstand
+    - SoJstatue
+    - SoJsuspect
+    - SoJsword
+    - SoJsword2
+    - SoJsyringe
+    - SoJtape1
+    - SoJtext
+    - SoJunknown
+    - SoJurn
+    - SoJusb
+    - SoJwallet
+    - SoJwidget
+    - TTad
+    - TTad2
+    - TTapron
+    - TTbadge
+    - TTbag
+    - TTblood1
+    - TTblood2
+    - TTbottle1
+    - TTbottle2
+    - TTbox
+    - TTbox2
+    - TTbutton
+    - TTcalendar
+    - TTcamera
+    - TTcard
+    - TTcd
+    - TTcd2
+    - TTclip
+    - TTclip2
+    - TTclip3
+    - TTclip4
+    - TTclip5
+    - TTcoldkiller
+    - TTcoldkiller2
+    - TTcup
+    - TTdata
+    - TTdata2
+    - TTdata3
+    - TTdata4
+    - TTdrawing
+    - TTemblem
+    - TTemployee
+    - TTfood1
+    - TTfood2
+    - TThood
+    - TTjewel
+    - TTjewel2
+    - TTkeycard
+    - TTknife
+    - TTlantern
+    - TTlantern2
+    - TTmagazine
+    - TTmagazine2
+    - TTmatchbook
+    - TTmatchbook2
+    - TTmedicine
+    - TTmedicine2
+    - TTmoped
+    - TTnecklace
+    - TTnote
+    - TTnote2
+    - TTnote3
+    - TTnote4
+    - TTnote5
+    - TTnote6
+    - TTnote7
+    - TTperfume
+    - TTsapphire
+    - TTscarf
+    - TTschichishito
+    - TTschichishito2
+    - TTschichishito3
+    - TTscroll
+    - TTscroll2
+    - TTseal
+    - TTseal2
+    - TTstaff
+    - TTstaff2
+    - TTstaff3
+    - TTstain
+    - TTstatue
+    - TTticket
+    - TTticket2
+    - TTumbrella
+    - TTvase
+    - TTvase2
+    - TTvase3
+    - TTvase4
+    - TTwallet
+    - TTwatch
