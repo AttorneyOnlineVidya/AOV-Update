@@ -2,10 +2,24 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2021.2",
+	  "prev": "aov-2020.12",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/characters/Miles/iniswaps.txt"},
+		{ "action": "deleteDir", "target": "base/characters/Tyrell"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Stonks_Update.zip",
+		  "hash": "9a2ea28cd428f478913a66342abcf4a01671603d"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2020.12",
 	  "prev": "aov-2020.11",
 	  "update": [
-		{ "action": "notice", "msg": "RENAMED:\n[Misc] Infinite Edge.opus, [Misc] Pizza Time.opus, [Misc] What's the Deal with Contradictions.opus, [Misc] What is Thinking.opus, [Misc] You're the Inspiration.opus, [Misc] Want You Gone.opus, [Misc] Komm Susser Tod.opus, [Misc] Bustin'.opus, [Misc] Law & Order - Main Theme.opus, [Misc] Gas Gas Gas.opus, DGSCastHutch.png\n\nREMOVED:\n[Misc] Deja Vu.opus, [Misc] Running in the 90s.opus, [Misc] It is a Mystery.opus, [Misc] YWRN.opus, [MGS5] Apollo Justice - Nuclear.opus, [YES] Roundabout.opus, [GMO] Godot - The Fragrance of Dark Coffee.opus, [GMO] Miles Edgeworth - Great Revival.opus, [BD] Victory!.opus"\n\nREHAULED FOLDERS:\nDante, Calisto},	  
+		{ "action": "notice", "msg": "RENAMED:\n[Misc] Infinite Edge.opus, [Misc] Pizza Time.opus, [Misc] What's the Deal with Contradictions.opus, [Misc] What is Thinking.opus, [Misc] You're the Inspiration.opus, [Misc] Want You Gone.opus, [Misc] Komm Susser Tod.opus, [Misc] Bustin'.opus, [Misc] Law & Order - Main Theme.opus, [Misc] Gas Gas Gas.opus, DGSCastHutch.png\n\nREMOVED:\n[Misc] Deja Vu.opus, [Misc] Running in the 90s.opus, [Misc] It is a Mystery.opus, [Misc] YWRN.opus, [MGS5] Apollo Justice - Nuclear.opus, [YES] Roundabout.opus, [GMO] Godot - The Fragrance of Dark Coffee.opus, [GMO] Miles Edgeworth - Great Revival.opus, [BD] Victory!.opus\n\nREHAULED FOLDERS:\nDante, Calisto"},	  
 		{ "action": "delete", "target": "base/sounds/music/[AOV] animejp.opus"},
 		{ "action": "delete", "target": "base/sounds/music/[Misc] Deja Vu.opus"},
 		{ "action": "delete", "target": "base/sounds/music/[BD] Victory!.opus"},
