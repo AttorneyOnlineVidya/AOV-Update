@@ -54,6 +54,7 @@
     - name: '[O] Trial (Variation).opus'
     - name: '[GT] Trial.opus'
     - name: '[L&O] Trial.opus'
+    - name: '[OD] Verdict.opus'
 - category: ===QUESTIONING===
   songs:
     - name: '[AA] Questioning (Moderato).opus'
@@ -148,6 +149,7 @@
     - name: '[RG] Logic and Debate.opus'
     - name: '[TT] Corpse Logic.opus'
     - name: '[DN] Death Logic.opus'
+    - name: '[5DS] Psychological Warfare.opus'
     - name: '[999] Digital Root.opus'
     - name: '[VLR] Clarification.opus'
     - name: '[SC] Logic and Realization.opus'
@@ -155,6 +157,7 @@
     - name: '[SoJ] The Basics of the Case.opus'
     - name: '[TT] The Basics of The Case.opus'
     - name: '[M] The Basics of The Case.opus'
+    - name: '[OD] Cold Debate.opus'
     - name: '[IQ] A Grand Theory (Opening).opus'
     - name: '[IQ] A Grand Theory (Finale).opus'
 - category: ===SUSPENSE===
@@ -190,6 +193,7 @@
     - name: '[DE] Krenel, Downwell, Somatosensor.opus'
     - name: '[KUS] Escalating Gamble.opus'
     - name: '[JJ] Killer People.opus'
+    - name: '[TF2] Suspense.opus'
     - name: '[OFF] Suspense.opus'
 - category: ===CRISIS===
   songs:
@@ -246,6 +250,7 @@
     - name: '[EO] Objection!.opus'
     - name: '[SO] Objection!.opus'
     - name: '[Y0] Gotcha!.opus'
+    - name: '[KR01] Objection!.opus'
     - name: '[BotW] Objection!.opus'
     - name: '[P3] Objection!.opus'
     - name: '[P5] Objection!.opus'
@@ -346,6 +351,7 @@
     - name: '[DGS2] Victory! (DLC).opus'
     - name: '[FF] Victory!.opus'
     - name: '[GT] Victory!.opus'
+    - name: '[5DS] Victory!.opus'
 - category: ===ENDINGS===
   songs:
     - name: '[AA] Ending.opus'
@@ -539,6 +545,8 @@
     - name: '[SoJ] Jingle - Take a Breather.opus'
       length: 0
     - name: '[OD] Jingle - Discovery.opus'
+      length: 0
+    - name: '[5DS] Jingle - Eyecatch.opus'
       length: 0
     - name: '[JFA] Ringtone - Richard Wellington.opus'
     - name: '[JFA] Ringtone - Phoenix Wright.opus'
