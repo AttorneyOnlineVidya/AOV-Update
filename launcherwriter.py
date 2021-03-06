@@ -26,7 +26,7 @@ outfile.write("\t\t{\n\t\t  \"action\": \"dl\",\n\t\t  \"url\": \"https://s3.was
 
 shahash = input("Input SHA-1 hash for the file: ").lower()
 
-outfile.write("\t\t  \"hash\": \"%s\"\n\t\t}\n\t  ]\n\t},\n")
+outfile.write("\t\t  \"hash\": \"%s\"\n\t\t}\n\t  ]\n\t},\n" % (shahash))
 
 print("Suck it, jumbles")
 input()
