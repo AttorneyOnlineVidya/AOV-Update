@@ -291,6 +291,7 @@
     - name: '[DGS] Pursuit (Variation).opus'
     - name: '[DGS2] Pursuit.opus'
     - name: '[DGS2] Pursuit (Overture).opus'
+    - name: '[5DS] Pursuit.opus'
     - name: '[SiG] Pursuit.opus'
     - name: '[PWC] Pursuit.opus'
     - name: '[MM] Pursuit (Layton).opus'
@@ -835,12 +836,13 @@
     - name: '[DGS2] Partners - The Game is Afoot! (DLC).opus'
     - name: '[DGS2] Partners - A Reasoning Battle.opus'
     - name: '[15th] Partners - The Game is Afoot!.opus'
+    - name: '[DGS2] Solo of Rage.opus'
+    - name: '[Holo] Chaser.opus'
     - name: '[N] Cowardly People.opus'
     - name: '[O] Procrastination.opus'
     - name: '[O] Servant People.opus'
     - name: '[TC] Gentle Breeze.opus'
     - name: '[LM] Stupid People.opus'
-    - name: '[DGS2] Solo of Rage.opus'
     - name: '[SM2] Pizza Time.opus'
     - name: "[S] What's The Deal With Contradictions.opus"
     - name: "[TJ&E] Funky People.opus"
@@ -877,6 +879,7 @@
   songs:
     - name: '[PLvsAA] Locked-Away Darkness.opus'
     - name: '[PLvsAA] The Legendary Great Fire.opus'
+    - name: '[5DS] Looming Threat.opus'
     - name: '[O] Role Call.opus'
     - name: '[FE] Unwavering People.opus'
     - name: '[SF] Infinite Edge.opus'
@@ -964,6 +967,7 @@
     - name: '[DGS2] The Gate to the Truth.opus'
     - name: '[DGS2] The Thoughts of Ryunosuke Naruhodo.opus'
     - name: '[DP] Life is Beautiful.opus'
+    - name: '[Holo] Guitar Melancholy 2.opus'
     - name: '[O] And Forever.opus'
     - name: '[P5] Guilt.opus'
     - name: '[PR] Bygone Days.opus'
