@@ -2,6 +2,19 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2021.3",
+	  "prev": "aov-2021.2",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/characters/Mia/iniswaps.txt"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Nippon_Update.zip",
+		  "hash": "d30f8d35a7b18903f90427fd823d29a2fbb8c4ec"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2021.2",
 	  "prev": "aov-2020.12",
 	  "update": [

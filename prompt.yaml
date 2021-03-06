@@ -1288,6 +1288,7 @@ evidence:
     - MiscAsthmaPump
     - MiscBaggie
     - MiscBald_Eagle
+    - MiscBarrel
     - MiscBasket
     - MiscBathtub
     - MiscBeach
@@ -1332,6 +1333,7 @@ evidence:
     - MiscDeer
     - MiscDeliSlicer
     - MiscDivingBoard
+    - MiscDonut
     - MiscDoor
     - MiscDragonPepper
     - MiscDumbell
@@ -1367,6 +1369,8 @@ evidence:
     - MiscLifeSaver
     - MiscLockers
     - MiscLockpicks
+    - MiscMace
+    - MiscMaceBloody
     - MiscMafia
     - MiscMapBiolab
     - MiscMapCourthouse
@@ -1434,6 +1438,8 @@ evidence:
     - MiscWhiteCoat
     - MiscWindow
     - MiscWrench
+    - MiscYugiohCard
+    - MiscYugiohCards
     - MiscZombie
     - PLvsAAbadge
     - PLvsAAbell
