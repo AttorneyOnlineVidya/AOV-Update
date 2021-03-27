@@ -13,6 +13,7 @@ asspull:
     - The ?{cast} is secretly a time traveler from ?{time period}!
     - The real killer is actually ?{character}!
     - The true murder method was actually ?{method}!
+    - The body was moved via ?{vehicle}!
 method:
     - stabbing by ?{point}
     - cutting by ?{blade}
