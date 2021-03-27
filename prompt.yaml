@@ -20,7 +20,7 @@ method:
     - strangulation/asphyxiation
     - shot with ?{gun}
     - bludgeoning by ?{bludgeon}
-    - hit-and-run
+    - hit-and-run by ?{vehicle}
     - ?{weird method}
 
 weird method:
@@ -127,6 +127,7 @@ game:
     - fortnite
     - children's card game
     - children's card game (on motorcycles)
+    - golf
 
 drugs:
     - alcohol
@@ -135,7 +136,6 @@ drugs:
     - meth
     - weed
     - made-up drugs
-
 time:
     - in the morning
     - in the afternoon
@@ -456,7 +456,6 @@ location:
     - didney worl
     - an arcade
     - the courthouse
-    - a cruise ship
     - ?{name}'s house
     - the ?{cast}'s house
     - a space station
@@ -473,6 +472,22 @@ location:
     - ?{location} in the country of ?{country}
     - a ?{game} stadium
     - a ?{geometry}-shaped room in ?{location}
+    - an apartment complex
+    - a college dorm
+    - a hardware store
+    - a golf course
+    - a costume party
+    - {vehicle}
+    - a laundromat
+vehicle:
+    - a car
+    - a truck
+    - a train
+    - a boat
+    - a golf cart
+    - an airplane
+    - a yacht
+    - a cruise ship
 geometry:
     - square
     - rectangle
