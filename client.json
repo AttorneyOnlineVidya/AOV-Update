@@ -1,6 +1,42 @@
 {
   "versions": [
   	{
+	  "version": "aov-2.9.1 (Hotfix)",
+	  "prev": "aov-2.9.1",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+		{"action": "delete", "target": "base/themes/default/chatboxes_bigger/courtroom_design.ini"},
+		{"action": "delete", "target": "base/themes/default/chatboxes_aastyle/courtroom_design.ini"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.9.1 (Hotfix).zip",
+		  "hash": "f662eb91d68062147deca69eb159774622df8f00"
+		}
+	  ]
+	},
+  	{
+	  "version": "aov-2.9.1",
+	  "prev": "aov-2.8.5.1 (Small CSS Theme)",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+	    {"action": "deleteDir", "target": "base/themes/fullscreen"},
+	    {"action": "deleteDir", "target": "base/themes/JTEpro 2.8"},
+	    {"action": "deleteDir", "target": "base/themes/default"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.9.1.zip",
+		  "hash": "ae415c677d2695e7eb98dd5d43a4577eaea02006"
+		}
+	  ],
+	  "full": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.9.1.zip",
+		  "hash": "ae415c677d2695e7eb98dd5d43a4577eaea02006"
+		}
+	   ]
+	},
+  	{
 	  "version": "aov-2.8.5.1 (Small CSS Theme)",
 	  "prev": "aov-2.8.5.1",
 	  "executable": "Attorney_Online.exe",
