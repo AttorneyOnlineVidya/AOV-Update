@@ -206,7 +206,7 @@
     - name: '[DGS] Trial in Disarray.opus'
     - name: '[DGS] Omen.opus'
     - name: '[DGS2] Murder in the Dark.opus'
-    - name: '[DGS2] Murky Murderous Intentions.opus'
+    - name: '[TGAA2] Murky Murderous Intentions.opus'
     - name: '[Ani] Oral Argument.opus'
     - name: '[GT] Countdown.opus'
     - name: '[GT] Desperate Struggle.opus'
@@ -296,6 +296,7 @@
     - name: '[TGAA2] Pursuit (DLC).opus'
     - name: '[TGAA2] Overture to Resolve.opus'
     - name: '[5DS] Pursuit.opus'
+    - name: '[SMTI] Pursuit.opus'
     - name: '[SiG] Pursuit.opus'
     - name: '[PWC] Pursuit.opus'
     - name: '[MM] Pursuit (Layton).opus'
@@ -426,7 +427,6 @@
     - name: '[AAI2] Prologue - The Grand Turnabout.opus'
       length: 0
     - name: '[PLvsAA] Opening Theme.opus'
-      length: 0
     - name: '[DD] Prologue - Turnabout Countdown.opus'
       length: 0
     - name: '[DD] Interlude - Turnabout Countdown (Apollo Attacked).opus'
@@ -633,7 +633,7 @@
     - name: "[PLvsAA] The Witch's Forest.opus"
     - name: "[PLvsAA] The Witches' Theme.opus"
     - name: '[DGS] 221B Bakers Street.opus'
-    - name: '[TGAA2] Baker Street Ball - Waltz for Chronicles'
+    - name: '[TGAA2] Baker Street Ball - Waltz for Chronicles.opus'
     - name: '[DGS] London - Business as Usual.opus'
     - name: '[DGS] London - The Foggy City.opus'
     - name: '[DGS2] The Great Exhibition.opus'
