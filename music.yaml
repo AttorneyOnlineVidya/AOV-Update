@@ -168,6 +168,7 @@
     - name: '[PLvsAA] Suspense (English).opus'
     - name: '[PLvsAA] Suspense.opus'
     - name: '[PLvsAA] Suspense (Layton).opus'
+    - name: "[PLvsAA] The Courtroom's Magician.opus"
     - name: '[PLvsAA] An Uneasy Atmosphere.opus'
     - name: '[PLvsAA] Doubt and Suspicion.opus'
     - name: '[PLvsAA] Rising Tensions.opus'
@@ -522,6 +523,7 @@
     - name: '[O] Investigation (Core).opus'
     - name: '[GT] Investigation (Opening).opus'
     - name: '[GT] Investigation (Core).opus'
+    - name: '[RK] Investigation (Core).opus'
     - name: '[SiG] Investigation (Opening).opus'
     - name: '[SiG] Investigation (Core).opus'
     - name: '[P3] Investigation (Opening).opus'
@@ -625,7 +627,6 @@
     - name: '[PLvsAA] Labyrinthian Ruins.opus'
     - name: '[PLvsAA] London - Walking Through the Town.opus'
     - name: '[PLvsAA] The Lost Forest.opus'
-    - name: "[PLvsAA] The Courtroom's Magician.opus"
     - name: "[PLvsAA] The Storyteller's Chambers.opus"
     - name: "[PLvsAA] The Storyteller's Garden.opus"
     - name: "[PLvsAA] The Storyteller's Tower.opus"
