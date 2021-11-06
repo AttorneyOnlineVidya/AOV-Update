@@ -1,0 +1,18 @@
+del "base\sounds\music\[AOV] anime.opus"
+del "base\evidence\AJCastTrucy.gif"
+del "base\evidence\AJCastDaryan.jpg"
+del "base\characters\Cammy\(a)rubbing.apng"
+del "base\characters\Cammy\(b)rubbing.apng"
+ren "base\evidence\JFAhammond.png" "AACastHammond.png"
+ren "base\sounds\music\[PLvsAA] Fiery Witnesses Enter the Courtopus.opus" "[PLvsAA] Fiery Witnesses Enter the Court.opus"
+rmdir "base\background\PLvsAAGreatWitchtrialCourt" /q /s
+ren "base\characters\Miles_Young" "Miles_T&T"
+ren "base\characters\Miles_Def" "Miles_T&T_Def"
+ren "base\characters\Miles_Young_Wit" "Miles_T&T_Young" 
+ren "base\sounds\music\[PLvsAA] Mysterious Witness.opus" "[PLvsAA] Mysterious Fire.opus" 
+ren "base\sounds\music\[PLvsAA] Fiery People.opus" "[PLvsAA] Fiery Witnesses Enter the Court.opus" 
+ren "base\characters\Phoenix_Hobo\custom_objections\hobucutin.opus" "hobocutin.opus" 
+del "base\characters\Phoenix_Young\takethat.mp3"
+del "base\characters\Phoenix_Young\holdit.mp3"
+del "base\characters\Phoenix_Young\objection.mp3"
+pause
