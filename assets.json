@@ -2,6 +2,52 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2021.10",
+	  "prev": "aov-2021.9",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/characters/Viridian/char_icon.apng"},
+		{ "action": "delete", "target": "base/sounds/music/[PLMM] Objection!.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Soseki/"},
+		{ "action": "deleteDir", "target": "base/characters/Satoru/"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop/"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop_Disguised/"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop_Glitter/"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop_Punished/"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop_Unarmed/"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_GB/emotions"},
+		{ "action": "delete", "target": "base/sounds/music/[PLvsAA] Mysterious Witness.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[PLvsAA] Fiery People.opus"},
+		{ "action": "delete", "target": "base/characters/Ryunosuke/custom.apng"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Understaffed_Update.zip",
+		  "hash": "613e19640fb3a4b332a08c1de48715a688b58e8b"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2021.9",
+	  "prev": "aov-2021.6",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(c)breakdown.apng"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(c)confident.apng"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(c)damage.apng"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(c)glasses.apng"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(c)normal.apng"},
+		{ "action": "delete", "target": "base/characters/Kristoph/(d)glasses.apng"},
+		{ "action": "deleteDir", "target": "base/characters/Inferno_Cop/"},
+		{ "action": "deleteDir", "target": "base/characters/Kazuma/"},
+		{ "action": "deleteDir", "target": "base/characters/Beppo/"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Special_Olympics_Update.zip",
+		  "hash": "b6f180f299fee5f6615316b4b35bdfe75a438cdd"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2021.6",
 	  "prev": "aov-2021.3",
 	  "update": [
