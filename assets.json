@@ -2,6 +2,33 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2021.11",
+	  "prev": "aov-2021.10",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/evidence/AJCastTrucy.gif"},
+		{ "action": "delete", "target": "base/evidence/AJCastDaryan.jpg"},
+		{ "action": "delete", "target": "base/characters/Cammy/(a)rubbing.apng"},
+		{ "action": "delete", "target": "base/characters/Cammy/(b)rubbing.apng"},
+		{ "action": "delete", "target": "base/evidence/JFAhammond.png"},
+		{ "action": "delete", "target": "base/sounds/music/[PLvsAA] Fiery Witnesses Enter the Courtopus.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[PLvsAA] Fiery Witnesses Enter the Courtopus.opus.txt"},
+		{ "action": "deleteDir", "target": "base/background/PLvsAAGreatWitchtrialCourt"},
+		{ "action": "deleteDir", "target": "base/characters/Miles_Young"},
+		{ "action": "deleteDir", "target": "base/characters/Miles_Def"},
+		{ "action": "deleteDir", "target": "base/characters/Miles_Young_Wit"},
+		{ "action": "deleteDir", "target": "base/characters/Phoenix_Hobo/custom_objections/hobucutin.opus"},
+		{ "action": "delete", "target": "base/characters/Phoenix_Young/takethat.mp3"},
+		{ "action": "delete", "target": "base/characters/Phoenix_Young/holdit.mp3"},
+		{ "action": "delete", "target": "base/characters/Phoenix_Young/objection.mp3"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Encroaching_Holiday_Update.zip",
+		  "hash": "4660da95521bbb380714979149f4aa443a442e95"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2021.10",
 	  "prev": "aov-2021.9",
 	  "update": [
