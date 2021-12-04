@@ -1,2 +1,0 @@
-loop_start = 3102186
-loop_end = 6175026
