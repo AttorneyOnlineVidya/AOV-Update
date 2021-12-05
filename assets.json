@@ -2,6 +2,31 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2021.12",
+	  "prev": "aov-2021.11",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "delete", "target": "base/evidence/DDCaseCandice.apng"},
+		{ "action": "delete", "target": "base/evidence/AACastButz2.apng"},
+		{ "action": "delete", "target": "base/evidence/AACastButz3.apng"},
+		{ "action": "delete", "target": "base/evidence/AACastOldbag2.apng"},
+		{ "action": "delete", "target": "base/evidence/AACastPhoenix2.apng"},
+		{ "action": "delete", "target": "base/evidence/AACastPowers2.apng"},
+		{ "action": "delete", "target": "base/evidence/MiscBloodied_Bandges.apng"},
+		{ "action": "delete", "target": "base/sounds/general/dr-koma-laugh.opus"},
+		{ "action": "delete", "target": "base/evidence/AAI2Blanket.apng"},
+		{ "action": "delete", "target": "base/evidence/AAI2Chess.apng"},
+		{ "action": "delete", "target": "base/background/PLvsAACourtGreatWitch/ProsecutorDesk.png"},
+		{ "action": "delete", "target": "base/evidence/AAICastHuang.png"},
+		{ "action": "deleteDir", "target": "base/characters/Bonnie_and_Karin"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2021/The_Holiday_Cheerless_Update.zip",
+		  "hash": "8c08197e9e6ef4e9bf22a63b108b0c3d62f899c1"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2021.11",
 	  "prev": "aov-2021.10",
 	  "update": [
