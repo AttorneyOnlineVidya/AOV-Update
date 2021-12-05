@@ -9,7 +9,7 @@ del "base\evidence\MiscBloodied_Bandges.apng"
 del "base\sounds\general\dr-koma-laugh.opus"
 del "base\evidence\AAI2Blanket.apng"
 del "base\evidence\AAI2Chess.apng"
-ren "base\background\PLvsAAGreatWitchtrial\ProsecutorDesk.png" "ProsecutionDesk.png"
+ren "base\background\PLvsAACourtGreatWitch\ProsecutorDesk.png" "ProsecutionDesk.png"
 ren "base\evidence\AAICastHuang.png" "AAI2CastHuang.png"
 rmdir "base\characters\Bonnie_and_Karin" /q /s
 
