@@ -15,5 +15,6 @@ rmdir "base\background\AJCourtSideW" /q /s
 rmdir "base\characters\Diane" /q /s
 
 del /S /Q base\characters\Trucy_Red\*.gif
+del /S /Q base\sounds\sfx-blip*.wav
 
 pause
