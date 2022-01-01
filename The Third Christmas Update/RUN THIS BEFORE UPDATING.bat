@@ -15,6 +15,12 @@ rmdir "base\background\AJCourtSideW" /q /s
 rmdir "base\characters\Diane" /q /s
 
 del /S /Q base\characters\Trucy_Red\*.gif
-del /S /Q base\sounds\sfx-blip*.wav
+del /S /Q base\sounds\general\sfx-blip*.wav
+del "base\sounds\music\[AOV] Contest C.opus"
+del "base\sounds\music\[AOV] Contest D.opus"
+del "base\sounds\music\[AOV] Contest E.opus"
+
+ren "base\sounds\music\[AOV] Contest A.opus" "[AOV] Contest D.opus"
+ren "base\sounds\music\[AOV] Contest B.opus" "[AOV] Contest E.opus"
 
 pause
