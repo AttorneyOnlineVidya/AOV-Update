@@ -12,6 +12,7 @@ del "base\evidence\AAI2Chess.png"
 rmdir "base\background\AJCourtSideJ" /q /s
 rmdir "base\background\AJCourtSideJW" /q /s
 rmdir "base\background\AJCourtSideW" /q /s
+rmdir "base\characters\Diane" /q /s
 
 del /S /Q base\characters\Trucy_Red\*.gif
 
