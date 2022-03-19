@@ -1,6 +1,25 @@
 {
   "launcher": { "version": "1.2.2"},
   "versions": [
+	  {
+	  "version": "aov-2022.3",
+	  "prev": "aov-2022.1",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/general/dmc-dantedamage.opus"},
+		{ "action": "delete", "target": "base/sounds/general/dmc-dante-damage.opus"},
+		{ "action": "delete", "target": "base/sounds/general/dmc-dantesgunaway.opus"},
+		{ "action": "delete", "target": "base/sounds/general/dmc-dantesgunspin-1.opus"},
+		{ "action": "delete", "target": "base/sounds/general/dmc-dantesgunspin-2.opus"},
+		{ "action": "delete", "target": "base/sounds/general/dmc-danteshots.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Hazama"},
+		{ "action": "deleteDir", "target": "base/characters/Battler_Ushiromiya"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2022/Finally,_An_Update.zip",
+		  "hash": "3aee273d93f7df11c4d70f71be4e1cd1f0bd48f7"
+		}
+	  ]
+	}, 
 	{
 	  "version": "aov-2022.1",
 	  "prev": "aov-2021.12-hotfix",
