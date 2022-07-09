@@ -141,4 +141,5 @@ del "base\evidence\DGStiara.png"
 del "base\evidence\DGSviola.png"
 del "base\evidence\DGSviola2.png"
 del "base\evidence\DGSwhip.png"
+rmdir "base\characters\Albert" /q /s
 pause
