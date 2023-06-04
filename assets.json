@@ -2,6 +2,54 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2023.6",
+	  "prev": "aov-2023.2",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Yujin"},
+		{ "action": "deleteDir", "target": "base/characters/Yujin_Co"},
+		{ "action": "deleteDir", "target": "base/characters/Yujin_Def"},
+		{ "action": "deleteDir", "target": "base/characters/Yujin_Suit"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2023/The_Friend_Update.zip",
+		  "hash": "8c7d4294df0e21c9cb643688ab3ba366badeb0fd"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2023.2",
+	  "prev": "aov-2022.11",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_GB"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_JP"},
+		{ "action": "deleteDir", "target": "base/characters/Altamont"},
+		{ "action": "deleteDir", "target": "base/characters/Jigoku"},
+		{ "action": "delete", "target": "base/sounds/music/[P4U] Margaret's Theme - The Sadistic Stud-Keeping Secretary.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2023/The_Singles_Awareness_Update.zip",
+		  "hash": "95074f5078498c5c32f4679f1fea47e8c2ae11b5"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2022.11",
+	  "prev": "aov-2022.9",
+	  "update": [
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{ "action": "deleteDir", "target": "base/characters/Enoch"},
+		{ "action": "deleteDir", "target": "base/characters/Barok"},
+		{ "action": "deleteDir", "target": "base/characters/Maurice"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2022/The_Update_Before_Christmas.zip",
+		  "hash": "e0c9114f7f7ba0335fb3684a01f0eba7365191df"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2022.9",
 	  "prev": "aov-2022.7",
 	  "update": [
