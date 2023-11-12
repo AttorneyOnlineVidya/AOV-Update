@@ -1,4 +1,4 @@
-# [THE FRIEND UPDATE]
+# [THE MARVELOUS UPDATE]
 
 The following characters have been added or recieved new emotes:
     * Phoenix
