@@ -2,6 +2,43 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2024.6",
+	  "prev": "aov-2023.11",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Angie"},
+		{ "action": "deleteDir", "target": "base/characters/Haori"},
+		{ "action": "deleteDir", "target": "base/characters/Judge"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_DD"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_PLvsAA_Edit"},
+		{ "action": "deleteDir", "target": "base/characters/Justine"},
+		{ "action": "deleteDir", "target": "base/characters/The_King"},
+		{ "action": "delete", "target": "base/characters/Jacques/holdit.wav"},
+		{ "action": "delete", "target": "base/characters/Jacques/Takethat.wav"},
+		{ "action": "delete", "target": "base/characters/Redd/reddcutin.apng"},
+		{ "action": "delete", "target": "base/characters/Redd/emotions/button_off.png"},
+		{ "action": "delete", "target": "base/characters/Redd/emotions/button_on.png"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2024/The_Smol_Fix_Update.zip",
+		  "hash": "f3622774faf1958995233a33ef55b0f1adfdf147"
+		}
+	  ]
+	},
+	{
+	  "version": "aov-2023.11",
+	  "prev": "aov-2023.6",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Sherlock"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2023/The_Marvelous_Update.zip",
+		  "hash": "0ce78a8b6e587a4ddc15d2ec545ead152edaa462"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2023.6",
 	  "prev": "aov-2023.2",
 	  "update": [
