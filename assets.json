@@ -24,6 +24,32 @@
 		  "hash": "f3622774faf1958995233a33ef55b0f1adfdf147"
 		}
 	  ]
+	  "full": [
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Basics.zip",
+		  "hash": "abdc8743449607b01ff3403e15f1c903cca89c0d"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Sounds.zip",
+		  "hash": "bf0a81b4645ec23b0644ce08ecd92c31ac39b22d"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Chars(0-C).zip",
+		  "hash": "608d98930bc9b39532a23dcdae635e2b25298cfb"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Chars(D-J).zip",
+		  "hash": "4918bef1937054e14575664ad4398133a735b123"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Chars(K-Q).zip",
+		  "hash": "3feda30a64ee98c42399cec6611474f2e21cc393"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Chars(R-Z).zip",
+		  "hash": "985ad1db6352e17e14995f38428ec7c43a6fd3f6"
+		}
+	  ]
 	},
 	{
 	  "version": "aov-2023.11",
