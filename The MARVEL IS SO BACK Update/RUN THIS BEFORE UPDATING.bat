@@ -33,6 +33,7 @@ del "base\characters\Manfred\emotions\button113_off.png" /s /q
 del "base\characters\Manfred\emotions\button113_on.png" /s /q
 del "base\sounds\general\drv3-nyahahaha.opus" /s /q
 del "base\sounds\general\drv3-uhoh.opus" /s /q
+del "base\sounds\general\drv3-confused.opus" /s /q
 del "base\sounds\music\[AOV] Contest A.mp3" /s /q
 del "base\sounds\music\[AOV] anime.opus" /s /q
 
