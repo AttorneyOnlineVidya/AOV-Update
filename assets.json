@@ -2,6 +2,55 @@
   "launcher": { "version": "1.2.2"},
   "versions": [
 	{
+	  "version": "aov-2024.7",
+	  "prev": "aov-2024.6",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Angel"},
+		{ "action": "deleteDir", "target": "base/characters/Angel Starr"},
+		{ "action": "deleteDir", "target": "base/characters/Judge_Bro"},
+		{ "action": "deleteDir", "target": "base/characters/Albert"},
+		{ "action": "deleteDir", "target": "base/background/AACourt"},
+		{ "action": "deleteDir", "target": "base/background/AJCourt"},
+		{ "action": "deleteDir", "target": "base/background/AAIEdgeworthOffice"},
+		{ "action": "deleteDir", "target": "base/background/AAICourtFlipped"},
+		{ "action": "deleteDir", "target": "base/background/AAICourtFlipped"},
+		{ "action": "deleteDir", "target": "base/background/AAIGatewaterLandStage"},
+		{ "action": "deleteDir", "target": "base/background/AAIGatewaterLandWildWest"},
+		{ "action": "delete", "target": "base/evidence/TWEWYCastSho.png"},
+		{ "action": "delete", "target": "base/evidence/SFCastQ.png"},
+		{ "action": "delete", "target": "base/evidence/HBCastHarvey.png"},
+		{ "action": "delete", "target": "base/evidence/DMCCastDante.png"},
+		{ "action": "delete", "target": "base/evidence/BBCastHazama.png"},
+		{ "action": "delete", "target": "base/evidence/AAmissle2.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/(a)witnormal.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(b)witnormal.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(a)witcocky.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(b)witcocky.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(a)witsmirk.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(b)witsmirk.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(a)witstun.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/(b)witstun.apng"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button10_off.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button10_on.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button11_off.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button11_on.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button12_off.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button12_on.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button113_off.png"},
+		{ "action": "delete", "target": "base/characters/Manfred/emotions/button113_on.png"},
+		{ "action": "delete", "target": "base/sounds/general/drv3-nyahahaha.opus"},
+		{ "action": "delete", "target": "base/sounds/general/drv3-uhoh.opus"},
+		{ "action": "delete", "target": "base/sounds/general/drv3-confused.opus"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] Contest A.mp3"},
+		{ "action": "delete", "target": "base/sounds/music/[AOV] anime.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2024/The_MARVEL_IS_SO_BACK_Update.zip",
+		  "hash": "194f5c6bfd1d2e094caea263ab20c023c17b5bf7"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2024.6",
 	  "prev": "aov-2023.11",
 	  "update": [
@@ -23,7 +72,7 @@
 		  "url": "https://s3.wasabisys.com/aov/Update/2024/The_Smol_Fix_Update.zip",
 		  "hash": "f3622774faf1958995233a33ef55b0f1adfdf147"
 		}
-	  ]
+	  ],
 	  "full": [
         { "action": "dl",
  		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/Basics.zip",

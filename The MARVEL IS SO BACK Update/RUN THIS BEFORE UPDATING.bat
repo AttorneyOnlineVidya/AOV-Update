@@ -9,9 +9,9 @@ rmdir "base\background\AAICourtFlipped" /s /q
 rmdir "base\background\AAICourtFlipped" /s /q
 rmdir "base\background\AAIGatewaterLandStage" /s /q
 rmdir "base\background\AAIGatewaterLandWildWest" /s /q
-ren "base\evidence\"TWEWYCastSho.png" "MiscCastSho.png" /s /q
+ren "base\evidence\TWEWYCastSho.png" "MiscCastSho.png" /s /q
 ren "base\evidence\SFCastQ.png" "MiscCastQ.png" /s /q
-ren "base\evidence\HBCastHarvey.png" "MisCastHarvey.png" /s /q
+ren "base\evidence\HBCastHarvey.png" "MiscCastHarvey.png" /s /q
 ren "base\evidence\DMCCastDante.png" "MiscCastDante.png" /s /q
 ren "base\evidence\BBCastHazama.png" "MiscCastHazama.png" /s /q
 del "base\evidence\AAmissle2.png" /s /q
