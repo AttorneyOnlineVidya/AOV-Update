@@ -2,7 +2,7 @@
   "versions": [
   	{
 	  "version": "aov-2.10.1",
-	  "prev": "aov-2.9.1 (Hotfix)",
+	  "prev": "aov-2.10",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
 	    {"action": "notice", "msg": "WARNING!\nThis client update fundementally changes the way themes work, and will be deleting and redownloading the following themes:\nAceAttorney, AceAttorney 2x, AOHD, AOHDDark, AOHDMini, AOHDMiniDark, AOHDUltra, AOHDUltraDark, AOV, default, FullChar, kfo, KFO 2x Theme, Tiniest, TiniestGM, TinyGM, Viewport\nPlease back up any personal modifications made to those themes before continuing, and contact the staff for information about adapting other themes."},
@@ -36,6 +36,18 @@
 		  "hash": "5d329b4f83735ed15cb57b51655c9dc1ffc92029"
 		}
 	   ]
+	},
+  	{
+	  "version": "aov-2.10",
+	  "prev": "aov-2.9.1 (Hotfix)",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.10.zip",
+		  "hash": "2a44e8674dc9ebdfbfe38d2687db8f7aebc3b1fb"
+		}
+	  ]
 	},
   	{
 	  "version": "aov-2.9.1 (Hotfix)",
