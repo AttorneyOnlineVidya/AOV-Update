@@ -162,6 +162,7 @@
     - name: '[OD] Cold Debate.opus'
     - name: '[IQ] A Grand Theory (Opening).opus'
     - name: '[IQ] A Grand Theory (Finale).opus'
+    - name: '[HVOB] Galvanized Logic.opus'
 - category: ===SUSPENSE===
   songs:
     - name: '[AA] Suspense.opus'
@@ -997,6 +998,8 @@
     - name: '[AOV] Contest C.opus'
     - name: '[AOV] Contest D.opus'
     - name: '[AOV] Contest E.opus'
+    - name: '[AOV] Halloween A.opus'
+    - name: '[AOV] Halloween B.opus'
     - name: '[Misc] Kangaroo Court.opus'
     - name: '[Misc] Mystery Skulls - Money.opus'
     - name: '[Misc] Record Scratch.opus'
