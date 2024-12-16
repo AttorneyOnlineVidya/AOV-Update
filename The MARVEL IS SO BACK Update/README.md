@@ -14,7 +14,7 @@ Content changes:
     * Added [HVOB] Galvanized Logic to the LOGIC category
     * Added custom textboxes per series, to be implemented with a later update
     * Updated the anime.opus
-    * Rotated in the missing Christmas contest winner track
+    * Rotated in the missing Christmas contest winner track and Halloween tracks.
 
 Content removals:
     * Removed a redundant and misspelled evidence piece
