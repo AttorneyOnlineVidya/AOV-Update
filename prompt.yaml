@@ -3,17 +3,18 @@ murder:
     - It's a murder taking place at ?{location}, but also ?{twist|1-5}
     - ?{person} has been murdered by ?{method}, but ?{twist|1-5}
     - ?{person} killed ?{person} via ?{method} at ?{location}, and it has the evidence ?{evidence|2-5}, but also ?{twist|1-3}
-    - It's a case about ?{crime}, but there's also murder involved, and ?{twist|1-3}
+    - It's a ?{method} case that police originally thought was a ?{method} case, but also ?{twist|1-3}
+    - It's a case about ?{crime}, but there's also murder involved, but ?{twist|1-3}
     
 class trial:
-    - Murder by ?{method}. The participants are ?{ultimate|4-16}. Also, ?{twist|1-3}.
+    - Murder by ?{method}. The participants are ?{ultimate|4-16}. Also, ?{twist|1-5}.
 asspull:
     - ?{twist}!
     - You thought that ?{twist}, but really ?{twist}!
     - The ?{cast|2} are actually ?{relationship}!
     - The real scene of the crime was actually ?{location}!
     - The ?{cast} is secretly a time traveler from ?{time period}!
-    - The ?{cast} is lying about who they are! 
+    - The ?{cast} is lying about who they are!  
     - The real killer is actually ?{character}!
     - The true murder method was actually ?{method}!
     - The body was moved via ?{vehicle}!
@@ -24,15 +25,19 @@ asspull:
     - This murder can't be possible unless ?{twist|1-2}!
     - This piece of evidence is the key to the case! [Presents ?{meme}]
     - The blood was actually ?{red}!
+    - The person on the stand is actually ?{person}!
+    - This piece of evidence was hiding ?{weapon} inside it!
+    - I will give the judge a ?{money} if they declare this case Not Guilty!
+    - The killer's name begins with a ?{letter}!
+    - I will end this case in ?{number} minutes!
+    - I've discovered ?{weapon} ?{modifier|1-2}!
     
 method:
     - stabbing by ?{point}
     - cutting by ?{blade}
-    - killed with ?{weapon}
     - strangulation/asphyxiation
     - shot with ?{gun}
     - bludgeoning by ?{bludgeon}
-    - hit-and-run by ?{vehicle}
     - ?{weird method}
 
 weird method:
@@ -42,12 +47,16 @@ weird method:
     - arson
     - poison
     - crushing
+    - overdose on ?{drugs}
+    - hit-and-run by ?{vehicle}
 
 twist:
     - the ?{cast|2} are ?{relationship|1-2}
     - the ?{cast} is secretly a ?{occupation}
     - the ?{cast} is a ?{occupation}
     - there's another victim
+    - there's ?{weapon} ?{modifier|1-3} on the scene
+    - there's ?{weapon} on the scene
     - ?{person} is also a victim
     - the murder takes place in a "locked room"
     - the murder takes place in an open space
@@ -58,6 +67,7 @@ twist:
     - it takes place in ?{time period}
     - it's related to a past case via the ?{cast|1-3}
     - it's related to a past case about ?{crime} via the ?{cast|1-3}
+    - it's related to the ?{case} incident
     - there's ?{drugs} involved
     - there's racism involved
     - there's politics involved
@@ -65,10 +75,9 @@ twist:
     - it's VERY anime
     - it's VERY serious
     - it's VERY NSFW
-    - murder method could be ?{method}
+    - the murder method could be ?{method}
     - it takes place at ?{location}
     - there's also ?{weapon|1-2%} on the scene
-    - there's ?{weapon} from ?{location} at the scene
     - the crime scene is nearby ?{location}
     - ?{person} is involved somehow
     - the murder took place ?{time}
@@ -81,9 +90,20 @@ twist:
     - the evidence ?{evidence} is involved somehow
     - the murder was a cover-up for ?{crime}
     - ?{character} is ?{status}
-    - there's ?{weapon} covered in ?{red}
-    - there's ?{weapon} that's also ?{weapon} at the scene
-
+    - ?{person} is ?{status}
+    - there's ?{animal} traces on the scene
+    - there's diplomatic tensions between ?{country|2-3}
+    - the body suffered ?{number} non-lethal stab wounds
+    
+modifier:
+    - covered in ?{red}
+    - with ?{character|1-3%}'s fingerprints
+    - that's also ?{weapon}
+    - with the initials ?{letter}.?{letter}.
+    - from ?{location}
+    - with traces of ?{drugs} on it
+    - made in ?{country}
+    - belonging to ?{character}
 occupation:
     - leader of ?{country}
     - student
@@ -99,6 +119,7 @@ occupation:
     - gamer
     - prostitute
     - drug dealer
+    - ?{drugs} dealer
     - artist
     - magician
     - assassin
@@ -140,6 +161,7 @@ occupation:
     - retard
     - ?{country} diplomat
     - owner of ?{location}
+    - ?{animal} trainer
     
 crime:
     - theft
@@ -160,12 +182,21 @@ crime:
     - kidnapping
     - dealing ?{drugs|1-2}
     - burglary
+    - insurance fraud
 status:
     - alive
     - dead
     - in a coma
+    - in critical condition
     - pretending to be ?{person}
     - hiding in ?{location}
+    - seeking asylum in ?{country}
+    - wounded by ?{weapon}
+    - missing
+    - sleeping
+    - trying to commit ?{crime}
+    - in the courtroom
+    - sleepwalking
 game:
     - football
     - soccer
@@ -193,6 +224,7 @@ red:
     - strawberry jam
     - red dye
     - ?{character}'s blood
+    - ketchup
 time:
     - in the morning
     - in the afternoon
@@ -480,7 +512,7 @@ name:
     - Hajime Hinata
     - Jack Black
     - Chad Thundercock
-    - Virgin Nobitchesasaurus
+    - Virgin Nobitchasaurus
 ultimate:
     - ?{name} the Ultimate ?{occupation}
 cast:
@@ -509,13 +541,21 @@ country:
     - Thaistralia
     - Hell
     - Long Florida
+    - Borginia
+    - Babahl
+    - Allebahst
+    - Zheng Fa
+    - Greater Minnesota
+    - Nippon
+    - space
+    - didney worl
+    - Hyrule
 
 location:
     - a fast food restaurant
     - a lake
     - a forest
     - a city park
-    - didney worl
     - an arcade
     - the courthouse
     - ?{name}'s house
@@ -545,6 +585,8 @@ location:
     - a road
     - a highway
     - a river
+    - a school
+    - the party room of ?{location}
     
 vehicle:
     - a car
@@ -558,6 +600,14 @@ vehicle:
     - a motorcycle
     - a van
     - a push-cart
+    - a U-boat
+    - a cable car
+    - a glider
+    - a rocket ship
+    - a tanker ship
+    - a unicycle
+    - a clown car
+    
 geometry:
     - square
     - rectangle
@@ -577,7 +627,7 @@ weapon:
     - ?{blade}
     - ?{bludgeon}
     - ?{gun}
-
+    - ?{weapon} ?{modifier}
 point:
     - a dagger
     - a rapier
@@ -587,6 +637,7 @@ point:
     - a broken bottle
     - a needle
     - a syringe filled with ?{drugs}
+    - a pen
 
 blade:
     - a sword
@@ -597,6 +648,10 @@ blade:
     - a steel-rimmed hat
     - a broken bottle
     - a kitchen knife
+    - a machete
+    - a cane sword
+    - a broadsword
+    - a longsword
 
 bludgeon:
     - a rock
@@ -616,6 +671,8 @@ bludgeon:
     - a club
     - a shovel
     - a plate
+    - a trophy
+    - a hammer
 cord:
     - corded
     - cordless
@@ -639,9 +696,15 @@ console:
     - Xbox One
     - Steam
 
+money:
+    - lupacoin
+    - brobuck
+    - dickdollar
+    - hintcoin
+    - dollar
+    - yen bill
 gun:
     - a gun
-    - a shovelgun
     - a pistol
     - a shotgun
     - a revolver
@@ -650,6 +713,29 @@ gun:
     - a cannon
     - a laser beam
     - a 105mm High-Explosive Anti-Tank Round
+    - a staple gun
+    - a pneumatic cannon
+    - several tiny guns
+animal:
+    - dog
+    - cat
+    - alpaca
+    - turtle
+    - orca
+    - lizard
+    - dragon
+    - horse
+    - lion
+    - elephant
+    - sheep
+    - fish
+    - parrot
+    - bird
+    - crow
+object:
+    - ?{meme}
+    - ?{animal}
+    - ?{weapon}
 meme:
     - half-eaten burger
     - blue ruby
@@ -659,6 +745,66 @@ meme:
     - turkey
     - jacket
     - dragon dildo
+    - shovelgun
+    - knifecopter
+    - fumo
+    - stuffed ?{animal}
+    - briefcase with one million ?{money}s
+    - U-boat
+    - time machine
+    
+case:
+    - DL-6
+    - SL-9
+    - SS-5
+    - IS-7
+    - UR-1
+    - ?{letter}?{letter}-?{number}
+letter:
+    - A
+    - B
+    - C
+    - D
+    - E
+    - F
+    - G
+    - H
+    - I
+    - J
+    - K
+    - L
+    - M
+    - N
+    - O
+    - P
+    - Q
+    - R
+    - S
+    - T
+    - U
+    - V
+    - W
+    - X
+    - Y
+    - Z
+
+number:
+    - 1
+    - 2
+    - 3
+    - 4
+    - 5
+    - 6
+    - 7
+    - 8
+    - 9
+    - 10
+    - 11
+    - 32
+    - 42
+    - 50
+    - 69
+    - 101
 evidence:
     - AAaffidavit.png
     - AAairtube.png

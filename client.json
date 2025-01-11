@@ -1,7 +1,58 @@
 {
   "versions": [
-  	{
-	  "version": "aov-2.10.1",
+  	{ "version": "aov-2.11",
+	  "prev": "aov-2.10.1",
+	  "executable": "Attorney_Online.exe",
+	  "update": [
+	    {"action": "notice", "msg": "WARNING!\nThis client update fundementally changes the way themes work, and will be deleting and redownloading the following themes:\nAceAttorney, AceAttorney 2x, AceAttorney DS, AOHD, AOHDDark, AOHDMini, AOHDMiniDark, AOHDUltra, AOHDUltraDark, AOV, default, FullChar, JTEpro2.8, JTEpro2.9, kfo, KFO 2x Theme, KFO 2x Widescreen, KFO qHD, KFO qHD Alt, Tiniest, TiniestGM, TinyGM, Viewport\nPlease back up any personal modifications made to those themes before continuing, and contact the staff for information about adapting other themes."},
+	    {"action": "delete", "target": "bassmidi.dll"},
+	    {"action": "delete", "target": "libEGL.dll"},
+	    {"action": "delete", "target": "libstdc++-6.dll"},
+	    {"action": "delete", "target": "libwinpthread-1.dll"},
+	    {"action": "delete", "target": "Qt5Core.dll"},
+	    {"action": "delete", "target": "Qt5Gui.dll"},
+	    {"action": "delete", "target": "Qt5Network.dll"},
+	    {"action": "delete", "target": "Qt5Svg.dll"},
+	    {"action": "delete", "target": "Qt5Websockets.dll"},
+	    {"action": "delete", "target": "Qt5Widgets.dll"},
+		{"action": "deleteDir", "target": "base/themes/AceAttorney"},
+	    {"action": "deleteDir", "target": "base/themes/AceAttorney 2x"},
+	    {"action": "deleteDir", "target": "base/themes/AceAttorney DS"},
+	    {"action": "deleteDir", "target": "base/themes/AOHD"},
+	    {"action": "deleteDir", "target": "base/themes/AOHDDark"},
+	    {"action": "deleteDir", "target": "base/themes/AOHDMini"},
+	    {"action": "deleteDir", "target": "base/themes/AOHDMiniDark"},
+	    {"action": "deleteDir", "target": "base/themes/AOHDUltra"},
+	    {"action": "deleteDir", "target": "base/themes/AOHDUltraDark"},
+	    {"action": "deleteDir", "target": "base/themes/AOV"},
+	    {"action": "deleteDir", "target": "base/themes/default"},
+	    {"action": "deleteDir", "target": "base/themes/FullChar"},
+	    {"action": "deleteDir", "target": "base/themes/JTEpro 2.8"},
+	    {"action": "deleteDir", "target": "base/themes/JTEpro 2.9"},
+	    {"action": "deleteDir", "target": "base/themes/kfo"},
+	    {"action": "deleteDir", "target": "base/themes/KFO 2x Theme"},
+	    {"action": "deleteDir", "target": "base/themes/KFO 2x Widescreen"},
+	    {"action": "deleteDir", "target": "base/themes/KFO qHD"},
+	    {"action": "deleteDir", "target": "base/themes/KFO qHD Alt"},
+	    {"action": "deleteDir", "target": "base/themes/Tiniest"},
+	    {"action": "deleteDir", "target": "base/themes/TiniestGM"},
+	    {"action": "deleteDir", "target": "base/themes/TinyGM"},
+	    {"action": "deleteDir", "target": "base/themes/Viewport"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.11.zip",
+		  "hash": "e6feb275a511a5a59e2eb6163488af93a6bc28c2"
+		}
+	  ],
+	  "full": [
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.11.zip",
+		  "hash": "e6feb275a511a5a59e2eb6163488af93a6bc28c2"
+		}
+	   ]
+	},
+  	{ "version": "aov-2.10.1",
 	  "prev": "aov-2.10",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
@@ -26,19 +77,18 @@
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.10.1.zip",
-		  "hash": "5d329b4f83735ed15cb57b51655c9dc1ffc92029"
+		  "hash": "302ba8dc6d956e019e801c36bc889c10038df138"
 		}
 	  ],
 	  "full": [
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Client/AOV_2.10.1.zip",
-		  "hash": "5d329b4f83735ed15cb57b51655c9dc1ffc92029"
+		  "hash": "302ba8dc6d956e019e801c36bc889c10038df138"
 		}
 	   ]
 	},
-  	{
-	  "version": "aov-2.10",
+  	{ "version": "aov-2.10",
 	  "prev": "aov-2.9.1 (Hotfix)",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
@@ -49,8 +99,7 @@
 		}
 	  ]
 	},
-  	{
-	  "version": "aov-2.9.1 (Hotfix)",
+  	{ "version": "aov-2.9.1 (Hotfix)",
 	  "prev": "aov-2.9.1",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
@@ -63,8 +112,7 @@
 		}
 	  ]
 	},
-  	{
-	  "version": "aov-2.9.1",
+  	{ "version": "aov-2.9.1",
 	  "prev": "aov-2.8.5.1 (Small CSS Theme)",
 	  "executable": "Attorney_Online.exe",
 	  "update": [
