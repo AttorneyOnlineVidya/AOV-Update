@@ -5,13 +5,13 @@ Botch fixes:
    * Fixes Judge_GB's shock emote.
 
 Content additions:
-    * Added the AAI collection arranged songs.
-    * Added the AAI collection menu theme.
-    * Added pearl emotes.
-    * Added Gumshoe's AAI flashback outfit.
-    * Added new effects.
-    * Badd's AAI2 mugshot has been added.
-    * Kay's injured mugshot has been added.
+   * Added the AAI collection arranged songs.
+   * Added the AAI collection menu theme.
+   * Added pearl emotes.
+   * Added Gumshoe's AAI flashback outfit.
+   * Added new effects.
+   * Badd's AAI2 mugshot has been added.
+   * Kay's injured mugshot has been added.
 
 The following characters have been added or recieved new emotes:
    * Pearl
@@ -40,6 +40,9 @@ Content changes:
    * DRCastAngie has been removed from evidence. Good riddance.
    * Several unused and duplicate music files have been removed.
    * Blaise/Excelsus have had their fan-made holdit/takethat deleted.
+
+Other:
+   * Updates prompt/gimp with some AAI-themed memes.
  
 BATCH FILE
   
