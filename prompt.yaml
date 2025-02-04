@@ -5,6 +5,10 @@ murder:
     - ?{person} killed ?{person} via ?{method} at ?{location}, and it has the evidence ?{evidence|2-5}, but also ?{twist|1-3}
     - It's a ?{method} case that police originally thought was a ?{method} case, but also ?{twist|1-3}
     - It's a case about ?{crime}, but there's also murder involved, but ?{twist|1-3}
+    - It's a ?{crime} investigation, but ?{name} was murdered as the investigators arrive.
+    - It's a murder investigation, but ?{cast} vanished under mysterious circumstances.
+    - It's a murder investigation, and ?{name}, your good friend, has been falsely accused!
+    - It's a ?{crime} investigation, and the ?{cast} is ?{status}!
     
 class trial:
     - Murder by ?{method}. The participants are ?{ultimate|4-16}. Also, ?{twist|1-5}.
