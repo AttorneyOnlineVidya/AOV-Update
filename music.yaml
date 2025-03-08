@@ -9,6 +9,7 @@
     - name: "[SoJ] Prelude (Khura'in).opus"
     - name: '[PLvsAA] Prelude (English).opus'
     - name: '[PLvsAA] Prelude.opus'
+    - name: '[AAIC] Title Screen - Search for the Truth.opus'
     - name: '[DGS] Prelude.opus'
     - name: '[DGS] Prelude to the Adventure.opus'
     - name: '[DGS2] Prelude.opus'
@@ -440,8 +441,6 @@
       length: 0
     - name: '[AAI2] Prologue - The Grand Turnabout.opus'
       length: 0
-    - name: '[AAIC] Title Screen - Search for the Truth.opus'
-      length: 0
     - name: '[PLvsAA] Opening Theme.opus'
     - name: '[DD] Prologue - Turnabout Countdown.opus'
       length: 0
@@ -803,7 +802,7 @@
     - name: "[DD] Simon Blackquill - Distorted Swordsmanship.opus"
     - name: "[15th] Simon Blackquill - Distorted Swordsmanship.opus"
     - name: '[AAI2] Simeon Saint - The Puppeteer of the Game.opus'
-    - name: '[AAI2] Bodhidharma Kanis - The Sound of One's Assassin.opus'
+    - name: "[AAI2] Bodhidharma Kanis - The Sound of One's Assassin.opus"
     - name: '[AA] The Blue Badger - I Want to Protect.opus'
     - name: '[AAI] Blue Badger March.opus'
     - name: '[AAI] Blue Badger March (Orchestral).opus'
