@@ -10,6 +10,9 @@
 		{ "action": "deleteDir", "target": "base/characters/Sebastian"},
 		{ "action": "deleteDir", "target": "base/characters/Simon"},
 		{ "action": "deleteDir", "target": "base/characters/Simon_Blackquill"},
+		{ "action": "deleteDir", "target": "base/characters/Simon_Blackquill_Co"},
+		{ "action": "deleteDir", "target": "base/characters/Simon_Blackquill_SOJ_Wit"},
+		{ "action": "deleteDir", "target": "base/characters/Simon_Blackquill_Wit"},
 		{ "action": "deleteDir", "target": "base/characters/Justine"},
 		{ "action": "deleteDir", "target": "base/characters/Raymond"},
 		{ "action": "deleteDir", "target": "base/characters/Raymond_Young"},
@@ -96,7 +99,7 @@
 		{
 		  "action": "dl",
 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Investigating_the_Update_2.zip",
-		  "hash": "22fb2929e11141de91bac5cbbeb2b71cd8485006"
+		  "hash": "c9bf1b294cf977e0909eb93e780b2d67472884a0"
 		}
 	  ]
 	},
