@@ -52,7 +52,7 @@ ren "base\sounds\music\[AAI2] Simon Keyes - The Man Who Masterminds The Game.opu
 ren "base\sounds\music\[AAI2] Sirhan Dogen - Tone of an Assassin.opus" "[AAI2] Bodhidharma Kanis - The Sound of One's Assassin.opus"
 ren "base\sounds\music\[MGS3] Horace Knightley - A Knight Protects His King.opus" "[MGS3] Bronco Knight - A Knight Protects His King.opus"
 ren "base\sounds\music\[15th] Justine Courtney - Goddess of Law.opus" "[15th] Verity Gavelle - Goddess of Justice.opus"
-ren "base\sounds\music\[15th] Raymond Shields - Joking Motive" "[15th] Eddie Fender - Wisecracking Candor.opus"
+ren "base\sounds\music\[15th] Raymond Shields - Joking Motive.opus" "[15th] Eddie Fender - Wisecracking Candor.opus"
 ren "base\sounds\music\[HnI] Jay Elbird - Chains Can't Hold a Champion Down" "[HnI] Rocco Carcerato - Chains Can't Hold a Champion Down.opus"
 
 ::Evidence
