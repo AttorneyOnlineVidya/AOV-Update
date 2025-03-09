@@ -42,6 +42,7 @@ ren "base\sounds\music\[AAI2] Jeffrey Master - Sweet Happiness.opus" "[AAI2] Sam
 ren "base\sounds\music\[AAI2] John Marsh - Pointed Age.opus" "[AAI2] Shaun Fenn - Bull-Headed Teenager.opus"
 ren "base\sounds\music\[AAI2] Justine Courtney - Goddess of Law.opus" "[AAI2] Verity Gavelle - Goddess of Justice.opus"
 ren "base\sounds\music\[AAI2] Katherine Hall - Sweet Dance.opus" "[AAI2] Judy Bound - Candied Dance.opus"
+ren "base\sounds\music\[AAI2] Katherine Hall - Sweet Dance.opus.txt" "[AAI2] Judy Bound - Candied Dance.opus.txt"
 ren "base\sounds\music\[AAI2] Patricia Roland - Hugs and Kisses.opus" "[AAI2] Fifi Laguarde - A Hug and a Smooch is Entirely de Rigeur.opus"
 ren "base\sounds\music\[AAI2] Raymond Shields - Joking Motive.opus" "[AAI2] Eddie Fender - Wisecracking Candor.opus"
 ren "base\sounds\music\[AAI2] Ringtone - Justine Courtney.opus" "[AAI2] Ringtone - Verity Gavelle.opus"
