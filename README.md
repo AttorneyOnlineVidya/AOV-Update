@@ -1,53 +1,55 @@
-# [INVESTIGATING THE UPDATE 2]
+# [There is Nothing in this Update]
 
-Botch fixes:
-   * Fixes effect sounds to use our custom ones.
-   * Fixes Judge_GB's shock emote.
+Fixes:
+   * Fixes a missing effect not being in the list.
+   * Improves the button layout of, and provides emote-specific shownames/blips for, Lamiroir/Machi.
+   * Cleans up April May's emote names and timings.
+   * Fixes lipflaps and sfx timings of Angel Starr.
+   * Fixes Ace's "thinking" emote so he doesn't slide to the right, cleans up his buttons, and condenses his ini.
+   * Reorders Zinc's emotes to a more sensible layout.
+   * Fixes Yuri's buttons to not leak around the corners.
+   * Fixes some timings and removes a redundant cutin from Wocky.
+   * Fixes the outline of one of Seven's preanims.
+   * Replaces the deskslam SFX of Archibald to be the juror one.
 
 Content additions:
-   * Added the AAI collection arranged songs.
-   * Added the AAI collection menu theme.
-   * Added pearl emotes.
-   * Added Gumshoe's AAI flashback outfit.
-   * Added new effects.
-   * Badd's AAI2 mugshot has been added.
-   * Kay's injured mugshot has been added.
+   * Updated \[AOV\] Anime.opus.
 
 The following characters have been added or recieved new emotes:
-   * Pearl
-   * Gumshoe_AAI_Young
-   * Phoenix_AAI
+   * Dzibilchaltunchunchucmil.
+   * The Wordsmith.
+   * Lettie.
+   * The Storyteller.
+   * Emeer.
+   * Hiyoko Saionji.
+   * Vera.
+   * Lynne.
 
 The following songs have been added to the jukebox:
-   * [AAI] Confrontation (Allegro - Arranged)
-   * [AAI] Confrontation (Presto - Arranged)
-   * [AAI] Objection! (Arranged)
-   * [AAI] Pursuit (Arranged)
-   * [AAI] Pursuit (Variation - Arranged)
-   * [AAI2] Confrontation (Allegro - Arranged)
-   * [AAI2] Confrontation (Presto - Arranged)
-   * [AAI2] Objection! (Arranged)
-   * [AAI2] Pursuit (Arranged)
-   * [AAI2] Pursuit (Variation - Arranged)
-   * [AAIC] Title Screen - Search for the Truth
+   * None, this time.
 
 Content changes:
-   * Phoenix_AAI has had his folder remade.
-   * Gumshoe_AAI has had his folder remade.
-   * Nearly every AAI2 character has had their names changed to the english versions in evidence, folders, and music names.
-   * The objections have been replaced for AAI2 characters with the official ones.
-   * Inferno Cop's evidence name has been changed to MiscCastInfernoCop.
-   * DRCastAngie has been removed from evidence. Good riddance.
-   * Several unused and duplicate music files have been removed.
-   * Blaise/Excelsus have had their fan-made holdit/takethat deleted.
+   * Apollo has had his folder remade.
+   * Vera has had her folder remade.
+   * Richard Wellington has had his folder remade.
+   * AJCourtTV has been merged with AJCourt.
 
 Other:
-   * Updates prompt/gimp with some AAI-themed memes.
+   * Ishimaru's polling has been put off, again.
  
 BATCH FILE
   
 Changes:
+N/A
 
 Removes:
-
-
+* base\\characters\\Apollo
+* base\\characters\\Vera
+* base\\characters\\Richard
+* base\\background\\AJCourtTV
+* base\\characters\\Ace\\Emotions\\button11_off.png
+* base\\characters\\Ace\\Emotions\\button11_on.png
+* base\\characters\\Ace\\Emotions\\button12_off.png
+* base\\characters\\Ace\\Emotions\\button12_on.png
+* base\\characters\\Wocky\\Emotions\\button20_off.png
+* base\\characters\\Wocky\\Emotions\\button20_on.png
