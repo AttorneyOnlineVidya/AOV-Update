@@ -27,19 +27,19 @@
 		  "hash": "6748fdab61e47031b2f8d6af998dafae76a2add2"
 		},
         { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/2_of_5(Characters_0-D).zip",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Full/2_of_5(Characters_0-D).zip",
 		  "hash": "eba85a735eb73bb7a822e4eaaa90bb7552af8adc"
 		},
         { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/3_of_5(Characters_E-J).zip",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Full/3_of_5(Characters_E-J).zip",
 		  "hash": "a409c967cf9f546199728fd5daaed8b839450470"
 		},
         { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/4_of_5(Characters_K-Q).zip",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Full/4_of_5(Characters_K-Q).zip",
 		  "hash": "3d28207b9a96628400547abe22f53c50fda5151e"
 		},
         { "action": "dl",
- 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/5_of_5(Characters_R-Z).zip",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Full/5_of_5(Characters_R-Z).zip",
 		  "hash": "ae27285c885b4e53446a168513598835b4828da5"
 		}
 	  ]
