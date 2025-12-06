@@ -1,7 +1,50 @@
 {
   "launcher": { "version": "1.2.2"},
   "versions": [
+	{
+	  "version": "aov-2025.12",
+	  "prev": "aov-2025.3",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Apollo"},
+		{ "action": "deleteDir", "target": "base/background/AJCourtTV"},
+		{ "action": "delete", "target": "base/characters/Ace/Emotions/button11_off.png"},
+		{ "action": "delete", "target": "base/characters/Ace/Emotions/button11_on.png"},
+		{ "action": "delete", "target": "base/characters/Ace/Emotions/button12_off.png"},
+		{ "action": "delete", "target": "base/characters/Ace/Emotions/button12_on.png"},
+		{ "action": "delete", "target": "base/characters/Wocky/Emotions/button20_off.png"},
+		{ "action": "delete", "target": "base/characters/Wocky/Emotions/button20_on.png"},
+		{ "action": "deleteDir", "target": "base/characters/Vera"},
+		{ "action": "deleteDir", "target": "base/characters/Richard"},
 		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2025/Ten_Years_of_Update.zip",
+		  "hash": "6798846130286e2f56b77ea00795bd86172128bd"
+		}
+	  ],
+	  "full": [
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2025/Full/1_of_5(Basics_and_Sounds).zip",
+		  "hash": "6748fdab61e47031b2f8d6af998dafae76a2add2"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/2_of_5(Characters_0-D).zip",
+		  "hash": "eba85a735eb73bb7a822e4eaaa90bb7552af8adc"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/3_of_5(Characters_E-J).zip",
+		  "hash": "a409c967cf9f546199728fd5daaed8b839450470"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/4_of_5(Characters_K-Q).zip",
+		  "hash": "3d28207b9a96628400547abe22f53c50fda5151e"
+		},
+        { "action": "dl",
+ 		  "url": "https://s3.wasabisys.com/aov/Update/2024/Full/5_of_5(Characters_R-Z).zip",
+		  "hash": "ae27285c885b4e53446a168513598835b4828da5"
+		}
+	  ]
+	},
+	{
 	  "version": "aov-2025.3",
 	  "prev": "aov-2024.7",
 	  "update": [
