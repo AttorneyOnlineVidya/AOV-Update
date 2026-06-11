@@ -46,4 +46,7 @@ Removes:
 * base\\characters\\Gumshoe
 * base\\characters\\Gumshoe_AAI
 * base\\characters\\Harvey
+* base\\characters\\Aigis
+* base\\characters\\Aigis_Visor
+* base\\characters\\Apollo_Pro
 * base\\sounds\\general\\sfx-bowl-foiled.opus
