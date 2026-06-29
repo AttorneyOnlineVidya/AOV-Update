@@ -1,6 +1,24 @@
 {
   "launcher": { "version": "1.2.2"},
   "versions": [
+  	{
+	  "version": "aov-2026.7",
+	  "prev": "aov-2025.12",
+	  "update": [
+		{ "action": "deleteDir", "target": "base/characters/Gumshoe"},
+		{ "action": "deleteDir", "target": "base/characters/Gumshoe_AAI"},
+		{ "action": "deleteDir", "target": "base/characters/Harvey"},
+		{ "action": "deleteDir", "target": "base/characters/Aigis"},
+		{ "action": "deleteDir", "target": "base/characters/Aigis_Visor"},
+		{ "action": "deleteDir", "target": "base/characters/Apollo_Pro"},
+		{ "action": "delete", "target": "base/sounds/general/sfx-bowl-foiled.opus"},
+		{
+		  "action": "dl",
+		  "url": "https://s3.wasabisys.com/aov/Update/2026/All_of_this,_and_yet_STILL_no_Update.zip",
+		  "hash": "191fae0b71ad347f8b9ac211cafac3b375d392f3"
+		}
+	  ]
+	},
 	{
 	  "version": "aov-2025.12",
 	  "prev": "aov-2025.3",
